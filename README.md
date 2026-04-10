@@ -1,9 +1,9 @@
-Ho verificato la repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma il tool che posso usare qui mi restituisce solo **metadati** (non i contenuti dei file), quindi al momento non posso leggere direttamente `README.md` (né `package.json`) per riscriverli “al volo”.
+Ho capito: **non posso leggere direttamente** `README.md` (né `package.json`) dai metadati disponibili.
 
-Per procedere, dimmi quale opzione scegli:
+Quindi dimmi quale opzione scegli:
 
 ### Opzione A) Incolla qui l’attuale `README.md`
-Incolla tutto il testo del tuo `README.md` e te lo restituisco migliorato (struttura, chiarezza, sezioni, comandi corretti, ecc.).
+Incolla tutto il testo del tuo `README.md` e te lo restituisco migliorato.
 
 **Oppure**
 

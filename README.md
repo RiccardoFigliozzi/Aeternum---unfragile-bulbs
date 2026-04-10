@@ -1,32 +1,26 @@
-Certo. Prima però: ho accesso solo ai metadati della repo (nome/licenza ecc.), quindi **non posso leggere direttamente l’attuale `README.md` né la sezione `scripts` di `package.json`**. Di conseguenza non posso rendere “al 100% preciso” ogni comando/stack.
+Ecco una versione migliorata e “pronta da sostituire” del `README.md` (Italiano, stile pulito, sezioni complete). **Non posso ancora renderla 100% precisa sui comandi** senza leggere `package.json` (in particolare `"scripts"`), quindi ho lasciato solo le parti che probabilmente vanno confermate da quel file (URL dev, eventuale `start`, eventuali test script, ecc.).
 
-Qui sotto trovi un **README.md migliorato e già “sostituibile”** (Italiano + npm) con testo più pulito, sezioni complete e pochi punti lasciati da verificare.
-
-> Se mi incolli anche **solo la sezione `"scripts"` di `package.json`** (o tutto `package.json`), te lo rendo perfettamente accurato al 100%.
-
----
-
-## README.md (versione migliorata, ready-to-replace)
+> Se vuoi, incolla qui la sezione `"scripts"` di `package.json` e te lo adatto al 100% (con gli script esatti).
 
 ```markdown
 # Aeternum — Unfragile Bulbs
 
 Un progetto JavaScript rilasciato con licenza **MIT**.  
-*(Breve descrizione: 1–2 frasi su cosa fa l’app e qual è il suo obiettivo.)*
+*(Aggiungi qui 1–2 frasi che descrivano cosa fa l’app e qual è il suo obiettivo.)*
 
 ## Caratteristiche
 
-- *(Aggiungi 2–4 punti: es. “Interfaccia web”, “Interazione con dati/risorse”, “Modalità dev/produzione”, ecc.)*
-- *(Se presenti: aggiungi anche feature principali.)*
+- *(Descrivi 2–4 punti: es. interfaccia web, gestione asset/dati, modalità dev/prod, ecc.)*
+- *(Aggiungi eventuali feature principali.)*
 
 ## Stack
 
 - **Linguaggio:** JavaScript
-- **Tool/Framework:** *(da confermare: es. Node + Vite / React / Next / ecc.)*
+- **Librerie/Framework:** *(da confermare in base a package.json — es. Vite/React/Next, ecc.)*
 
 ## Prerequisiti
 
-- **Node.js:** *(consigliato: Node 18+ — da confermare se nel progetto è indicata una versione minima)*
+- **Node.js:** *(consigliato Node 18+ — da confermare se indicato nel progetto)*
 - **Package manager:** npm *(oppure yarn/pnpm — da confermare)*
 
 ## Installazione
@@ -41,7 +35,7 @@ npm install
 npm run dev
 ```
 
-Apri nel browser l’URL indicato in console (spesso `http://localhost:5173` o `http://localhost:3000`).  
+Apri nel browser l’URL indicato in console (tipicamente `http://localhost:5173` o `http://localhost:3000`).  
 *(Confermare l’URL esatto.)*
 
 ## Build (Produzione)
@@ -56,7 +50,7 @@ Se previsto dal progetto, avvia il server di produzione con:
 npm run start
 ```
 
-> Nota: se `start` **non esiste** nel tuo `package.json`, rimuovi la riga sopra o dimmelo e la adatto.
+> Nota: se `start` **non** esiste nel tuo `package.json`, rimuovi questa sezione o dimmelo e la adatto.
 
 ## Test
 
@@ -64,18 +58,17 @@ npm run start
 npm test
 ```
 
-*(Se nel progetto esistono script diversi: es. `test:unit`, `test:e2e`, ecc., aggiornali.)*
+*(Se nel progetto esistono script alternativi come `test:unit`, `test:e2e`, ecc., vanno indicati qui.)*
 
-## Configurazione
+## Configurazione (se presente)
 
-Se l’app usa variabili d’ambiente, di solito si gestiscono tramite file `.env`.
+Se l’app usa variabili d’ambiente, spesso vengono gestite tramite file `.env`.
 
-- Esempio variabili:  
+- Variabili tipiche:  
   - `NODE_ENV`
-  - `API_URL`
   - *(altre — da confermare)*
 
-Se nel repository è presente un file template (es. `.env.example`), documenta anche:
+Se esiste un file template (es. `.env.example`), aggiungi anche:
 1. come copiarlo in `.env`
 2. quali variabili sono obbligatorie
 
@@ -86,11 +79,10 @@ Gli script presenti in `package.json` *(da confermare/aggiornare se necessario)*
 - `dev`: `npm run dev`
 - `build`: `npm run build`
 - `test`: `npm test`
-- `install`: `npm install`
+
+*(Se esistono altri script utili, includili qui.)*
 
 ## Contribuire
-
-I contributi sono benvenuti! In generale:
 
 1. apri una issue per discutere la modifica
 2. crea una branch
@@ -102,11 +94,7 @@ Questo progetto è rilasciato con licenza **MIT**.
 Vedi il file [LICENSE](LICENSE) per i dettagli.
 ```
 
----
+Vuoi che lo renda **perfettamente accurato**? Incollami qui solo:
+- la sezione `"scripts"` di `package.json`
 
-### Per renderlo preciso al 100%
-Incollami qui **solo** la sezione:
-
-- `package.json` → `"scripts"` (basta quella)
-
-e dimmi anche se preferisci **Italiano o Inglese** e se usi **npm/yarn/pnpm** (ora l’ho scritto per **npm**).
+e dimmi anche se preferisci **Italiano** o **Inglese** (ora è in Italiano).

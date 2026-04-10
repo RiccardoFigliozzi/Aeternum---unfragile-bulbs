@@ -1,11 +1,9 @@
-Perfetto. Però per poter migliorare davvero il `README.md` ho bisogno che tu mi incolli i due contenuti richiesti (altrimenti non posso “vedere” i file del repository).
+Non riesco ancora a procedere perché, tramite lo strumento **Repository**, al momento non mi sono stati forniti i contenuti testuali dei file (quindi non posso leggere né `package.json` né `README.md`).
 
-Al momento posso solo ricavare metadati della repo, non il testo dei file.
-
-Incolla qui, quindi:
+Per poterti fare un miglioramento reale del `README.md`, incollami qui:
 
 1) **La sezione `scripts` di `package.json`** (solo quella)  
-2) **L’attuale `README.md` completo** (tutto il file, copiato e incollato)  
-3) **Lingua desiderata** per il nuovo README: **Italiano** oppure **Inglese**
+2) **L’attuale `README.md` completo** (incolla tutto il file, identico)  
+3) **Lingua desiderata**: **Italiano** oppure **Inglese**
 
-Appena mi incolli (1) + (2) e la lingua, ti preparo il nuovo `README.md` completo pronto da sostituire.
+Appena mi incolli (1) + (2) + la lingua, ti preparo subito il nuovo `README.md` completo pronto da sostituire.

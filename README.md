@@ -1,8 +1,8 @@
-Non riesco ancora a “migliorare il README.md” in modo affidabile perché, al momento, non ho accesso al contenuto attuale del file `README.md` né alla sezione `scripts` del `package.json`: l’unico tool disponibile (“Repository”) mi restituisce solo i metadati del repo, non i file.
+Non riesco a migliorare in modo affidabile il `README.md` perché, tramite lo strumento disponibile (“Repository”), ottengo solo i metadati del repo (es. nome, descrizione, licenza, ecc.), **non il contenuto dei file** del repository (quindi non posso leggere né l’attuale `README.md` né la sezione `scripts` del `package.json`).
 
-Per procedere subito e restituirti **una versione completa pronta da incollare** in `README.md`, incollami qui:
+Per procedere subito come avevi chiesto, incollami qui:
 
-1) **Il contenuto attuale di `README.md`** (anche solo la parte principale, ma meglio tutto)  
-2) La sezione **`scripts`** del tuo **`package.json`** (solo quella)
+1) **Contenuto attuale di `README.md`** (meglio tutto)  
+2) **Solo la sezione `scripts`** del tuo `package.json`
 
-Appena li ricevo, ti restituisco immediatamente una nuova versione migliorata e coerente con i comandi reali del progetto.
+Appena li ricevo, ti restituisco una **versione completa pronta da incollare** nel file `README.md`.

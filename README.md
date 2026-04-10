@@ -1,14 +1,7 @@
-Al momento lo strumento **Repository** che ho a disposizione sta restituendo **solo metadati della repo** (nome, license, permessi, ecc.) e **non**:
-1) il contenuto testuale attuale di `README.md`
-2) la sezione `"scripts"` di `package.json`
+Al momento non riesco a leggere il contenuto del `README.md` né la sezione `"scripts"` di `package.json` usando lo strumento disponibile: ritorna solo metadati della repository (nome, license, permessi, ecc.), quindi non ho i testi reali da cui partire per “migliorare” il README.
 
-Quindi **non posso incollarti** qui quei due estratti né, di conseguenza, preparare un nuovo `README.md` “pronto da copiare” basandomi sul contenuto reale del progetto.
-
-### Per sbloccarti subito
-Incolla qui tu (anche in due messaggi distinti):
+Per sbloccarti subito, incolla qui tu:
 1) **contenuto integrale di `README.md`**
-2) **solo la sezione `"scripts"` di `package.json`** (tipo: `"scripts": { ... }`)
+2) **solo** la sezione `"scripts"` di `package.json` (formato ` "scripts": { ... } `)
 
-Appena li ricevo, ti:
-- propongo una versione migliorata e più chiara,
-- te la restituisco **completa in formato README.md** pronta da copiare e incollare.
+Appena li ricevo ti restituisco **un README.md completo e pronto da copiare/incollare**.

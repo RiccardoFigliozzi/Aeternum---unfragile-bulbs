@@ -1,32 +1,32 @@
-Ecco una versione migliorata (più scorrevole, strutturata e “project-ready”) del tuo `README.md`, mantenendo la stessa impostazione **high-level** e senza introdurre dettagli non verificati dal repository:
+Ecco una versione migliorata e più “project-ready” del tuo `README.md`, mantenendo la stessa impostazione **high-level** e senza introdurre dettagli non verificati dal repository.
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illuminazione pensate per durare nel tempo, aumentando **affidabilità** e **longevità** e riducendo al contempo **manutenzione** e **sostituzioni**.
+Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è volutamente **high-level** finché non verrà verificata la struttura reale del repository (cartelle/file, presenza di `package.json`, script di build/test, ecc.).
+> Nota: questo README è volutamente **high-level** fino a quando non verrà verificata la struttura reale del repository (es. cartelle/file presenti, presenza di `package.json`, script di build/test, ecc.).
 
 ---
 
 ## Obiettivi
 
-**Unfragile Bulbs** mira a ridurre guasti e interventi lungo l’intero ciclo di vita tramite un approccio orientato a:
+**Unfragile Bulbs** vuole ridurre guasti e interventi lungo tutto il ciclo di vita, adottando un approccio focalizzato su:
 
-- **Affidabilità**: riduzione della probabilità di guasti nel tempo
-- **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali
-- **Riduzione della manutenzione**: meno interventi e sostituzioni più rare
-- **Impatto ambientale**: meno rifiuti grazie a maggiore durata
-- **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile
+- **Affidabilità**: riduzione della probabilità di guasti nel tempo  
+- **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali  
+- **Riduzione della manutenzione**: meno interventi e sostituzioni più rare  
+- **Impatto ambientale**: meno rifiuti grazie a maggiore durata  
+- **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile  
 
 ---
 
 ## Visione (approccio generale)
 
-La visione è **multi-livello**: l’idea è combinare più componenti e/o strategie (hardware e/o software) per:
+La visione è **multi-livello**: l’idea è combinare più componenti e/o strategie (**hardware** e/o **software**) per:
 
-- migliorare la robustezza e la qualità complessiva
+- aumentare la robustezza e la qualità complessiva
 - rendere più stabile il comportamento nel tempo
 - (se pertinente) raccogliere evidenze/dati per validare e iterare le scelte
 
@@ -35,7 +35,7 @@ La visione è **multi-livello**: l’idea è combinare più componenti e/o strat
 ## Stato del progetto
 
 Questa sezione verrà aggiornata man mano che il progetto evolve.  
-Ad oggi, il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
+Per ora, il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
 
@@ -43,7 +43,7 @@ Ad oggi, il focus è su **intento**, **direzione** e **criteri generali**, evita
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena verificata la struttura del repo (tool/framework e configurazioni), questa sezione potrà diventare più specifica.
+> Appena verificata la struttura del repository (tool/framework e configurazioni), questa sezione potrà diventare più specifica.
 
 ---
 
@@ -69,7 +69,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso anche aggiungere sezioni più concrete (stile, workflow, convenzioni commit e criteri di test) dopo aver verificato gli strumenti presenti nel repository.
+Se vuoi, posso anche aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione e avvio**, workflow) dopo aver verificato gli strumenti presenti nel repository.
 
 ---
 
@@ -89,4 +89,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se vuoi, posso anche prepararti una versione con ulteriori sezioni tipo **“Struttura del progetto”** e **“Installazione e avvio”**: mi basta che tu incolli output di `ls` e `tree -L 2` (o che abiliti la lettura della struttura tramite tool).
+Se mi autorizzi, posso anche proporti una seconda variante con una sezione aggiuntiva tipo **“Struttura del progetto”** e **“Installazione e avvio”**, ma solo dopo aver verificato la repository structure (cartelle/file e presenza di tool di build).

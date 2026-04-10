@@ -1,9 +1,11 @@
-Non riesco ancora ad ottenere il **contenuto dei file** (come `README.md` e `package.json`), quindi al momento **non posso riscriverli correttamente**.
+Non posso ancora procedere: con lo strumento `Repository` non mi viene restituito il **contenuto dei file** (`README.md` e `package.json`), ma solo i metadati della repository. Quindi non posso incollare qui:
 
-Per sbloccare la richiesta, incolla qui (testo *esatto*):
+1) il **testo esatto** attuale di `README.md`  
+2) la sezione `"scripts"` di `package.json`
 
-1) **Contenuto completo attuale di `README.md`**  
-2) **Sezione `"scripts"` di `package.json`**  
-3) Preferenza lingua: **Italiano** o **Inglese**
+Per sbloccare, puoi incollarmi tu (copiaincolla) direttamente qui:
+- **Contenuto completo attuale di `README.md`**
+- **Sezione `"scripts"` di `package.json`** (solo quella, ma testo esatto)
+- Preferenza: **Italiano** o **Inglese**
 
-Appena me li mandi, ti restituisco direttamente un **README.md professionale completamente riscritto**, pronto da sostituire.
+Appena me li invii, ti restituisco un **README.md professionale completamente riscritto** pronto da sostituire.

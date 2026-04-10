@@ -1,23 +1,14 @@
-Ho provato a leggere i file tramite il tool **Repository**, ma al momento il tool mi restituisce **solo metadati della repository** e non il contenuto testuale di `README.md` / `package.json`. Quindi non posso “migliorare il README” senza che tu mi incolli il contenuto attuale (o almeno le parti chiave).
+Ho trovato la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma al momento il tool che ho a disposizione mi sta restituendo **solo metadati** (non il testo di `README.md` e non `package.json`). Quindi non posso ancora “migliorare il contenuto” senza vedere l’attuale README.
 
-Per procedere, scegli una delle 2 opzioni:
+Per procedere, incolla qui (come da tua opzione):
 
-### Opzione 1 (più completa)
-Incolla qui:
-- `README.md` (tutto)
-- `package.json` almeno la sezione `"scripts"` (e eventuali campi tipo `engines`, `proxy`, ecc.)
+1) **Tutto il `README.md`**  
+2) La sezione **`"scripts"`** di **`package.json`** (va bene anche solo quella; se ci sono campi extra utili tipo `engines`, `proxy`, ecc. aggiungili pure)
 
-Io ti restituisco subito una versione migliorata del README + sezione **Build/Run** con comandi corretti.
+Inoltre dimmi al volo:
+- è un progetto **front-end** (Vite/React/Next) o **server** (Node/Express)?
+- preferisci i comandi in **npm** / **yarn** / **pnpm**?
 
-### Opzione 2 (se ti va più veloce)
-Incolla qui:
-- tutto il `README.md`
-- e la sezione `"scripts"` di `package.json`
-
----
-
-### Due domande rapide (per farlo giusto)
-1) Il progetto è **front-end** (es. React/Vite/Next) o **server** (Node/Express)?
-2) Vuoi che i comandi siano per **npm**, **yarn** o **pnpm**?
-
-Incolla `README.md` + `"scripts"` di `package.json` e parto subito.
+Appena mi incolli quei contenuti, ti restituisco subito:
+- una versione migliorata del README
+- sezione **Build/Run** con comandi corretti per quel tipo di progetto e per il package manager scelto.

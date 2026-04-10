@@ -1,27 +1,33 @@
-Certo! Ho trovato la repo **`RiccardoFigliozzi/Aeternum---unfragile-bulbs`**, ma al momento non ho a disposizione (tramite i tool in chat) la lettura dei file interni (es. `package.json`, struttura cartelle, contenuto sorgente). Quindi non posso ancora descrivere *con precisione* cosa fa “concretamente” il progetto né verificare i comandi reali (`dev/build/test`).
+Perfetto — ho recuperato la repository **`RiccardoFigliozzi/Aeternum---unfragile-bulbs`**. Con i soli tool disponibili in chat, però, non mi è attualmente possibile leggere direttamente i file interni (tipo `README.md` attuale, `package.json`, struttura cartelle, ecc.). Quindi non posso ancora adattare il README ai **comandi reali** e alla **descrizione precisa** del progetto.
 
-Nel frattempo ti lascio una **versione migliorata e “pronta da copiare”** del README, più strutturata e pulita, con punti “da completare” al minimo indispensabile. Appena mi incolli `package.json` (e/o `tree` delle cartelle) la rendo 100% aderente al progetto.
+Detto questo, posso comunque migliorare subito il README rendendolo più chiaro, completo e “pronto” da rifinire appena mi incolli `package.json` (e se vuoi anche `tree`).
 
----
+Incolla qui:
+1) il contenuto di **`package.json`**  
+2) (facoltativo) l’output di **`tree -L 2`** oppure l’elenco delle cartelle principali
 
-## ✅ Nuovo `README.md` (versione migliorata)
+…e poi ti restituisco una versione 100% aderente.
+
+Intanto, qui sotto trovi una **versione migliorata** (pulita e pronta da usare) che aggiorna la tua bozza, mantenendo i punti da completare minimi.
 
 ```md
 # Aeternum — Unfragile Bulbs
 
-Un progetto per esplorare e allenare lo sviluppo del codice e l’organizzazione del progetto.
-*(Descrizione da completare: aggiungi qui cosa fa l’app in 1-2 frasi concrete.)*
+Un progetto JavaScript per esplorare e allenare lo sviluppo del codice e l’organizzazione del repository.
+
+> **Da completare (1-2 frasi):** descrivi qui cosa fa “concretamente” l’app (es. “serve per …”, “permette di …”, “include …”).
 
 ## Caratteristiche
-- Progetto in **JavaScript**
+- Linguaggio: **JavaScript**
 - Struttura pensata per essere estendibile
-- (Da completare) Funzionalità principali: `...`
+- (Da completare) Funzionalità principali:
+  - `...`
 
 ## Prerequisiti
-- Node.js (consigliata versione LTS)
+- Node.js (consigliata versione **LTS**)
 - npm (o yarn/pnpm)
 
-## 🚀 Installazione e avvio
+## Installazione e avvio
 
 1. Clona la repository
    ```bash
@@ -42,46 +48,39 @@ Un progetto per esplorare e allenare lo sviluppo del codice e l’organizzazione
    ```bash
    npm run dev
    ```
-   Se non esiste, prova:
+   Se `dev` non esiste, prova:
    ```bash
    npm start
    ```
 
-> Nota: i comandi possono variare in base a come è configurato il progetto.
-> Se mi incolli il contenuto del tuo `package.json`, aggiorno README con comandi esatti (dev/build/test).
+> Nota: i comandi possono variare in base a come è configurato il progetto.  
+> **Appena mi incolli `package.json` aggiornerò questa sezione con comandi esatti (dev/build/test).**
 
-## 🛠️ Comandi utili
+## Comandi utili
 - **Sviluppo:** `npm run dev`
-- **Build:** `npm run build` *(se presente)*
-- **Test:** `npm test` *(se presente)*
+- **Build:** `npm run build` *(se presente in `package.json`)*
+- **Test:** `npm test` *(se presente in `package.json`)*
 
-## 📁 Struttura (opzionale)
-Puoi aggiungere qui una breve guida alla struttura delle cartelle, ad esempio:
+## Struttura (opzionale)
+(Se vuoi, incolla qui una breve guida. Esempio:)
 - `src/` — codice sorgente
 - `public/` — risorse statiche
 - `...`
 
-## 📄 Contribuire
-Se vuoi contribuire:
-1. apri una Issue per discutere l’idea o la modifica
-2. crea una Pull Request con una descrizione chiara di cosa hai cambiato
+## Contribuire
+1. Apri una **Issue** per discutere modifiche/feature
+2. Crea una **Pull Request** con una descrizione chiara di cosa hai cambiato
 
-Linee guida suggerite (opzionali):
+Linee guida suggerite:
 - mantieni il codice leggibile
 - aggiorna test e documentazione se applicabile
 
-## 🧾 Licenza
+## Licenza
 Questo progetto è rilasciato con licenza **MIT**.
 ```
 
----
-
-### Per renderlo “perfetto” (descrizione reale + comandi corretti)
-Incollami qui:
-1. il contenuto di `package.json`
-2. (facoltativo) l’output di `tree` oppure l’elenco cartelle principali (es. `src/`, `public/`, ecc.)
-
-e aggiorno README con:
-- descrizione precisa di cosa fa il progetto
-- sezione “Come funziona” / “Demo” (se c’è)
-- comandi esatti per `dev`, `build`, `test` e variabili d’ambiente (se presenti).
+Quando mi incolli **`package.json`**, lo adeguo con:
+- descrizione reale del progetto (basata su entry point e script)
+- sezione “Come funziona” (se c’è un comportamento evidente)
+- comandi esatti per `dev`, `build`, `test`
+- eventuali variabili d’ambiente da impostare

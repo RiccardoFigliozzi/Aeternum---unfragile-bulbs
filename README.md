@@ -1,10 +1,9 @@
-Certo! Però per riscrivere **README.md** “pronto da sostituire” mi servono le 3 informazioni che mi hai chiesto di incollarti (in particolare **il testo attuale completo di README.md** e la sezione **`"scripts"`** di `package.json`).
+Ho recuperato la repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma il tool che ho a disposizione in questo momento mi restituisce solo metadati della repository: **non il contenuto dei file** (quindi non posso ancora leggere automaticamente `README.md` e `package.json` per riscriverli).
 
-⚠️ Dalla sola chiamata che ho fatto non riesco ancora a recuperare direttamente il contenuto dei file (README e `package.json`) per copiarlo qui esattamente.
+Per poter “migliorare il contenuto del README.md” in modo corretto e pronto da sostituire, incollami qui:
 
-### Per favore incolla qui (copiando/incollando esattamente):
-1) **Sezione `"scripts"`** di `package.json` (esattamente com’è)  
-2) **Contenuto completo attuale** di `README.md`  
-3) **Lingua preferita**: **Italiano** o **Inglese**
+1) **Contenuto completo attuale di `README.md`** (testo esatto)  
+2) **Sezione `"scripts"` di `package.json`** (testo esatto)  
+3) Preferenza lingua: **Italiano** o **Inglese**
 
-Appena me li mandi, ti restituisco subito un **README.md completamente riscritto, professionale e pronto da sostituire**.
+Appena me li mandi, ti restituisco direttamente un **README.md completamente riscritto e professionale**.

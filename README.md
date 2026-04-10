@@ -1,70 +1,20 @@
-Non riesco a leggere/ottenere direttamente il contenuto attuale di `README.md` con lo strumento a disposizione (attualmente vedo solo i metadati della repo: `description: null`, language: JavaScript, licenza: MIT). Per migliorare *davvero* il README “in modo preciso” mi serve uno di questi:
+Ho provato a recuperare i contenuti della repo con lo strumento disponibile, ma posso vedere solo i **metadati** (es. nome repo, language JavaScript, licenza MIT, ecc.) e **non riesco ad aprire/leggere direttamente i file** come `README.md` o `package.json`. Di conseguenza non posso rigenerare il README “in modo esatto” senza i dettagli richiesti.
 
-1) **Incolla qui il contenuto attuale completo** di `README.md`, oppure  
-2) Rispondi a queste **3 domande rapide**:
-- **Cosa fa Aeternum**? (1–2 frasi)
-- **Stack**: è solo Node? Usa Express? React? altro?
-- **Comandi**: quali ci sono in `package.json`? (almeno `npm start` e se esistono `npm test` / `npm run build`)
+Per procedere, scegli una delle due opzioni:
 
-Nel frattempo, se vuoi, puoi anche usare subito questa versione “pronta” (poi la rendo perfetta appena mi dai i dettagli reali):
+## 1) Incolla qui il contenuto attuale completo di `README.md`
+Incolla tutto il testo: lo riscrivo e lo miglioro mantenendo coerenza e sezioni.
 
-```md
-# Aeternum — Unfragile Bulbs
+**Oppure**
 
-## Panoramica
-**Aeternum — Unfragile Bulbs** è un progetto in **JavaScript** che [descrivi qui in 1–2 frasi: obiettivo e cosa produce].  
-L’esperienza mira a [visualizzare/simulare/gestire/ottimizzare …], con un focus su [tema o meccanica principale].
+## 2) Rispondi alle 3 domande rapide (minimo indispensabile)
+1. **Cosa fa Aeternum?** (1–2 frasi)
+2. **Stack:** è solo Node? Usa Express? React? altro?
+3. **Comandi:** quali ci sono in `package.json`? (almeno `npm start` e se esistono `npm test` / `npm run build`)
 
-## Funzionalità
-- [ ] [Funzionalità principale #1]
-- [ ] [Funzionalità principale #2]
-- [ ] [Funzionalità principale #3]
-- [ ] [Feature/integrazione extra, se presente]
+Appena mi dai questi dettagli, ti preparo una versione migliorata del `README.md` con:
+- sezioni corrette e coerenti col progetto,
+- comandi esatti,
+- (se ha senso) roadmap e guida rapida per avviare/testare/buildare.
 
-## Tecnologie
-- **JavaScript**
-- [ ] [Node.js / Express / React / Vite / Jest / altro, se presenti]
-
-## Prerequisiti
-- **Node.js** (consigliata versione **LTS**)
-- **npm**
-
-## Installazione
-```bash
-npm install
-```
-
-## Avvio del progetto
-```bash
-npm start
-```
-
-> URL/porta (se applicabile): `http://localhost:[PORT]`  
-> Variabili d’ambiente (se applicabile): `cp .env.example .env`
-
-## Test e build
-Se presenti nello repository:
-```bash
-npm test
-```
-
-```bash
-npm run build
-```
-
-## Struttura del progetto (indicativa)
-- `src/` — codice sorgente
-- `public/` — risorse statiche (se presenti)
-- `[altra cartella]` — [cosa contiene]
-
-## Contribuire
-1. Fai un fork della repository
-2. Crea un branch: `git checkout -b feature/nome-feature`
-3. Commit: `git commit -m "Aggiunge ..."`
-4. Apri una Pull Request
-
-## Licenza
-Questo progetto è rilasciato con **licenza MIT**. Vedi il file `LICENSE` per i dettagli.
-```
-
-Incollami il `README.md` attuale (punto 1) oppure dimmi i 3 dettagli (punto 2) e te lo rigenero in modo esatto: sezioni, comandi corretti, descrizione coerente col progetto e, se serve, anche una “Roadmap”.
+Vuoi incollare il README attuale o preferisci rispondere alle 3 domande?

@@ -1,13 +1,9 @@
-Ho provato a usare il tool **Repository**, ma come hai già intuito **non posso ottenere direttamente il contenuto testuale dei file** (README.md e `package.json`), solo metadati della repository.
-
-Dunque, in questo momento **non posso incollare qui**:
+Posso aiutarti a migliorare il `README.md`, ma con lo strumento **Repository** che ho a disposizione posso ottenere **solo metadati** della repo (non il testo dei file), quindi **non riesco a recuperare né:**
 1) il contenuto attuale di `README.md`
 2) la sezione esatta `"scripts": { ... }` di `package.json`
 
-Per sbloccarci: per favore incolla tu qui
-- **il contenuto completo di `README.md`**
-- **la sola sezione** `"scripts": { ... }` di `package.json`
+Per sbloccarsi, come hai già scritto tu: incollami qui **il contenuto completo di `README.md`** e **solo la sezione `"scripts": { ... }` di `package.json`**.
 
-Appena me li fornisci, ti preparo subito:
+Appena me li fornisci, preparo subito:
 - un **README.md completo e migliorato**
 - una sezione **Build/Run** coerente **con esattamente** i comandi presenti in `scripts`.

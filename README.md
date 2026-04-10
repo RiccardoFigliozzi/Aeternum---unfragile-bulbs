@@ -1,20 +1,22 @@
-Ecco una versione migliorata e più “su misura” del `README.md` (stile professionale, sezioni chiare, senza inventare comandi o struttura specifica).
+Ecco un miglioramento del tuo `README.md` in stile più professionale e “leggibile”, mantenendo però **le parti generiche** dove nel repo non ho dettagli verificabili su struttura/comandi/avvio.
+
+> Nota: dalla mia verifica via tool ho solo metadati del repository (es. linguaggio = JavaScript, licenza = MIT), ma **non** l’albero file o il contenuto di `package.json`. Quindi non inserisco comandi specifici o una struttura “inventata”.
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto mira a sviluppare soluzioni di illuminazione **più resistenti**, con l’obiettivo di aumentare la **durata** e ridurre la **manutenzione** nel tempo.
+Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione **più resistenti**, aumentando la **durata** e riducendo la **manutenzione** nel tempo.
 
 ---
 
 ## Idee e obiettivi
 
-**Unfragile Bulbs** nasce per affrontare il problema dei guasti e delle sostituzioni lungo il ciclo di vita delle lampadine, puntando su:
+**Unfragile Bulbs** affronta il problema dei guasti e delle sostituzioni lungo il ciclo di vita delle lampadine puntando su:
 
 - **Affidabilità**: riduzione dei guasti nel tempo
 - **Durabilità**: componenti e progettazione pensati per condizioni d’uso realistiche e impegnative
-- **Riduzione manutenzione**: meno interventi, sostituzioni più rare
+- **Riduzione della manutenzione**: meno interventi e sostituzioni più rare
 - **Impatto ambientale**: meno rifiuti grazie a maggiore longevità
 - **Efficienza**: ottimizzazione dei consumi e del rendimento (quando applicabile)
 
@@ -22,57 +24,59 @@ Questo progetto mira a sviluppare soluzioni di illuminazione **più resistenti**
 
 ## Approccio (high level)
 
-Il progetto segue un’idea **multi-livello** (hardware e/o software a seconda dell’implementazione), con attenzione a:
+L’idea del progetto è **multi-livello**, con componenti e/o strategie (hardware e/o software) pensate per:
 
-- robustezza e qualità dei componenti
-- miglioramento del comportamento d’uso nel tempo
-- eventuale raccolta/monitoraggio dati e iterazioni successive per affinare prestazioni e affidabilità
+- migliorare la robustezza e la qualità dell’implementazione
+- rendere più stabile il comportamento d’uso nel tempo
+- (quando pertinente) raccogliere/monitorare dati per iterare e affinare affidabilità e prestazioni
 
 ---
 
 ## Tecnologie
 
-- **Linguaggio**: **JavaScript**
+- **Linguaggio principale**: **JavaScript**
 
-Questa sezione verrà aggiornata appena saranno definiti con precisione:
-- strumenti di build o runtime utilizzati
-- eventuali framework/librerie
-- struttura effettiva del repository
+> Se nel repository sono presenti tool o framework specifici (es. librerie, bundler, test runner), questa sezione verrà aggiornata per includere informazioni accurate.
 
 ---
 
 ## Struttura del progetto
 
-> Nota: questa sezione è mantenuta volutamente generale finché non si conferma la struttura reale dei file nella repository.
+> Questa sezione è mantenuta generale fino a quando non viene confermata la struttura effettiva dei file.
+
+In generale, è possibile trovare cartelle come:
 
 - `src/` (se presente): codice sorgente
 - `docs/` (se presente): documentazione
 - `tests/` (se presente): test
-- `scripts/` (se presenti): utilità di supporto
+- `scripts/` (se presente): utility di supporto
 
-Se vuoi, posso renderla accurata includendo l’albero cartelle (es. output di `tree -L 2`) o l’elenco dei file principali.
+Se vuoi che la sezione sia **perfettamente aderente alla repo**, posso aggiungere l’albero cartelle e/o l’elenco dei file principali.
 
 ---
 
 ## Installazione e avvio
 
-Al momento non risultano disponibili nel README dettagli verificabili su:
-- prerequisiti specifici
-- comandi di build o start
-- gestione di dipendenze (es. via `npm`, `yarn`, ecc.)
+Al momento non sono disponibili nel README dettagli verificabili su:
 
-**Se nel progetto esiste un `package.json`**, posso aggiungere qui:
-- prerequisiti (versioni Node, ecc.)
-- comandi corretti (install, build, start, test) basati su quelli realmente presenti in repo
+- prerequisiti specifici
+- comandi di build o avvio
+- gestione dipendenze (es. `npm`, `yarn`, ecc.)
+
+**Suggerimento per completare questa sezione:** se esiste un `package.json` (o altri file di configurazione), posso aggiungere qui i comandi corretti per:
+- installare le dipendenze
+- buildare
+- avviare l’app
+- eseguire i test (se presenti)
 
 ---
 
 ## Roadmap
 
-Una possibile roadmap di lavoro (bozza):
+Bozza di lavoro (da iterare):
 
 - [ ] Raccogliere requisiti e casi d’uso
-- [ ] Prototipo e prime verifiche di durabilità/resistenza
+- [ ] Prototipo e prime verifiche su durabilità/resistenza
 - [ ] Iterazioni su prestazioni/consumi in base ai risultati
 - [ ] Validazione, feedback e miglioramenti successivi
 
@@ -80,19 +84,19 @@ Una possibile roadmap di lavoro (bozza):
 
 ## Contribuire
 
-I contributi sono benvenuti!
+I contributi sono benvenuti.
 
 Come contribuire:
 
 1. Apri una **issue** per discutere l’idea o la modifica
 2. Implementa la modifica
-3. Crea una **pull request**
+3. Apri una **pull request**
 4. Nella PR indica chiaramente:
    - cosa cambia
    - perché serve
    - come testare (se applicabile)
 
-Se mi fornisci preferenze su stile di commit, branching o lint/test, posso aggiungere queste regole in modo formale.
+Se vuoi, posso anche aggiungere regole più formali su stile di commit, branching model e lint/test—sempre basandomi su ciò che è effettivamente presente in repository.
 
 ---
 
@@ -112,7 +116,9 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Vuoi che lo renda **perfettamente aderente alla repo**? In tal caso incollami qui:
-- l’output di `ls` o `tree -L 2`
-- (se esiste) il contenuto di `package.json`
-così aggiungo sezioni **Installazione**, **Come avviare** e **scripts** senza nessuna assunzione.
+Se mi incolli l’output di:
+- `ls`
+- `tree -L 2` (o equivalente)
+- e (se presente) il contenuto di `package.json`
+
+posso aggiornare **Installazione e avvio** e rendere la **Struttura del progetto** accurata al 100% senza assunzioni.

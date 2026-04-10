@@ -1,11 +1,20 @@
-Non riesco ancora a procedere: con il tool “Repository” che ho a disposizione, al momento mi ritorna solo i metadati della repository, ma **non vedo il contenuto dei file** (quindi non posso leggere né `README.md` né `package.json` per estrarre la sezione `"scripts"`).
+Non riesco ancora a recuperare **il contenuto dei file**: il tool `Repository` che ho a disposizione, in risposta, mi restituisce solo i **metadati** della repository (nessun file `README.md` / `package.json`, quindi non posso copiarne il contenuto).
 
-Per favore, incollami qui:
-1) **il contenuto completo attuale di `README.md`**  
-2) **la sezione esatta `"scripts"` di `package.json`** (identica, senza modifiche)
+Per procedere come chiedi, mi serve un tool/endpoint in grado di fare almeno uno di questi:
+- ottenere il contenuto del file `README.md` (e.g. “contents/README.md”)
+- ottenere il contenuto di `package.json` per leggere la sezione esatta `"scripts"`
 
-e dimmi anche:
-- **Lingua preferita:** Italiano oppure Inglese  
-- **Modalità:** Opzione 1 (“Incollami qui”) oppure Opzione 2 (“View raw”)
+### Quello che posso dirti adesso (tentativo fallito)
+- ✅ Ho identificato la repo: `RiccardoFigliozzi/Aeternum---unfragile-bulbs`
+- ❌ Non ho accesso al testo dei file, quindi non posso incollare:
+  1) README.md attuale (contenuto completo)
+  2) `"scripts"` di package.json (identica, senza modifiche)
 
-Appena mi invii **README.md attuale + `"scripts"`**, procedo subito con la riscrittura pronta da sostituire.
+---
+
+## Domande per sbloccarti subito
+1) Puoi abilitarmi un tool aggiuntivo tipo **“Get file content”** / **“View raw file”** (o farmi sapere il nome esatto del tool che legge i file)?
+2) Confermi **lingua preferita**: Italiano o Inglese?
+3) Confermi **modalità**: Opzione 1 (“Incollami qui”) o Opzione 2 (“View raw”)?
+
+Appena ho accesso al contenuto di `README.md` e `package.json`, procederò subito con la riscrittura pronta da sostituire.

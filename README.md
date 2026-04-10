@@ -1,11 +1,16 @@
-Non posso ancora procedere: con lo strumento `Repository` non mi viene restituito il **contenuto dei file** (`README.md` e `package.json`), ma solo i metadati della repository. Quindi non posso incollare qui:
+Posso aiutarti a riscrivere il README professionale, ma **con lo strumento `Repository` che ho qui non riesco a leggere il contenuto dei file**: mi viene restituito solo l’elenco/metadata della repository (es. nome, licenza, branch, ecc.), **non** il testo di `README.md` né `package.json`.
 
-1) il **testo esatto** attuale di `README.md`  
-2) la sezione `"scripts"` di `package.json`
+Per procedere in modo corretto, ho bisogno di uno di questi due modi:
 
-Per sbloccare, puoi incollarmi tu (copiaincolla) direttamente qui:
-- **Contenuto completo attuale di `README.md`**
-- **Sezione `"scripts"` di `package.json`** (solo quella, ma testo esatto)
-- Preferenza: **Italiano** o **Inglese**
+1) **Incollami tu qui**:
+   - contenuto completo attuale di `README.md`
+   - sezione `"scripts"` di `package.json` (testo esatto)
+   - (opzionale) obiettivo del progetto / stack (se lo sai) e come si usa
 
-Appena me li invii, ti restituisco un **README.md professionale completamente riscritto** pronto da sostituire.
+**oppure**
+
+2) Se nel tuo ambiente hai un modo per recuperare i file (ad es. “view raw” di GitHub) e incollarli qui, anche parzialmente.
+
+Dimmi anche la preferenza lingua: **Italiano** o **Inglese**.
+
+Appena mi incolli `README.md` attuale + `"scripts"` di `package.json`, ti restituisco un **README.md completamente riscritto e pronto da sostituire**.

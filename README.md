@@ -1,16 +1,12 @@
-Perfetto 👍 posso farlo, ma in questo momento non ho ancora il contenuto di:
+Ho provato a leggere la repository con il tool **“Repository”**, ma questo tool mi restituisce **solo i metadati** (nome repo, branch, licenza, ecc.) e **non il contenuto dei file** come `package.json` o `README.md`. Senza quei contenuti non posso riscrivere correttamente il README (soprattutto per allineare **scripts**, comandi, URL e dipendenze).
 
-1) **`package.json` (almeno `"scripts"`)**  
-2) **l’attuale `README.md`** (quello da migliorare)
+### Quello che mi serve da te
+Incollami qui **testualmente**:
 
-Il messaggio che mi hai scritto dice che “non posso vedere direttamente” `README.md`/`package.json`, quindi per procedere correttamente devo leggerli dal repository.
+1) **La sezione `scripts` di `package.json`** (anche solo quella)  
+2) **Il contenuto attuale di `README.md`** da migliorare  
 
-Al momento, però, il tool “Repository” che ho a disposizione mi restituisce **solo i metadati della repo**, non il contenuto dei file. Per poterti aggiornare *tutti* i comandi/URL in modo coerente mi serve che tu incolli qui:
+### Lingua
+Confermi **Italiano** oppure preferisci **Inglese**?
 
-- **Sezione `scripts` di `package.json`**
-- **Contenuto attuale di `README.md`**
-
-👉 Incollami questi due blocchi e dimmi anche la lingua desiderata:
-- **Italiano** (consigliato, visto il tuo input) oppure **Inglese**.
-
-Appena me li fornisci, ti restituisco il **nuovo `README.md` pronto da sostituire**.
+Appena me li incolli, ti restituisco un **nuovo `README.md` completo e pronto da sostituire**.

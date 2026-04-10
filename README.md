@@ -1,12 +1,22 @@
-1) **Il contenuto completo attuale** di `README.md`  
-Non disponibile: con il tool **Repository** riesco a vedere solo i metadati della repo, ma non il contenuto testuale dei file (quindi non posso recuperare il testo di `README.md`).
+Ho provato a leggere il contenuto dei file (README.md e package.json) tramite il tool **Repository**, ma al momento il tool mi restituisce **solo metadati della repository** e **non il testo** dei file. Per questo non posso “migliorare il contenuto del README.md” senza che tu mi fornisca il contenuto attuale.
 
-2) **Solo** la sezione:
-```json
-"scripts": { ... }
-```
-Non disponibile: non riesco a recuperare il contenuto di `package.json`, quindi non posso estrarre la sezione `"scripts": { ... }`.
+### Come procediamo (scegli una delle 2 opzioni)
+1) **Incolla qui** il contenuto attuale di:
+   - `README.md`
+   - `package.json` (almeno la sezione `"scripts"` e, se presente, eventuali config come `engines`, `proxy`, ecc.)
+   
+   → Io ti restituisco subito:
+   - una versione migliorata del README (stessa struttura o nuova, come preferisci)
+   - una sezione **Build/Run** con comandi corretti.
 
----
+2) Se preferisci, **incolla solo**:
+   - tutto il `README.md`
+   - e la sezione `"scripts"` di `package.json`
+   
+   → preparo comunque la versione migliorata.
 
-Se vuoi, posso comunque prepararti una bozza *senza* comandi esatti, oppure puoi incollarmi qui tu il contenuto di `README.md` e di `package.json` (o almeno la sezione `"scripts"`), e poi ti preparo subito la versione migliorata + la sezione **Build/Run** con i comandi corretti.
+### Domande rapide (per farlo “giusto”)
+- Il progetto è pensato per **front-end (es. React/Vite/Next)** o **server (Node/Express)**?
+- Vuoi che i comandi siano per **npm**, **yarn** o **pnpm** (possiamo coprire tutti e 3, ma dimmi quale preferisci)?
+
+Incolla pure qui `README.md` + `"scripts"` di `package.json` e parto subito.

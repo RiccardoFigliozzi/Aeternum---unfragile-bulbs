@@ -1,8 +1,6 @@
-Certo! Prima però ho usato il tool disponibile per verificare il repo: ho confermato che la repository si chiama **RiccardoFigliozzi/Aeternum---unfragile-bulbs** ed è pubblica.  
+Ecco una versione **migliorata** del `README.md`, più chiara e professionale, mantenendo contenuti **high-level** e senza introdurre comandi o dettagli di struttura/avvio non verificati dal repository.
 
-Detto questo, per “migliorare davvero il README” senza introdurre ipotesi su struttura/cartelle/comandi, mi manca l’output di `ls` / `tree -L 2` / `package.json` (che mi hai chiesto tu di usare se vuoi sezioni perfettamente accurate). Quindi, in questa risposta non posso inserire comandi di installazione/avvio o una “Struttura del progetto” certa.
-
-Qui sotto trovi comunque una versione **migliorata e più orientata al progetto** del tuo README, mantenendo un livello **high-level** dove necessario e senza introdurre dettagli non verificati.
+> Nota: in questa sessione ho verificato solo i metadati del repo (nome/branch/licenza/language), ma non l’albero dei file (`ls`/`tree`) né l’eventuale `package.json`. Quindi evito sezioni “Installazione/Struttura/Comandi” per non inventare.
 
 Copia e incolla questo come nuovo `README.md`:
 
@@ -10,38 +8,38 @@ Copia e incolla questo come nuovo `README.md`:
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-L’obiettivo di questo progetto è sviluppare soluzioni per l’illuminazione con un focus su **affidabilità nel tempo**, **maggiore durata** e **minore manutenzione**.
+Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illuminazione progettate per durare nel tempo: **più affidabilità**, **maggiore longevità** e **meno manutenzione**.
 
-> Nota: questo README è volutamente “high level” finché non verrà verificata la struttura reale del repository (cartelle/file, eventuale `package.json`, script di build/test, ecc.).
+> Nota: questo README è volutamente *high-level* finché non verrà verificata la struttura reale del repository (cartelle/file, eventuale `package.json`, script di build/test, ecc.).
 
 ---
 
 ## Idee e obiettivi
 
-**Unfragile Bulbs** nasce per ridurre guasti e sostituzioni lungo l’intero ciclo di vita, puntando su:
+**Unfragile Bulbs** mira a ridurre guasti e sostituzioni lungo l’intero ciclo di vita, puntando su:
 
-- **Affidabilità**: riduzione dei guasti nel tempo
-- **Durabilità**: componenti e scelte progettuali pensate per condizioni d’uso reali
+- **Affidabilità**: riduzione della probabilità di guasti nel tempo
+- **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali
 - **Riduzione della manutenzione**: meno interventi e sostituzioni più rare
 - **Impatto ambientale**: meno rifiuti grazie a maggiore longevità
-- **Efficienza**: ottimizzazione dei consumi e del rendimento (quando applicabile)
+- **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile
 
 ---
 
-## Visione (approccio high level)
+## Visione (approccio generale)
 
-L’approccio previsto è **multi-livello**, composto da più componenti e/o strategie (hardware e/o software) orientate a:
+L’approccio previsto è **multi-livello**, con l’idea di integrare più componenti e/o strategie (hardware e/o software) per:
 
-- migliorare robustezza e qualità dell’implementazione
+- migliorare robustezza e qualità complessiva
 - rendere più stabile il comportamento nel tempo
-- (se pertinente) raccogliere dati per validare e iterare sulle scelte di progettazione
+- (se pertinente) raccogliere evidenze/dati per validare e iterare le scelte
 
 ---
 
 ## Stato del progetto
 
-Questa sezione verrà aggiornata man mano che il repository evolve.  
-Al momento il focus è su **intento**, **direzione** e **criteri generali**, senza entrare in dettagli tecnici non verificati.
+Questa sezione viene aggiornata man mano che il progetto evolve.  
+Ad oggi il focus è su: **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
 
@@ -49,19 +47,17 @@ Al momento il focus è su **intento**, **direzione** e **criteri generali**, sen
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena sarà verificata la struttura del progetto (es. `package.json`, framework, strumenti di build/test), questa sezione potrà diventare più precisa.
+> Quando verrà verificata la struttura del progetto (es. `package.json`, framework/tooling), questa sezione potrà diventare più specifica.
 
 ---
 
 ## Roadmap (bozza)
 
-Da aggiornare progressivamente:
-
-- [ ] Raccogliere requisiti e casi d’uso
-- [ ] Definire criteri di durabilità/robustezza e metriche di valutazione
-- [ ] Prototipo e prime verifiche su durabilità/resistenza
-- [ ] Iterazioni su prestazioni/consumi in base ai risultati
-- [ ] Validazione, feedback e miglioramenti successivi
+- [ ] Definire requisiti e casi d’uso
+- [ ] Stabilire criteri di durabilità/robustezza e possibili metriche
+- [ ] Realizzare prototipi e prime verifiche
+- [ ] Iterare in base ai risultati (affidabilità/durabilità/efficienza)
+- [ ] Validazione, raccolta feedback e miglioramenti successivi
 
 ---
 
@@ -77,7 +73,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso aggiungere anche linee guida di contributo (es. stile commit, branching model, lint/test) **una volta verificati gli strumenti presenti nel repo**.
+Se vuoi, posso anche aggiungere linee guida di contributo (es. stile, workflow PR, convenzioni di commit e criteri di test) **una volta verificati gli strumenti presenti nel repo**.
 
 ---
 
@@ -97,9 +93,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi incolli qui anche l’output di:
-- `ls`
-- `tree -L 2`
-- (se esiste) `package.json`
-
-posso rendere perfettamente accurate anche le sezioni **“Struttura del progetto”** e **“Installazione e avvio”** (senza comandi ipotizzati).
+Se vuoi, nel prossimo step posso renderlo **ancora più accurato** aggiungendo sezioni come **“Struttura del progetto”** e **“Installazione e avvio”**: mi basta l’output di `ls` e `tree -L 2` (e l’eventuale `package.json`, se presente).

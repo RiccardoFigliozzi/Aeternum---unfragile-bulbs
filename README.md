@@ -1,8 +1,8 @@
-Capito. Ho appena provato a usare lo strumento **“Repository”**, ma in questo ambiente mi restituisce **solo i metadati del repo** (nome, licenza, ecc.) e **non il contenuto dei file** (quindi non posso leggere direttamente il tuo `README.md` né la sezione `scripts` del `package.json`).
+Non riesco a leggere direttamente **il contenuto attuale di `README.md`** né la sezione **`scripts`** di `package.json` usando solo il tool disponibile (“Repository” nel tuo ambiente qui mi restituisce solo metadati del repo, non i file).
 
-Per poterti restituire subito un `README.md` migliorato **pronto da incollare**, mi serve che tu incolli qui:
+Quindi per potertelo davvero “migliorare e riscrivere completamente pronto da incollare”, incollami qui:
 
-1) **Contenuto attuale di `README.md`** (anche tutto)  
-2) **Solo la sezione `scripts`** del tuo `package.json`
+1) **tutto il contenuto attuale di `README.md`**  
+2) **solo** la sezione `scripts` del tuo `package.json`
 
-Appena me li mandi, te lo riscrivo completamente (structure, install, usage, scripts, build/test, ecc.) mantenendo stile e dettagli coerenti con il progetto.
+Appena me li mandi, te lo riscrivo in un unico blocco markdown (structure, install, usage, build/test, ecc.), coerente con il progetto e con i comandi reali definiti in `package.json`.

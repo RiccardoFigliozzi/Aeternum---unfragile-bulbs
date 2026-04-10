@@ -1,6 +1,4 @@
-Ecco una versione **migliorata e più chiara** del `README.md`, mantenendo un taglio **high-level** dove non ci sono evidenze verificate (evito quindi dettagli su struttura/config/build).
-
-Puoi sostituire l’intero contenuto con questo:
+Ecco il contenuto migliorato (puoi sostituire **l’intero** `README.md` con questo):
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -90,5 +88,3 @@ Per i dettagli, consulta il file `LICENSE`.
 
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
-
-Se mi confermi lo **stile** che preferisci (più “marketing” e motivazionale oppure più “engineering” e operativo), posso rifinirlo ulteriormente. Inoltre posso rendere il README “actionable” aggiungendo una sezione tipo **Come iniziare** solo dopo aver verificato la struttura della repo.

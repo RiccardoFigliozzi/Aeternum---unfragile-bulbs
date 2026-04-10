@@ -1,11 +1,8 @@
-Ho provato a usare il tool **Repository**, ma al momento mi restituisce solo metadati (nome repo, licenza, permessi, ecc.) e **non** il contenuto dei file, quindi non posso recuperare qui né:
+Non riesco a leggere il contenuto di `README.md` o la sezione `"scripts"` di `package.json` con il tool **Repository** che ho a disposizione: al momento mi restituisce solo metadati della repo (nome, licenza, permessi, ecc.), non i file.
 
-1) il contenuto integrale attuale di `README.md`  
-2) la sezione `"scripts"` di `package.json`
+Per poterti preparare una versione migliorata di `README.md` “pronta da copiare”, incollami qui tu:
 
-Per poter migliorare davvero `README.md`, incollami tu (in chat) questi due pezzi di contenuto:
+1) **contenuto integrale attuale di `README.md`**
+2) **sezione `"scripts"` di `package.json`** (anche solo quella)
 
-- **contenuto integrale attuale di `README.md`**
-- **sezione `"scripts"` di `package.json`** (anche solo quella)
-
-Appena li incolli, ti preparo subito una versione aggiornata di `README.md` pronta da copiare.
+Appena li incolli, ti preparo subito una versione aggiornata del README.

@@ -1,9 +1,8 @@
-Ho ottenuto i metadati della repository (nome, branch, licenza, ecc.), ma **non il contenuto del file `README.md`**: il tool `Repository` non mi sta restituendo anche i file/contenuti.
+Perfetto: ho recuperato i metadati della repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma in questo momento **non ho il contenuto del file `README.md`** (nel risultato tool non compare alcun `README`/contents).
 
-Per procedere, mi serve una di queste due cose:
+Per procedere mi serve che tu faccia **una** di queste due cose:
 
-1) **Incolla qui tutto il contenuto attuale di `README.md`** (anche se lungo).  
-oppure  
-2) Dimmi **in quale percorso si trova** (es. `README.md` in root, oppure `docs/README.md`, ecc.). Se non sai, dimmi semplicemente se è in root e provo a guidarti a recuperarlo.
+1) **Incolla qui tutto il contenuto attuale di `README.md`** (anche lungo), oppure  
+2) Dimmi **dove si trova** `README.md` nel repository (es. `README.md` in root oppure `docs/README.md`, ecc.).  
 
-Appena ho il testo attuale, lo riscrivo in modo migliorato e mirato (struttura, sezioni, installazione/uso, esempi, badges/link/screenshot dove opportuno).
+👉 Se non sai il percorso: confermami se è **in root**. In base a quello, lo gestisco subito e poi ti riscrivo il README in modo migliorato (struttura, sezioni, installazione/uso, esempi, badges/link/screenshot se opportuni).

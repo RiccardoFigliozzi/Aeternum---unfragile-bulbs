@@ -1,12 +1,22 @@
-Ecco il contenuto migliorato (puoi sostituire **l’intero** `README.md` con questo):
+Ecco una versione migliorata (più chiara, strutturata e “actionable”) dell’intero `README.md`. Puoi sostituire **l’intero** file con questo:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-L’obiettivo del progetto è sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
+L’obiettivo del progetto è sviluppare soluzioni di illuminazione pensate per **durare nel tempo**: più **affidabili**, più **longeve**, con **meno manutenzione** e **meno sostituzioni**.
 
-> Nota: questo README è intenzionalmente **high-level** finché non vengono verificati dettagli come struttura della repo, tooling e configurazioni (cartelle/file, `package.json`, script di build/test, ecc.).
+> Nota: questo README è volutamente **high-level** finché non vengono verificati dettagli concreti della repository (struttura cartelle/file, `package.json`, script di build/test, CI, ecc.).
+
+---
+
+## Perché “Unfragile”?
+
+Nei sistemi di illuminazione la durata non dipende solo dalla qualità dei componenti, ma da un insieme di scelte:
+- riduzione dei punti di guasto e dei fattori di stress
+- progettazione per funzionare in condizioni reali (non ideali)
+- validazione continua con feedback misurabile
+- manutenzione più rara e interventi più semplici quando necessari
 
 ---
 
@@ -14,8 +24,8 @@ L’obiettivo del progetto è sviluppare soluzioni di illuminazione pensate per 
 
 Ridurre guasti e interventi lungo tutto il ciclo di vita, puntando su:
 
-- **Affidabilità**: riduzione della probabilità di guasti nel tempo
-- **Durabilità**: scelte progettuali e componenti adatti a condizioni d’uso reali
+- **Affidabilità**: ridurre la probabilità di guasti nel tempo
+- **Durabilità**: selezione di componenti e strategie adatti all’uso previsto
 - **Minore manutenzione**: meno interventi e sostituzioni più rare
 - **Impatto ambientale**: meno rifiuti grazie a maggiore durata
 - **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile
@@ -24,18 +34,18 @@ Ridurre guasti e interventi lungo tutto il ciclo di vita, puntando su:
 
 ## Visione (approccio generale)
 
-Costruire un sistema **multi-livello**, combinando più componenti e/o strategie (**hardware** e/o **software**) per:
+Costruire un sistema **multi-livello**, combinando più strategie e/o componenti (**hardware** e/o **software**) per:
 
-- aumentare robustezza e qualità complessiva
+- aumentare la robustezza e la qualità complessiva
 - rendere più stabile il comportamento nel tempo
-- (se applicabile) raccogliere evidenze/dati per validare e iterare le scelte
+- (quando possibile) raccogliere evidenze/dati per validare e iterare le scelte
 
 ---
 
 ## Stato del progetto
 
 Questa sezione viene aggiornata man mano che il progetto evolve.  
-Per ora il focus è su **intenti**, **direzione** e **criteri generali**, evitando assunzioni tecniche non verificate.
+Al momento il focus è su **intenti**, **direzione** e **criteri generali**, evitando assunzioni tecniche non verificate.
 
 ---
 
@@ -43,7 +53,7 @@ Per ora il focus è su **intenti**, **direzione** e **criteri generali**, evitan
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena verrà verificata la struttura del repository (framework, tooling, configurazioni), questa sezione potrà essere resa più specifica.
+> Appena verrà verificata la struttura della repository (framework, tooling, configurazioni), questa sezione verrà resa più specifica.
 
 ---
 
@@ -61,13 +71,13 @@ Per ora il focus è su **intenti**, **direzione** e **criteri generali**, evitan
 
 I contributi sono benvenuti. Per contribuire:
 
-1. Apri una **issue** per discutere l’idea o la modifica
+1. Apri una **issue** per discutere l’idea o proporre una modifica
 2. Implementa la modifica
 3. Invia una **pull request**
 4. Nella PR indica chiaramente:
-   - cosa cambia
-   - perché serve
-   - come testarlo (se applicabile)
+   - **cosa** cambia
+   - **perché** serve
+   - **come testarlo** (se applicabile)
 
 Se vuoi, posso aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione/avvio**, **workflow di test/CI**) dopo aver verificato la repository structure.
 
@@ -88,3 +98,5 @@ Per i dettagli, consulta il file `LICENSE`.
 
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
+
+Se mi confermi che vuoi anche una versione “orientata al setup” (installazione, comandi, test e CI), posso prepararla dopo aver controllato i file presenti nella repo.

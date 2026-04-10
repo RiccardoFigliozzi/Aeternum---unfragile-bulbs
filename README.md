@@ -1,6 +1,6 @@
-Certo! Ho migliorato il `README.md` rendendolo più completo, leggibile e “pronto da compilare”. Tuttavia, dai dati disponibili con lo strumento **posso vedere solo la repo e metadati di base** (non il contenuto di `package.json` né l’albero dei file), quindi **non posso inserire comandi/costruzione/test specifici** senza rischiare di scrivere informazioni errate.
+Certo! Ho riscritto `README.md` migliorandolo in modo più “pronto all’uso”, ma **senza inserire comandi specifici (dev/build/test) o dettagli di framework/struttura** che non possiamo verificare da qui. Mantiene quindi descrizioni valide con **sezioni chiare** e inviti a completare i dettagli dove necessario.
 
-Qui sotto trovi un README più valido del precedente, con sezioni strutturate e placeholder chiari.
+Copia e incolla questo contenuto in `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -13,24 +13,33 @@ Progetto web in **JavaScript**.
 
 ## Panoramica
 
-**Aeternum — Unfragile Bulbs** è un progetto per [descrivi in 1–2 frasi cosa fa l’app].  
-Obiettivo: [es. simulare / visualizzare / gestire ...].  
-A chi è rivolto: [es. studenti, appassionati di web, progetto scolastico, ecc.].
+**Aeternum — Unfragile Bulbs** è un progetto per:  
+- [descrizione in 1–2 frasi di cosa fa l’app]  
+- Obiettivo: [es. simulare / visualizzare / gestire …]
 
-Se vuoi, puoi anche aggiungere:
-- screenshot o GIF del risultato
-- un link a una demo (se disponibile)
+A chi è rivolto: [studenti, appassionati, progetto scolastico, ecc.]
+
+Se disponibile, puoi aggiungere:
+- screenshot o GIF
+- link a una demo/preview
+
+---
+
+## Funzionalità (da completare)
+
+- [Funzionalità 1]
+- [Funzionalità 2]
+- [Funzionalità 3]
 
 ---
 
 ## Tecnologie
 
-Il progetto è basato su JavaScript.  
-Ulteriori dettagli (framework/tooling) verranno completati appena disponibili le informazioni di build/config.
-
 - **Linguaggio:** JavaScript
-- **Bundler/Framework:** (da confermare)
-- **Test (se presenti):** (da confermare)
+- **Tooling/Framework:** [da verificare]
+- **Test:** [da verificare]
+
+> Nota: appena disponibili maggiori dettagli (es. `package.json` e struttura delle cartelle) posso renderla 100% specifica.
 
 ---
 
@@ -57,10 +66,9 @@ npm install
 
 ## Avvio in sviluppo
 
-> Nota: i comandi esatti dipendono da `package.json` (es. Vite/Next/React scripts).
+> I comandi esatti dipendono dagli script definiti in `package.json` (es. Vite / Next / React / ecc.).
 
-Prova uno di questi:
-
+Prova:
 ```bash
 npm run dev
 ```
@@ -78,11 +86,10 @@ npm start
 npm run build
 ```
 
-Se presente, di solito segue anche:
+Spesso è seguito da una preview locale (se presente):
 ```bash
 npm run preview
 ```
-(da verificare nel tuo `package.json`)
 
 ---
 
@@ -92,18 +99,17 @@ npm run preview
 npm test
 ```
 
-Se i test sono configurati diversamente, aggiorneremo questo comando con quello corretto.
+Se non è configurato, potresti non avere uno script `test` nel `package.json`.
 
 ---
 
 ## Struttura del progetto
 
-In questa sezione indichiamo le cartelle principali.
+In questa sezione puoi descrivere le cartelle principali.  
+Per una versione accurata servirebbe l’output di:
+- `tree -L 2`
 
-> Per renderla accurata, servirebbe l’output di:
-> `tree -L 2`
-
-Intanto esempio “standard”:
+Esempio (da adattare):
 - `src/` — sorgenti dell’app
 - `public/` — asset statici (se presenti)
 - `tests/` o `__tests__/` — test (se presenti)
@@ -120,7 +126,7 @@ Questo progetto è distribuito con **MIT License**.
 ## Contribuire
 
 Contributi benvenuti! Se vuoi migliorare il progetto:
-1. Apri una **issue** per discutere una modifica
+1. Apri una **issue** per discutere la modifica
 2. Invia una **pull request** con una descrizione chiara
 
 ---
@@ -130,8 +136,8 @@ Contributi benvenuti! Se vuoi migliorare il progetto:
 - Autore: **RiccardoFigliozzi**
 ```
 
-Se vuoi che lo renda **specifico al 100%** (comandi esatti `dev/build/test`, framework, struttura reale delle cartelle e eventuali script di setup), incollami qui:
+Se vuoi che lo renda **specifico al 100%** (comandi esatti `dev/build/test`, framework, struttura reale delle cartelle), incollami:
 1) contenuto di `package.json`  
 2) output di `tree -L 2`  
 
-…e te lo riscrivo senza placeholder.
+e te lo aggiorno senza placeholder.

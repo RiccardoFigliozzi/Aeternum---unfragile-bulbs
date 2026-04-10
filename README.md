@@ -1,83 +1,73 @@
-Certo! Però in questo momento **non ho ancora il contenuto di `README.md` attuale né `package.json`** (nel messaggio non li hai incollati) e, usando i soli tool disponibili, **non posso leggere direttamente i file interni** della repo per ricavare comandi reali e descrizione accurata.
+Posso aiutarti a migliorare `README.md`, ma per farlo **aderente al progetto** (e non con placeholder) mi serve poter vedere i contenuti reali.
 
-Quello che posso fare ora, in modo utile, è:
+✅ Ho recuperato solo i metadati della repo (es. nome, licenza MIT), però **non mi basta** per scrivere:
+- descrizione “vera” del progetto
+- script esatti `dev/build/test` da `package.json`
+- eventuale struttura (entrypoint, cartelle) da `tree`
 
-1) fornirti una versione **migliorata “generica ma pulita”** (senza inventare comandi/script)  
-2) appena mi incolli **`package.json`** (e opzionale `tree -L 2`) la rendo **100% aderente** con comandi esatti (`dev/build/test`) e descrizione reale.
+### Quello che ti chiedo (incollami qui)
+1) **contenuto di `package.json`**
+2) (facoltativo ma consigliato) output di:
+```bash
+tree -L 2
+```
 
-Qui sotto trovi una **miglioria pronta da incollare** su `README.md` (con placeholder minimi, senza “README finti” su comandi che potrei non avere).
+---
+
+## Intanto: miglioramento “pulito e generico” pronto da incollare
+Puoi già sostituire il README attuale con questo (senza inventare comandi non verificati):
 
 ```md
 # Aeternum — Unfragile Bulbs
 
-Un progetto JavaScript per imparare e allenare lo sviluppo del codice e l’organizzazione del repository.
+Aeternum è un progetto JavaScript pensato per imparare e allenare lo sviluppo del codice e l’organizzazione del repository.
 
-> **Obiettivo (da completare, 1-2 frasi):** descrivi qui cosa fa il progetto “in concreto” e a cosa serve.
-> Esempi: “serve per…”, “permette di…”, “include …”.
-
-## Caratteristiche
-- Linguaggio: **JavaScript**
-- Struttura pensata per essere **estendibile**
-- (Opzionale) Pattern/approccio:
-  - (es. modularità, gestione stati, architettura a componenti, ecc.)
+## Obiettivo
+- (Aggiungi qui 1–2 frasi su cosa fa il progetto e a cosa serve)
+- Esempio: “permette di …”, “serve per …”, “include …”
 
 ## Prerequisiti
-- **Node.js** (consigliata versione **LTS**)
-- **npm** (oppure yarn/pnpm)
+- Node.js (consigliata versione **LTS**)
+- npm (o in alternativa yarn/pnpm)
 
-## Installazione
-
+## Setup
 ```bash
 git clone https://github.com/RiccardoFigliozzi/Aeternum---unfragile-bulbs.git
 cd Aeternum---unfragile-bulbs
 npm install
 ```
 
-## Avvio e script disponibili
+## Come avviare il progetto
+> Aggiornerò questa sezione con i comandi esatti appena mi incolli `package.json`.
 
-> Nota: aggiornerò questa sezione con i comandi esatti appena mi incolli il tuo `package.json`.
+- **Sviluppo:** `npm run <dev>`  
+- **Build:** `npm run <build>`  
+- **Test:** `npm test` oppure `npm run <test>`
 
-- **Sviluppo:** `npm run <dev>` *(da verificare in package.json)*
-- **Build:** `npm run <build>` *(se presente)*
-- **Test:** `npm test` o `npm run <test>` *(se presente)*
-
-## Come funziona (da completare)
-Descrivi brevemente:
+## Come funziona
+Descrivi qui, in modo breve:
 - cosa viene eseguito al lancio
-- qual è l’entry point (es. file principale o pagina)
-- che output ci si aspetta (console, sito, API, ecc.)
-- (se applicabile) come cambiano i dati in input
+- qual è il punto di ingresso (entry point)
+- che output/risultato ci si aspetta (console, pagina, ecc.)
 
 ## Struttura del progetto (opzionale)
-Se mi incolli l’output di `tree -L 2` posso riempire questa sezione in modo accurato.
+> Se mi incolli `tree -L 2`, la completo in modo accurato.
 
-Esempio:
-- `src/` — codice sorgente
-- `public/` — risorse statiche
+- `src/` — (descrivi)
+- `public/` — (descrivi)
 - `...`
 
 ## Contribuire
-1. Apri una **Issue** per discutere cambiamenti o nuove feature
-2. Crea una **Pull Request** con una descrizione chiara:
+1. Apri una **Issue** per discutere l’idea o un bug
+2. Crea una **Pull Request** spiegando:
    - cosa hai cambiato
    - perché
-   - come hai verificato (test, build, ecc.)
-
-Linee guida:
-- mantieni il codice leggibile
-- aggiorna test e documentazione se applicabile
+   - come hai verificato (test/build)
 
 ## Licenza
 Questo progetto è rilasciato con licenza **MIT**.
 ```
 
-### Prossimo passo (per renderlo “100% aderente”)
-Incolla qui:
-1) **contenuto di `package.json`**  
-2) (facoltativo) **output di `tree -L 2`**  
+---
 
-Poi ti restituisco subito una versione README:
-- con **descrizione reale** (basata su entrypoint e script)
-- con sezione “**Come funziona**” coerente
-- con comandi **esatti** per `dev/build/test`
-- con eventuali **variabili d’ambiente** (se presenti)
+Incollami ora **`package.json`** (e se puoi anche `tree -L 2`) e ti restituisco una versione README **completa e corretta**, con comandi `dev/build/test` effettivi e descrizione basata sul codice.

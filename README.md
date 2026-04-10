@@ -1,8 +1,7 @@
-Non riesco a leggere direttamente il contenuto di `README.md` e di `package.json` dalla sola chiamata al tool **Repository**: mi restituisce solo metadati della repository (nome, permessi, licenza, ecc.), non il testo dei file.
+Non riesco ancora ad aiutarti perché, come hai scritto tu, la chiamata al tool **Repository** in questo ambiente mi restituisce **solo metadati** della repo (nome, licenza, permessi, ecc.) e **non il testo** di `README.md` né quello di `package.json` (quindi non posso “incollarli qui testualmente” dal file).
 
-Per procedere con la tua richiesta (“incolla qui testualmente”):
+Per procedere con l’editing del README mi serve che tu mi incolli tu:
+1) **contenuto integrale** attuale di `README.md`
+2) la sezione **`"scripts"`** di `package.json`
 
-1) Incolla qui il **contenuto integrale attuale** di `README.md`  
-2) Incolla qui la **sezione `"scripts"`** di `package.json`
-
-Appena me li fornisci, ti preparo subito una versione migliorata del README (struttura, prerequisiti, comandi, ecc.).
+Appena me li incolli, ti preparo subito una versione migliorata del README (struttura, prerequisiti, comandi, ecc.).

@@ -1,14 +1,14 @@
-Ho controllato la repository, ma **non riesco a leggere direttamente il contenuto di `README.md` né la sezione `"scripts"` di `package.json`** tramite gli strumenti disponibili (ottengo solo metadati).
+Perfetto—posso migliorare il README, ma al momento mi manca esattamente ciò che mi hai chiesto di ricevere (cioè **la sezione `"scripts"` di `package.json`** e **il contenuto attuale completo di `README.md`**, oltre alla **lingua**).
 
-Per poterti restituire **un README.md davvero migliorato e pronto da sostituire**, incollami qui:
+In questo messaggio però hai già incluso solo l’intestazione della richiesta; non mi sono stati incollati:
 
-1) la sezione del tuo `package.json`:
+1) la sezione `package.json`:
 ```json
 "scripts": { ... }
 ```
-
-2) il contenuto **completo attuale** di `README.md` (tutto il file)
-
+2) il contenuto completo attuale di `README.md`
 3) la lingua preferita: **Italiano** o **Inglese**
 
-Appena mi mandi questi tre elementi, ti preparo subito una versione aggiornata e più professionale del README, coerente con i comandi di build/run del progetto.
+Inoltre: con gli strumenti a mia disposizione riesco solo a vedere metadati della repository, non il testo di `README.md`/`package.json`, quindi ho bisogno che tu li incolli qui.
+
+✅ Incollami qui i 3 elementi richiesti (anche copiando/incollando da GitHub) e ti restituisco subito un **README.md completamente riscritto, professionale e pronto da sostituire**.

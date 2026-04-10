@@ -1,7 +1,11 @@
-Ho controllato la repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma nella risposta disponibile dal tool **Repository** vedo solo **metadati** (nome, licenza, permessi, ecc.) e **non il contenuto testuale** di `README.md` né quello di `package.json`. Quindi al momento **non posso leggere l’attuale README** per “migliorarla” in modo fedele (struttura e testi specifici).
+Capito: per “migliorare” **fedelemente** il README ho bisogno del **testo attuale** di `README.md` (e della sezione `scripts` di `package.json`).
 
-Per procedere, incollami qui (testualmente):
+Ho però verificato che il tool **Repository** che ho a disposizione mi restituisce **solo metadati della repository** (nome, licenza, permessi, ecc.) e **non il contenuto dei file**. In questo stato **non riesco a recuperare** né:
+- il contenuto testuale di `README.md`
+- la sezione `"scripts"` di `package.json`
+
+✅ Quindi, per procedere come mi chiedi, incollami tu qui:
 1) **contenuto integrale attuale** di `README.md`
 2) la sezione **`"scripts"`** di `package.json`
 
-Appena me li incolli, ti preparo subito una versione migliorata del README (con sezioni, prerequisiti, installazione, comandi, guida uso e note utili) pronta da copiare/sovrascrivere.
+Appena me li incolli, ti preparo subito una **versione migliorata pronta da copiare/sovrascrivere**.

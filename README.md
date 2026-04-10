@@ -1,20 +1,18 @@
-Certo — ho verificato la repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs** e posso proporre una sostituzione diretta di `README.md` con il contenuto che hai incollato.
+Certo. Ho verificato la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs** (MIT, branch `main`, linguaggio indicato: JavaScript), ma **non ho ancora la struttura dei file/cartelle** (`ls`/`tree`) né l’eventuale `package.json`. Quindi posso migliorare il README in modo “affidabile” (testo più chiaro, più orientato a progetto e contributi), senza inventare comandi o cartelle.
 
-⚠️ Nota: per renderlo *completamente* aderente (es. se esistono `src/`, `package.json`, comandi di build, ecc.) servirebbe l’output di `ls` e `tree -L 2` e/o il contenuto di `package.json`. In assenza di questi dettagli, il README che fornisci resta “high level” e non inventa struttura/command.
-
-Ecco il file `README.md` sostitutivo (come richiesto):
+Qui sotto trovi un README.md **migliorato** (sostitutivo) che puoi copiare direttamente nel file `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Il progetto nasce per sviluppare soluzioni di illuminazione **più resistenti**, con maggiore **durata** e una riduzione della **manutenzione nel tempo**.
+Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione **più resistenti**, con maggiore **durata** e una riduzione della **manutenzione nel tempo**.
 
 ---
 
 ## Idee e obiettivi
 
-**Unfragile Bulbs** mira a ridurre guasti e sostituzioni durante il ciclo di vita puntando su:
+**Unfragile Bulbs** punta a ridurre guasti e sostituzioni durante il ciclo di vita grazie a:
 
 - **Affidabilità**: riduzione dei guasti nel tempo
 - **Durabilità**: componenti e progettazione pensati per condizioni d’uso realistiche e impegnative
@@ -24,13 +22,20 @@ Il progetto nasce per sviluppare soluzioni di illuminazione **più resistenti**,
 
 ---
 
-## Approccio (high level)
+## Visione (approccio high level)
 
-L’idea è costruire un sistema **multi-livello**, composto da componenti e/o strategie (hardware e/o software) che puntano a:
+L’approccio previsto è un sistema **multi-livello**, composto da componenti e/o strategie (hardware e/o software) che mirano a:
 
-- migliorare la robustezza e la qualità dell’implementazione
+- migliorare robustezza e qualità dell’implementazione
 - rendere più stabile il comportamento nel tempo
-- (quando pertinente) raccogliere/monitorare dati per iterare e affinare affidabilità e prestazioni
+- (se pertinente) raccogliere/monitorare dati per iterare e affinare affidabilità e prestazioni
+
+---
+
+## Stato del progetto
+
+Questa sezione può evolvere man mano che il repository cresce.  
+Attualmente il README fornisce una descrizione di alto livello dell’intento e della direzione di sviluppo.
 
 ---
 
@@ -38,46 +43,44 @@ L’idea è costruire un sistema **multi-livello**, composto da componenti e/o s
 
 - **Linguaggio principale**: **JavaScript**
 
-> Nota: questa sezione può essere aggiornata in modo puntuale appena risultano presenti framework, librerie, strumenti di build/test o configurazioni specifiche nel repository.
+> Nota: questa sezione verrà resa più precisa quando saranno disponibili i dettagli di build/test e l’eventuale struttura del progetto (es. `package.json`, tool di bundling, framework, ecc.).
 
 ---
 
 ## Struttura del progetto
 
-Questa sezione è mantenuta **generale** fino a verifica della struttura reale del repository.
+Questa sezione è volutamente **generica** finché non viene verificata la struttura reale.
 
 In genere potrebbero esserci cartelle come:
+- `src/` (codice sorgente)
+- `docs/` (documentazione)
+- `tests/` (test)
+- `scripts/` (utility)
 
-- `src/` (se presente): codice sorgente
-- `docs/` (se presente): documentazione
-- `tests/` (se presente): test
-- `scripts/` (se presente): utility di supporto
+📌 Se mi incolli l’output di:
+- `ls`
+- `tree -L 2`
 
-📌 Se mi incolli l’output di `ls` e `tree -L 2` (o equivalente), posso rendere questa sezione **accurata al 100%**.
+posso rendere questa sezione **accurata al 100%** (nomi cartelle/file reali e significato).
 
 ---
 
 ## Installazione e avvio
 
-Al momento non ho informazioni verificate per includere prerequisiti, comandi di build o avvio.
+Al momento non ci sono informazioni sufficienti per includere prerequisiti o comandi verificati.
 
-Per aggiornare la sezione senza ipotesi, servono ad esempio:
-- presenza di un `package.json`
+Per renderla esatta, serve (se presente):
+- `package.json` (con eventuali script come `dev`, `build`, `test`, ecc.)
 - eventuali file di configurazione (es. `vite.config.*`, `webpack.*`, ecc.)
-
-**Suggerimento**: se esiste un `package.json`, posso inserire qui:
-- comandi di installazione delle dipendenze
-- build
-- avvio
-- esecuzione dei test (se presenti)
 
 ---
 
 ## Roadmap
 
-Bozza di lavoro (da iterare):
+Bozza di lavoro (da aggiornare):
 
 - [ ] Raccogliere requisiti e casi d’uso
+- [ ] Definire criteri di durabilità/robustezza e metriche di valutazione
 - [ ] Prototipo e prime verifiche su durabilità/resistenza
 - [ ] Iterazioni su prestazioni/consumi in base ai risultati
 - [ ] Validazione, feedback e miglioramenti successivi
@@ -90,13 +93,13 @@ I contributi sono benvenuti. Per contribuire:
 
 1. Apri una **issue** per discutere l’idea o la modifica
 2. Implementa la modifica
-3. Apri una **pull request**
+3. Invia una **pull request**
 4. Nella PR indica chiaramente:
    - cosa cambia
    - perché serve
    - come testare (se applicabile)
 
-Se vuoi, posso anche aggiungere linee guida più formali (stile commit, branching model, lint/test), ma solo dopo verifica di ciò che è effettivamente presente nel repository.
+Se vuoi, posso anche aggiungere linee guida di contributo (stile commit, branching model, lint/test) una volta verificata la presenza di strumenti di progetto.
 
 ---
 
@@ -116,9 +119,7 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se vuoi, incollami qui:
+Se vuoi che io renda **“Struttura del progetto”** e **“Installazione e avvio”** precise (niente ipotesi), incollami qui l’output di:
 - `ls`
 - `tree -L 2`
 - (se esiste) `package.json`
-
-e te lo riallineo rendendo **“Struttura del progetto”** e **“Installazione e avvio”** precise al 100%.

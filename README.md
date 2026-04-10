@@ -1,4 +1,4 @@
-# Aeternum - Unfragile Bulbss
+# Aeternum - Unfragile Bulbs
 
 Benvenuti nella repository **Aeternum - Unfragile Bulbs**! Questo progetto è dedicato alla creazione di soluzioni innovative nel campo dell'illuminazione, con un focus particolare sulla durata e sull'efficienza energetica delle lampadine.
 

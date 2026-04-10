@@ -1,49 +1,56 @@
-Ecco una versione migliorata del tuo `README.md`, adattata ai soli dati che risultano dai metadati della repository (titolo/progetto e lingua, più licenza). Dove non posso verificare, lo segnalo come “da confermare”.
+Ecco una versione migliorata del tuo `README.md`, resa più chiara e meglio strutturata, mantenendo **solo** le informazioni verificabili dai metadati (titolo/progetto, linguaggio JavaScript, licenza MIT) e segnalando tutto il resto come **da confermare**:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 ## Panoramica
 **Aeternum** è un progetto **JavaScript**.  
-Dal repository risultano anche indicazioni generali come la presenza di licenza MIT e che il progetto utilizza JavaScript, ma **non posso ricavare con certezza**:
+Dai metadati della repository risultano anche:
+- **Licenza:** MIT
+- **Linguaggio principale:** JavaScript
+
+Al momento, senza analizzare i file del progetto (es. `package.json` e l’eventuale README interno), non posso verificare con certezza:
 - scopo/obiettivo applicativo,
-- framework o librerie (React/Node/Next/Express, ecc.),
+- eventuali framework o librerie usate,
 - comandi di avvio/build,
 - struttura delle cartelle e dipendenze.
 
-Per rendere il README 100% accurato servirebbe leggere il contenuto di `package.json` e (idealmente) l’attuale `README.md`.
+> Nota: per rendere il README completamente accurato servirebbe leggere `package.json` e, idealmente, l’attuale contenuto del README.
 
 ## Stack (da confermare)
 - **Linguaggio:** JavaScript
 
-> Nota: i metadati permettono di dire che è JavaScript, ma non basta per determinare con precisione tool e framework (es. se sia un’app Node, web app React, ecc.).
+> I metadati indicano JavaScript, ma non permettono di determinare con certezza tool/framework (es. se sia un’app Node, web app React, ecc.).
 
 ## Licenza
 Questo progetto è rilasciato sotto **MIT License**.
 
-## Installazione e avvio
-Non posso indicare comandi specifici (`npm start`, `npm run build`, ecc.) perché non ho accesso in questo contesto al file `package.json`.
+Link (MIT): https://api.github.com/licenses/mit
 
-## Contribuire
-Per suggerimenti/PR sarebbe utile inserire (e/o confermare) nel README:
-- come eseguire test e lint,
-- come fare build per ambiente di sviluppo/produzione,
-- eventuali variabili d’ambiente richieste.
+## Installazione e avvio
+Non posso indicare comandi specifici (`npm start`, `npm run build`, ecc.) perché non ho accesso qui ai contenuti dei file di configurazione (ad esempio `package.json`).
+
+## Contribuire (da completare)
+Se vuoi contribuire, sarebbe utile aggiungere nel README (o verificare se già presenti):
+- come eseguire **test** e **lint**,
+- come fare **build** (dev & prod, se applicabile),
+- eventuali **variabili d’ambiente** richieste,
+- linee guida per aprire PR/issue (se presenti nel repository).
 
 ## Per completare la documentazione
-Se mi fornisci:
-1) il contenuto attuale di `README.md`, **oppure**
-2) il contenuto di `package.json` (almeno la sezione `scripts` e le dipendenze),
+Se mi incolli qui:
+1) il contenuto attuale di `README.md` oppure il testo di riferimento,
+2) il contenuto di `package.json` (almeno la sezione `scripts`),
 
-posso riscrivere il README in modo completo con sezioni tipo:
+posso riscrivere il README in modo completo includendo sezioni come:
 - **Features**
 - **Setup**
-- **Commands**
-- **Architettura / Struttura**
+- **Commands** (dev/test/build)
 - **Testing**
 - **Run/Build (dev & prod)**
+- **Struttura del progetto / Architettura** (se ricavabile dal repo)
 
-e mantenere le informazioni accurate e verificabili.
+Così le informazioni saranno accurate e verificabili.
 ```
 
-Se vuoi, incollami qui `package.json` (anche solo `scripts`) e l’attuale README: te lo rendo “pronto all’uso” con comandi e descrizione corretti.
+Se vuoi, incolla qui anche `package.json` (o almeno `scripts`) e l’attuale `README.md`: te lo rendo “pronto all’uso” con comandi e sezioni effettive.

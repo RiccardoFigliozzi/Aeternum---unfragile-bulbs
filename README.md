@@ -1,13 +1,17 @@
-Certo. Ho però un problema: tramite il tool “Repository” in questa sessione riesco a vedere **solo i metadati** (es. lingua “JavaScript”, licenza MIT, nome repo, ecc.), ma **non il contenuto dei file**. Quindi **non posso leggere né migliorare direttamente** `README.md` né estrarre `package.json` e i suoi `scripts`.
+Non riesco ancora a migliorare `README.md` perché, in questa sessione, con lo strumento **Repository** ottengo solo **metadati** del repo (es. linguaggio JavaScript, licenza MIT, nome repo, branch, ecc.), ma **non il contenuto dei file**. Quindi non ho accesso a:
 
-✅ Per procedere, incollami qui (come hai chiesto tu):
-1) **Tutto il `README.md`**
-2) La sezione **`"scripts"`** di **`package.json`** (anche solo quella)
+- testo attuale di `README.md`
+- contenuto di `package.json`
+- sezione `scripts` di `package.json`
 
-In più dimmi la tua preferenza tra **npm / yarn / pnpm** (oppure “va bene qualsiasi”).
+✅ Per procedere come avevi chiesto, incollami qui:
+1) **tutto il `README.md`**
+2) la sezione **`"scripts"`** di **`package.json`** (anche solo quella)
 
-Appena mi incolli quei contenuti, ti restituisco:
+In più dimmi la preferenza tra **npm / yarn / pnpm** (oppure “va bene qualsiasi”).
+
+Appena mi incolli quei contenuti ti restituisco:
 - una **versione migliorata del README**
-- una sezione **Build/Run** con i **comandi corretti** (frontend/server + npm/yarn/pnpm), basati su ciò che risulta da `package.json`.
+- una sezione **Build/Run** con i **comandi corretti** basati su `scripts`.
 
-Vuoi procedere incollando prima `README.md` o prima la sezione `scripts`?
+Vuoi procedere incollando prima `README.md` o prima `scripts`?

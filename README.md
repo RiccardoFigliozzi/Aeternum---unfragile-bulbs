@@ -1,17 +1,14 @@
-Non posso procedere come richiesto perché, con gli strumenti disponibili, riesco a ottenere **solo metadati della repository** e **non** il contenuto dei file (quindi non posso leggere né:
+Ho controllato la repository, ma **non riesco a leggere direttamente il contenuto di `README.md` né la sezione `"scripts"` di `package.json`** tramite gli strumenti disponibili (ottengo solo metadati).
 
-1) la sezione `"scripts"` di `package.json`, né  
-2) il contenuto attuale completo di `README.md`).
+Per poterti restituire **un README.md davvero migliorato e pronto da sostituire**, incollami qui:
 
-Per poterti restituire **un nuovo README.md pronto da sostituire**, ho bisogno che tu mi incolli qui:
-
-1. La sezione del tuo `package.json`:
+1) la sezione del tuo `package.json`:
 ```json
 "scripts": { ... }
 ```
 
-2. Il contenuto completo attuale di `README.md`
+2) il contenuto **completo attuale** di `README.md` (tutto il file)
 
-3. La lingua preferita: **Italiano** o **Inglese**
+3) la lingua preferita: **Italiano** o **Inglese**
 
-Appena mi dai questi tre elementi, ti preparo subito il README.md migliorato e completo.
+Appena mi mandi questi tre elementi, ti preparo subito una versione aggiornata e più professionale del README, coerente con i comandi di build/run del progetto.

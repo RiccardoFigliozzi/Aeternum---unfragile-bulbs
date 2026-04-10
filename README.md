@@ -1,12 +1,13 @@
-Ho provato a leggere la repository con il tool **“Repository”**, ma questo tool mi restituisce **solo i metadati** (nome repo, branch, licenza, ecc.) e **non il contenuto dei file** come `package.json` o `README.md`. Senza quei contenuti non posso riscrivere correttamente il README (soprattutto per allineare **scripts**, comandi, URL e dipendenze).
+Capito. Tuttavia, con l’uso del tool **“Repository”** in questo momento ottengo **solo metadati della repository** (nome/branch/licenza, ecc.), **non** il contenuto dei file (`package.json`, `README.md`). Quindi **non posso** estrarre:
 
-### Quello che mi serve da te
-Incollami qui **testualmente**:
+1) la sezione `scripts` di `package.json`  
+2) il contenuto attuale di `README.md`
 
-1) **La sezione `scripts` di `package.json`** (anche solo quella)  
-2) **Il contenuto attuale di `README.md`** da migliorare  
+Per procedere come mi chiedi, incollami qui tu (testualmente) **almeno**:
 
-### Lingua
-Confermi **Italiano** oppure preferisci **Inglese**?
+- la sezione `scripts` di `package.json`  
+- l’attuale `README.md` completo
 
-Appena me li incolli, ti restituisco un **nuovo `README.md` completo e pronto da sostituire**.
+e dimmi anche la lingua: **Italiano** (ok) oppure **Inglese**.
+
+Appena me li fornisci, ti preparo un **nuovo `README.md` completo pronto da sostituire**.

@@ -1,9 +1,13 @@
-Al momento non riesco a recuperare **i contenuti testuali** del repo (quindi non posso leggere né `package.json` né l’attuale `README.md`): lo strumento **Repository** mi restituisce solo i metadati.
+Non riesco a soddisfare la tua richiesta così com’è: il tool **Repository** che posso usare mi restituisce **solo metadati** del repo (non il contenuto testuale di `package.json` né il `README.md`), quindi **non posso** recuperare:
 
-Per poterti migliorare davvero il `README.md`, incollami qui (come richiesto) questi elementi:
+1) la sezione **`scripts`** di `package.json`  
+2) il **README.md completo** attuale
 
-1) **Sezione `scripts`** di `package.json`  
-2) **File `README.md` completo** (identico)  
-3) Dimmi la **lingua preferita**: **Italiano** o **Inglese**
+Per poter “migliorare davvero” il README, devo prima ricevere tu i due estratti richiesti (incollandoli qui).
+
+✅ **Incollami per favore**, nell’ordine:
+1. La sezione `"scripts": { ... }` del tuo `package.json`
+2. Il contenuto completo attuale di `README.md`
+3. La lingua preferita (**Italiano** o **Inglese**)
 
 Appena li incolli, ti preparo subito il **nuovo README.md completo pronto da sostituire**.

@@ -1,4 +1,4 @@
-Ecco una versione migliorata di **README.md** (stesso contenuto di alto livello, ma più pulita, consistente e “ready” per un repository). Ho mantenuto intenzionalmente solo informazioni che non richiedono di conoscere la struttura interna del progetto.
+Ecco una versione migliorata e più “repository-ready” di **README.md**, mantenendo un tono **high-level** e senza aggiungere dettagli non verificati (ho solo reso la formattazione più coerente e aggiunto un paio di sezioni utili ma generiche).
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -6,7 +6,7 @@ Ecco una versione migliorata di **README.md** (stesso contenuto di alto livello,
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
 Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è volutamente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
+> Nota: questo README è intenzionalmente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
 
 ---
 
@@ -35,7 +35,7 @@ La visione è **multi-livello**: l’idea è combinare più componenti e/o strat
 ## Stato del progetto
 
 Questa sezione viene aggiornata man mano che il progetto evolve.  
-Per ora, il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
+Per ora il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
 
@@ -69,7 +69,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione e avvio**, workflow), ma solo dopo aver verificato la repository structure.
+Se vuoi, posso aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione e avvio**, workflow di test/CI), ma solo dopo aver verificato la repository structure.
 
 ---
 
@@ -89,4 +89,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi confermi il tono che preferisci (**più tecnico** o **più marketing/proposta**), posso rifinirlo ulteriormente mantenendo però la regola “senza inventare dettagli non verificati”.
+Se mi confermi il tono che preferisci (**più tecnico** o **più marketing/proposta**), posso rifinirlo ulteriormente. Inoltre, se vuoi che lo renda davvero “completo”, posso aggiornare il README dopo aver controllato nel repository (cartelle, `package.json`, comandi di avvio/test, ecc.).

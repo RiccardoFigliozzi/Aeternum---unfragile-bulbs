@@ -1,9 +1,12 @@
-Non riesco ancora a procedere perché, tramite lo strumento **Repository**, al momento non mi sono stati forniti i contenuti testuali dei file (quindi non posso leggere né `package.json` né `README.md`).
+Non posso ancora procedere: con lo strumento **Repository** ho ottenuto solo i metadati del repo, ma **non i contenuti testuali** dei file (quindi non riesco a leggere né `package.json` né `README.md`). Di conseguenza non posso incollare:
 
-Per poterti fare un miglioramento reale del `README.md`, incollami qui:
+1) la sezione `scripts` di `package.json`  
+2) l’attuale `README.md` completo  
 
-1) **La sezione `scripts` di `package.json`** (solo quella)  
-2) **L’attuale `README.md` completo** (incolla tutto il file, identico)  
-3) **Lingua desiderata**: **Italiano** oppure **Inglese**
+Per poterti migliorare davvero il `README.md`, mi serve che tu mi fornisca tu qui i contenuti richiesti (copiandoli/incollandoli):
+
+1) Sezione **`scripts`** di `package.json`  
+2) File **`README.md` completo** (identico)  
+3) Lingua: **Italiano** o **Inglese** (dimmi quale preferisci)
 
 Appena mi incolli (1) + (2) + la lingua, ti preparo subito il nuovo `README.md` completo pronto da sostituire.

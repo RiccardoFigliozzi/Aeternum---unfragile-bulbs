@@ -1,18 +1,18 @@
-Ecco una versione migliorata e più “project-ready” del tuo `README.md`, mantenendo la stessa impostazione **high-level** e senza introdurre dettagli non verificati dal repository.
+Ecco una versione migliorata di **README.md** (più chiara, più “project-ready” e con linguaggio più consistente), senza introdurre dettagli non verificati del repository.
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
+Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è volutamente **high-level** fino a quando non verrà verificata la struttura reale del repository (es. cartelle/file presenti, presenza di `package.json`, script di build/test, ecc.).
+> Nota: questo README è volutamente **high-level** fino a quando non viene verificata la struttura reale del repository (es. presenza di `package.json`, cartelle/file, script di build/test, ecc.).
 
 ---
 
 ## Obiettivi
 
-**Unfragile Bulbs** vuole ridurre guasti e interventi lungo tutto il ciclo di vita, adottando un approccio focalizzato su:
+Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita, adottando un approccio focalizzato su:
 
 - **Affidabilità**: riduzione della probabilità di guasti nel tempo  
 - **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali  
@@ -34,7 +34,7 @@ La visione è **multi-livello**: l’idea è combinare più componenti e/o strat
 
 ## Stato del progetto
 
-Questa sezione verrà aggiornata man mano che il progetto evolve.  
+Questa sezione viene aggiornata man mano che il progetto evolve.  
 Per ora, il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
@@ -69,7 +69,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso anche aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione e avvio**, workflow) dopo aver verificato gli strumenti presenti nel repository.
+Se vuoi, posso aggiungere sezioni più concrete (es. **Struttura del progetto**, **Installazione e avvio**, workflow), ma solo dopo aver verificato la repository structure.
 
 ---
 
@@ -89,4 +89,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi autorizzi, posso anche proporti una seconda variante con una sezione aggiuntiva tipo **“Struttura del progetto”** e **“Installazione e avvio”**, ma solo dopo aver verificato la repository structure (cartelle/file e presenza di tool di build).
+Se mi dici se preferisci un tono **più tecnico** o **più “marketing/proposta”**, posso rifinire ulteriormente stile e sezioni (sempre senza inventare dettagli).

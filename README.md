@@ -1,10 +1,7 @@
-Non posso ancora procedere: lo strumento **Repository** che ho a disposizione restituisce solo metadati della repo e **non mi permette di leggere il contenuto di `README.md` né di `package.json`**, quindi non posso vedere né:
+Non posso ancora farlo: lo strumento **Repository** che ho disponibile qui restituisce solo metadati della repository (nomi, descrizione, permessi, ecc.) ma **non mi permette di leggere il contenuto dei file** come `README.md` o `package.json`.  
 
-- il testo integrale attuale di `README.md`
-- la sezione `scripts` di `package.json`
+Quindi al momento non posso fornirti “un unico blocco markdown” migliorato perché mi mancano i due blocchi richiesti:
+1) contenuto integrale attuale di `README.md`
+2) sezione `"scripts"` di `package.json`
 
-Per come hai impostato la richiesta, **mi servono quei due blocchi di testo** (incollati qui in chat). Appena li fornisci, ti restituisco **un unico blocco markdown** con la versione migliorata e coerente.
-
-Incolla qui:
-1) contenuto integrale di `README.md`
-2) sezione `"scripts"` di `package.json` (tutto il blocco)
+Incolla qui quei due testi (come da tua istruzione) e lo preparo subito.

@@ -1,8 +1,4 @@
-Perfetto: ho recuperato i metadati della repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma in questo momento **non ho il contenuto del file `README.md`** (nel risultato tool non compare alcun `README`/contents).
+Perfetto—al momento **non ho il contenuto di `README.md`**, e dal risultato del tool **non vedo nemmeno i “contents”** del file.
 
-Per procedere mi serve che tu faccia **una** di queste due cose:
-
-1) **Incolla qui tutto il contenuto attuale di `README.md`** (anche lungo), oppure  
-2) Dimmi **dove si trova** `README.md` nel repository (es. `README.md` in root oppure `docs/README.md`, ecc.).  
-
-👉 Se non sai il percorso: confermami se è **in root**. In base a quello, lo gestisco subito e poi ti riscrivo il README in modo migliorato (struttura, sezioni, installazione/uso, esempi, badges/link/screenshot se opportuni).
+Confermo che per procedere mi serve il percorso: **`README.md` è in root** oppure no?  
+(Se non sei sicuro, dimmelo “sì/no” e lo tratto io come riferimento principale.)

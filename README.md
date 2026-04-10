@@ -1,4 +1,6 @@
-Ecco una versione migliorata di **README.md** (stessa impostazione high-level, ma più “pulita” e strutturata; nessun dettaglio tecnico aggiunto non verificato).
+Certo! Ho rifinito il README migliorandone **chiarezza, leggibilità e struttura** (stessa impostazione “high-level”, senza aggiungere dettagli tecnici non verificati).  
+
+Qui sotto trovi una versione pronta da sostituire in `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -6,7 +8,7 @@ Ecco una versione migliorata di **README.md** (stessa impostazione high-level, m
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
 Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è volutamente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
+> Nota: il README qui sotto è deliberatamente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
 
 ---
 
@@ -24,7 +26,7 @@ Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita,
 
 ## Visione (approccio generale)
 
-La visione è **multi-livello**: l’idea è combinare più componenti e/o strategie (**hardware** e/o **software**) per:
+La visione è **multi-livello**: combinare più componenti e/o strategie (**hardware** e/o **software**) per:
 
 - aumentare la robustezza e la qualità complessiva
 - rendere più stabile il comportamento nel tempo
@@ -35,7 +37,7 @@ La visione è **multi-livello**: l’idea è combinare più componenti e/o strat
 ## Stato del progetto
 
 Questa sezione viene aggiornata man mano che il progetto evolve.  
-Per ora il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
+Al momento il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
 
@@ -43,7 +45,7 @@ Per ora il focus è su **intento**, **direzione** e **criteri generali**, evitan
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena verificata la struttura del repository (framework/tooling e configurazioni), questa sezione potrà diventare più specifica.
+> Dopo aver verificato la struttura del repository (tooling, configurazioni e framework), questa sezione potrà diventare più specifica.
 
 ---
 
@@ -89,7 +91,5 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se vuoi, posso anche rifinirlo ulteriormente in base a uno stile preferito:
-1) più **tecnico/engineering**, oppure 2) più **marketing/proposta**.
-
-Inoltre: confermi che il README può includere **installazione/avvio e comandi** *solo dopo* che controllo la struttura del repo?
+### Conferma sulla tua richiesta
+Sì: confermo che **installazione/avvio e comandi** verranno inclusi **solo dopo** aver controllato la struttura reale del repository (cartelle/file e configurazioni).

@@ -1,8 +1,4 @@
-Ecco una versione **migliorata** del `README.md`, più chiara e professionale, mantenendo contenuti **high-level** e senza introdurre comandi o dettagli di struttura/avvio non verificati dal repository.
-
-> Nota: in questa sessione ho verificato solo i metadati del repo (nome/branch/licenza/language), ma non l’albero dei file (`ls`/`tree`) né l’eventuale `package.json`. Quindi evito sezioni “Installazione/Struttura/Comandi” per non inventare.
-
-Copia e incolla questo come nuovo `README.md`:
+Certo — ecco un `README.md` migliorato (più chiaro e professionale), mantenuto **high-level** e senza introdurre dettagli non verificati dal repository.
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -93,4 +89,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se vuoi, nel prossimo step posso renderlo **ancora più accurato** aggiungendo sezioni come **“Struttura del progetto”** e **“Installazione e avvio”**: mi basta l’output di `ls` e `tree -L 2` (e l’eventuale `package.json`, se presente).
+Se vuoi, nel prossimo step posso renderlo **ancora più accurato** includendo sezioni come **“Struttura del progetto”** e **“Installazione e avvio”**: mi basta l’output di `ls` e `tree -L 2` (e l’eventuale `package.json`, se presente).

@@ -1,14 +1,12 @@
-Ho trovato la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma al momento il tool che ho a disposizione mi sta restituendo **solo metadati** (non il testo di `README.md` e non `package.json`). Quindi non posso ancora “migliorare il contenuto” senza vedere l’attuale README.
-
-Per procedere, incolla qui (come da tua opzione):
+Al momento i tool che ho a disposizione mi stanno dando **solo metadati della repository**, non il contenuto dei file (quindi non riesco a vedere né `README.md` né `package.json`). Per questo **non posso ancora riscrivere/migliorare** il README senza che tu mi incolli qui:
 
 1) **Tutto il `README.md`**  
-2) La sezione **`"scripts"`** di **`package.json`** (va bene anche solo quella; se ci sono campi extra utili tipo `engines`, `proxy`, ecc. aggiungili pure)
-
-Inoltre dimmi al volo:
-- è un progetto **front-end** (Vite/React/Next) o **server** (Node/Express)?
-- preferisci i comandi in **npm** / **yarn** / **pnpm**?
+2) La sezione **`"scripts"`** di **`package.json`** (anche solo quella)
 
 Appena mi incolli quei contenuti, ti restituisco subito:
 - una versione migliorata del README
-- sezione **Build/Run** con comandi corretti per quel tipo di progetto e per il package manager scelto.
+- una sezione **Build/Run** con comandi corretti (dipendenti da front-end/server e da npm/yarn/pnpm)
+
+Nel frattempo: da metadati non vedo abbastanza per dirlo con certezza, ma il repo è **JavaScript**. Mi serve comunque `package.json`/README per capire se è **front-end (Vite/React/Next)** o **server (Node/Express)** e per scegliere i comandi giusti.
+
+📌 Dimmi anche la preferenza tra **npm / yarn / pnpm** (o “va bene qualsiasi”).

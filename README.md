@@ -1,9 +1,9 @@
-Certo! Ho però bisogno della **sezione `"scripts"` di `package.json`** per rendere il README *perfettamente accurato* (URL dev e comandi esatti).
+Ho accesso alla repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma in questa chat non posso vedere direttamente il contenuto attuale di `README.md` né leggere `package.json`.
 
-Al momento non ho ricevuto qui la parte richiesta. Puoi incollare:
+Per poter **migliorare correttamente il README.md** e aggiornare **tutti** i comandi/URL in modo coerente, incollami qui:
 
-- **la sezione `"scripts"` di `package.json`**
+1) **il contenuto di `package.json` (almeno la sezione `"scripts"`)**  
+2) **il contenuto attuale di `README.md`** (quello che vuoi migliorare)
 
-e dimmi anche se lo preferisci in **Italiano** (come ora) o **Inglese**.
-
-Appena me la mandi, ti restituisco il **nuovo `README.md` pronto da sostituire**, aggiornando tutti i comandi e le sezioni correlate in modo coerente con il progetto.
+Appena li ho, ti restituisco il **nuovo README.md pronto da sostituire**.  
+Vuoi che lo riscriva in **Italiano** (come l’input) o **Inglese**?

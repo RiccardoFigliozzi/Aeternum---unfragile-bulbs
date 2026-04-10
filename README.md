@@ -1,10 +1,8 @@
-Ho capito cosa ti serve, ma in questa sessione il tool **Repository** che ho a disposizione mi restituisce solo metadati della repo (nome, descrizione, permessi, ecc.) e **non mi permette di leggere direttamente** il contenuto di `README.md` o di `package.json`.
+Ho provato a usare il tool **Repository**, ma in questa configurazione mi restituisce solo metadati della repo (nome, permessi, licenza, ecc.) e **non mi permette di leggere direttamente** il contenuto di `README.md` né quello di `package.json` (quindi non posso nemmeno estrarre la sezione `"scripts"`).
 
-Quindi non posso prendere il tuo README attuale né la sezione `"scripts"` da `package.json` senza che tu li incolli qui.
+Per procedere, incolla qui (testualmente):
 
-Per favore incolla qui testualmente:
+1) **contenuto integrale attuale** di `README.md`  
+2) **sezione `"scripts"`** di `package.json`  
 
-1) **contenuto attuale integrale** di `README.md`  
-2) **sezione `"scripts"`** di `package.json`
-
-Appena me li dai, ti preparo subito una versione “migliorata” del README (struttura chiara, sezioni, prerequisiti, comandi, eventuali badge).
+Appena li incolli, ti preparo subito una versione “migliorata” del README (struttura, prerequisiti, comandi, eventuali badge, ecc.).

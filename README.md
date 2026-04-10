@@ -1,4 +1,4 @@
-Ecco una versione migliorata di **README.md** (più chiara, più “project-ready” e con linguaggio più consistente), senza introdurre dettagli non verificati del repository.
+Ecco una versione migliorata di **README.md** (stesso contenuto di alto livello, ma più pulita, consistente e “ready” per un repository). Ho mantenuto intenzionalmente solo informazioni che non richiedono di conoscere la struttura interna del progetto.
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -6,7 +6,7 @@ Ecco una versione migliorata di **README.md** (più chiara, più “project-read
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
 Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è volutamente **high-level** fino a quando non viene verificata la struttura reale del repository (es. presenza di `package.json`, cartelle/file, script di build/test, ecc.).
+> Nota: questo README è volutamente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
 
 ---
 
@@ -14,11 +14,11 @@ Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione
 
 Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita, adottando un approccio focalizzato su:
 
-- **Affidabilità**: riduzione della probabilità di guasti nel tempo  
-- **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali  
-- **Riduzione della manutenzione**: meno interventi e sostituzioni più rare  
-- **Impatto ambientale**: meno rifiuti grazie a maggiore durata  
-- **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile  
+- **Affidabilità**: riduzione della probabilità di guasti nel tempo
+- **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali
+- **Riduzione della manutenzione**: meno interventi e sostituzioni più rare
+- **Impatto ambientale**: meno rifiuti grazie a maggiore durata
+- **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile
 
 ---
 
@@ -43,7 +43,7 @@ Per ora, il focus è su **intento**, **direzione** e **criteri generali**, evita
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena verificata la struttura del repository (tool/framework e configurazioni), questa sezione potrà diventare più specifica.
+> Appena verificata la struttura del repository (framework/tooling e configurazioni), questa sezione potrà diventare più specifica.
 
 ---
 
@@ -69,7 +69,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso aggiungere sezioni più concrete (es. **Struttura del progetto**, **Installazione e avvio**, workflow), ma solo dopo aver verificato la repository structure.
+Se vuoi, posso aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione e avvio**, workflow), ma solo dopo aver verificato la repository structure.
 
 ---
 
@@ -89,4 +89,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi dici se preferisci un tono **più tecnico** o **più “marketing/proposta”**, posso rifinire ulteriormente stile e sezioni (sempre senza inventare dettagli).
+Se mi confermi il tono che preferisci (**più tecnico** o **più marketing/proposta**), posso rifinirlo ulteriormente mantenendo però la regola “senza inventare dettagli non verificati”.

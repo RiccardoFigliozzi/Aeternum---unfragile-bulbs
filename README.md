@@ -1,50 +1,45 @@
-Ecco una versione migliorata di `README.md`, mantenendo **solo** informazioni verificabili dai metadati disponibili (nome progetto, linguaggio, licenza) e rendendo la guida più pulita/strutturata. Le parti non verificabili restano esplicitamente “da confermare”.
+Ecco una versione migliorata di **`README.md`** per la repository **Aeternum — unfragile-bulbs**, basata **solo** su metadati verificabili (nome progetto, linguaggio, licenza) e con sezioni pulite. Le parti non verificabili sono lasciate esplicitamente come “da confermare”.
 
 ```md
 # Aeternum — Unfragile Bulbs
 
+## Informazioni
+- **Linguaggio:** JavaScript
+- **Licenza:** MIT License  
+  Link licenza (MIT): https://api.github.com/licenses/mit
+
 ## Panoramica
-**Aeternum — Unfragile Bulbs** è un progetto scritto in **JavaScript**.
-
-> Nota: con i soli metadati disponibili non è possibile verificare con certezza:
-> - obiettivo/scopo del progetto,
-> - framework o librerie utilizzate,
-> - comandi di avvio/build,
-> - struttura del progetto, dipendenze e tooling.
-
-## Linguaggio
-- **JavaScript**
-
-## Licenza
-Questo progetto è rilasciato con **MIT License**.
-
-- Link licenza (MIT): https://api.github.com/licenses/mit
+**Da confermare:** con i soli metadati disponibili non è possibile verificare con certezza:
+- scopo/obiettivo del progetto,
+- framework o librerie utilizzate,
+- struttura del progetto,
+- dipendenze e tooling,
+- comandi di avvio/build e configurazioni.
 
 ## Installazione
 **Da confermare:** per fornire istruzioni accurate (es. `npm install`, eventuale setup aggiuntivo, variabili d’ambiente) serve verificare la configurazione del repository (tipicamente `package.json` e/o altra documentazione).
 
 ## Avvio / Build
-**Da confermare:** per elencare comandi corretti (es. `npm start`, `npm run build`, ecc.) è necessario verificare la sezione `scripts` di `package.json`.
+**Da confermare:** per indicare comandi corretti (es. `npm start`, `npm run build`, ecc.) è necessario verificare la sezione `scripts` di `package.json`.
 
-## Testing / Lint
-**Da confermare:** per includere:
-- comandi di **test**,
-- comandi di **lint/format**,
-- eventuali step CI,
-verificare la presenza di `scripts` in `package.json` e/o configurazioni (es. `.eslintrc`, `jest`, `vitest`, ecc.).
+## Test e Lint
+**Da confermare:** per includere comandi di test e lint/format (e/o eventuali step CI), verificare:
+- presenza di `scripts` in `package.json`,
+- tool di testing (es. Jest/Vitest) e/o lint/format (es. ESLint/Prettier),
+- eventuali configurazioni dedicate (es. `.eslintrc`, ecc.).
 
 ## Contribuire
-**Da confermare:** per rendere la guida alla collaborazione completa, sarebbe utile verificare (o aggiungere) nel repository:
-- linee guida per **issue** e **pull request**,
+**Da confermare:** per rendere la guida completa, verificare (o aggiungere) nel repository:
+- linee guida per issue e pull request,
 - convenzioni di formattazione (lint/format),
-- procedure per testare e validare le modifiche.
+- procedura per testare e validare le modifiche.
 
-## Prossimi passi (per completare il README)
-Se mi fornisci:
-1. il contenuto attuale di `README.md` (se esiste nel repo),
-2. almeno la sezione `scripts` di `package.json`,
+## Prossimi passi
+Se vuoi completare il README con istruzioni pratiche, fornisci almeno:
+1. contenuto attuale di `README.md` (se esiste),
+2. la sezione `scripts` di `package.json`.
 
-posso riscrivere questa documentazione includendo sezioni pratiche come:
+Con queste informazioni posso aggiungere sezioni come:
 - **Setup**
 - **Commands** (dev/test/build)
 - **Testing**
@@ -52,4 +47,4 @@ posso riscrivere questa documentazione includendo sezioni pratiche come:
 - **Struttura del progetto** (se ricavabile dal repository)
 ```
 
-Se vuoi, posso anche adattarlo al tuo stile (più breve o più “tech”)—dimmi solo che tono preferisci.
+Se mi incolli anche il contenuto attuale del `README.md` e/o la sezione `scripts` di `package.json`, posso renderlo “fully usable” con comandi reali (senza lasciare troppe parti “da confermare”).

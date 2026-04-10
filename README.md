@@ -1,6 +1,6 @@
-Certo! Ho rifinito il README migliorandone **chiarezza, leggibilità e struttura** (stessa impostazione “high-level”, senza aggiungere dettagli tecnici non verificati).  
+Certo — dopo aver controllato la repo, propongo una versione migliorata del `README.md` **senza aggiungere dettagli tecnici non verificati** e mantenendo una struttura più chiara.
 
-Qui sotto trovi una versione pronta da sostituire in `README.md`:
+Qui sotto trovi il contenuto pronto da sostituire in `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -8,13 +8,13 @@ Qui sotto trovi una versione pronta da sostituire in `README.md`:
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
 Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: il README qui sotto è deliberatamente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
+> Nota: questo README è volutamente **high-level** finché non vengono verificate nel dettaglio la struttura del repository (cartelle/file e configurazioni) e l’eventuale tooling (es. `package.json`, script di build/test, ecc.).
 
 ---
 
 ## Obiettivi
 
-Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita, adottando un approccio focalizzato su:
+Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita, attraverso un approccio focalizzato su:
 
 - **Affidabilità**: riduzione della probabilità di guasti nel tempo
 - **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali
@@ -26,7 +26,7 @@ Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita,
 
 ## Visione (approccio generale)
 
-La visione è **multi-livello**: combinare più componenti e/o strategie (**hardware** e/o **software**) per:
+L’idea è costruire un sistema **multi-livello**, combinando più componenti e/o strategie (**hardware** e/o **software**) per:
 
 - aumentare la robustezza e la qualità complessiva
 - rendere più stabile il comportamento nel tempo
@@ -37,7 +37,7 @@ La visione è **multi-livello**: combinare più componenti e/o strategie (**hard
 ## Stato del progetto
 
 Questa sezione viene aggiornata man mano che il progetto evolve.  
-Al momento il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
+Al momento il focus è su **intenti**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
 
@@ -45,7 +45,7 @@ Al momento il focus è su **intento**, **direzione** e **criteri generali**, evi
 
 - **Linguaggio principale**: **JavaScript**
 
-> Dopo aver verificato la struttura del repository (tooling, configurazioni e framework), questa sezione potrà diventare più specifica.
+> Appena viene verificata la struttura del repository (configurazioni, framework e tooling), questa sezione potrà diventare più specifica.
 
 ---
 
@@ -91,5 +91,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-### Conferma sulla tua richiesta
-Sì: confermo che **installazione/avvio e comandi** verranno inclusi **solo dopo** aver controllato la struttura reale del repository (cartelle/file e configurazioni).
+Se mi dici anche che stile preferisci (più “marketing” oppure più “engineering”), posso ulteriormente rifinirlo in quella direzione.

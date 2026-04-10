@@ -1,7 +1,14 @@
-Non riesco ancora a leggere il contenuto reale dei file della repository con lo strumento **Repository**: al momento mi restituisce solo metadati della repo (nome, licenza, permessi, ecc.) e **non** il testo di `README.md` né posso estrarre la sezione `"scripts"` di `package.json`.
+Al momento lo strumento **Repository** che ho a disposizione sta restituendo **solo metadati della repo** (nome, license, permessi, ecc.) e **non**:
+1) il contenuto testuale attuale di `README.md`
+2) la sezione `"scripts"` di `package.json`
 
-Per procedere devo poter vedere qui:
-1) **contenuto integrale attuale di `README.md`**
-2) **sezione `"scripts"` di `package.json`** (anche solo quella)
+Quindi **non posso incollarti** qui quei due estratti né, di conseguenza, preparare un nuovo `README.md` “pronto da copiare” basandomi sul contenuto reale del progetto.
 
-Incollami tu questi due pezzi (anche copiandoli direttamente dal file), e ti preparo subito un **nuovo `README.md` completo e migliorato “pronto da copiare”**.
+### Per sbloccarti subito
+Incolla qui tu (anche in due messaggi distinti):
+1) **contenuto integrale di `README.md`**
+2) **solo la sezione `"scripts"` di `package.json`** (tipo: `"scripts": { ... }`)
+
+Appena li ricevo, ti:
+- propongo una versione migliorata e più chiara,
+- te la restituisco **completa in formato README.md** pronta da copiare e incollare.

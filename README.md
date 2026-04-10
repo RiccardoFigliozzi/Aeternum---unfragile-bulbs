@@ -2,7 +2,7 @@ Ho provato a usare lo strumento **Repository**, ma al momento mi sta restituendo
 
 Per procedere come richiesto, mi servono i contenuti. Nel modo più veloce:
 
-1) **Incolla qui tutto il `README.md`**  
+1) **Incolla qui tutto il `README.md`**
 2) **Incolla qui la sezione `"scripts"` di `package.json`** (anche solo quella)
 
 In più dimmi la preferenza: **npm / yarn / pnpm** (oppure “va bene qualsiasi”).

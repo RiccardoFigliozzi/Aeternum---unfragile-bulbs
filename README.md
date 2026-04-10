@@ -1,35 +1,33 @@
-Ho controllato la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma non risulta nel metadata una descrizione del progetto (campo `description: null`). Per migliorare davvero *al 100%* il tuo `README.md` mi serve almeno una di queste cose:
+Non riesco a leggere/ottenere direttamente il contenuto attuale di `README.md` con lo strumento a disposizione (attualmente vedo solo i metadati della repo: `description: null`, language: JavaScript, licenza: MIT). Per migliorare *davvero* il README “in modo preciso” mi serve uno di questi:
 
-1) incollami qui **il contenuto attuale completo** di `README.md` (non quello parziale/inventato), **oppure**  
-2) dimmi 2-3 dettagli su:
-- cosa fa Aeternum (1-2 frasi)
-- stack/framework (es. Express? React? solo Node?)
-- comandi disponibili (es. `npm start` va? esiste `npm test`/`npm run build`?)
+1) **Incolla qui il contenuto attuale completo** di `README.md`, oppure  
+2) Rispondi a queste **3 domande rapide**:
+- **Cosa fa Aeternum**? (1–2 frasi)
+- **Stack**: è solo Node? Usa Express? React? altro?
+- **Comandi**: quali ci sono in `package.json`? (almeno `npm start` e se esistono `npm test` / `npm run build`)
 
-Nel frattempo, ti lascio una **versione README migliorata e “pronta”** che puoi già usare: è completa, ma lascia piccole parti da personalizzare (tra parentesi).
-
-> **Sostituisci** le parti tra `[...]` con i dettagli reali del tuo progetto.
+Nel frattempo, se vuoi, puoi anche usare subito questa versione “pronta” (poi la rendo perfetta appena mi dai i dettagli reali):
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 ## Panoramica
-**Aeternum — Unfragile Bulbs** è un progetto in **JavaScript** che [descrivi qui in 1–2 frasi: obiettivo, problema che risolve, idea principale o risultato atteso].  
-L’esperienza mira a [es. simulare un comportamento, calcolare metriche, visualizzare un’animazione, gestire logica di gioco, ecc.].
+**Aeternum — Unfragile Bulbs** è un progetto in **JavaScript** che [descrivi qui in 1–2 frasi: obiettivo e cosa produce].  
+L’esperienza mira a [visualizzare/simulare/gestire/ottimizzare …], con un focus su [tema o meccanica principale].
 
 ## Funzionalità
-- [ ] [Funzionalità 1 — es. simulazione/logic core]
-- [ ] [Funzionalità 2 — es. interazione utente, UI, endpoint API, ecc.]
-- [ ] [Funzionalità 3 — es. salvataggio dati, progresso, test, ecc.]
-- [ ] [Gestione/feature principale (se presente)]
+- [ ] [Funzionalità principale #1]
+- [ ] [Funzionalità principale #2]
+- [ ] [Funzionalità principale #3]
+- [ ] [Feature/integrazione extra, se presente]
 
 ## Tecnologie
 - **JavaScript**
-- [ ] [Eventuali dipendenze principali — es. Node.js, Express, React, Vite, Jest, ecc.]
+- [ ] [Node.js / Express / React / Vite / Jest / altro, se presenti]
 
 ## Prerequisiti
 - **Node.js** (consigliata versione **LTS**)
-- **npm** (di solito incluso con Node.js)
+- **npm**
 
 ## Installazione
 ```bash
@@ -41,11 +39,10 @@ npm install
 npm start
 ```
 
-> Se il progetto usa una porta o variabili d’ambiente, aggiungi qui:
-> - URL/porta: `http://localhost:[PORT]`
-> - Config: `cp .env.example .env`
+> URL/porta (se applicabile): `http://localhost:[PORT]`  
+> Variabili d’ambiente (se applicabile): `cp .env.example .env`
 
-## Test e/o Build
+## Test e build
 Se presenti nello repository:
 ```bash
 npm test
@@ -55,23 +52,19 @@ npm test
 npm run build
 ```
 
-## Struttura (indicativa)
+## Struttura del progetto (indicativa)
 - `src/` — codice sorgente
 - `public/` — risorse statiche (se presenti)
 - `[altra cartella]` — [cosa contiene]
 
-## Note importanti
-- [ ] [es. come avviare in modalità dev/prod]
-- [ ] [es. requisiti particolari, limiti, dipendenze native, ecc.]
-
 ## Contribuire
 1. Fai un fork della repository
 2. Crea un branch: `git checkout -b feature/nome-feature`
-3. Esegui commit: `git commit -m "Aggiunge ..."`
+3. Commit: `git commit -m "Aggiunge ..."`
 4. Apri una Pull Request
 
 ## Licenza
 Questo progetto è rilasciato con **licenza MIT**. Vedi il file `LICENSE` per i dettagli.
 ```
 
-Se mi incolli **il README.md attuale completo** (o mi dai gli info richiesti), te lo rigenero in modo preciso: titolo, descrizione, comandi reali, struttura effettiva delle cartelle e sezioni coerenti con il codice.
+Incollami il `README.md` attuale (punto 1) oppure dimmi i 3 dettagli (punto 2) e te lo rigenero in modo esatto: sezioni, comandi corretti, descrizione coerente col progetto e, se serve, anche una “Roadmap”.

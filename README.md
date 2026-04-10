@@ -1,8 +1,8 @@
-Posso farlo, ma per scrivere una versione “definitiva” con comandi **reali** ho bisogno che tu mi incolli anche:
+Non riesco ancora a “migliorare il README.md” in modo affidabile perché, al momento, non ho accesso al contenuto attuale del file `README.md` né alla sezione `scripts` del `package.json`: l’unico tool disponibile (“Repository”) mi restituisce solo i metadati del repo, non i file.
 
-1) **L’attuale contenuto di `README.md`** (idealmente tutto, anche solo la parte principale va bene)  
-2) La sezione **`scripts`** del tuo **`package.json`** (basta che incolli quella parte)
+Per procedere subito e restituirti **una versione completa pronta da incollare** in `README.md`, incollami qui:
 
-> Al momento ho solo il testo che vuoi sostituire (una bozza), ma non posso ancora leggere i comandi effettivi del progetto.
+1) **Il contenuto attuale di `README.md`** (anche solo la parte principale, ma meglio tutto)  
+2) La sezione **`scripts`** del tuo **`package.json`** (solo quella)
 
-Incolla qui `scripts` e il README attuale e ti restituisco immediatamente una nuova versione completa da mettere in `README.md`.
+Appena li ricevo, ti restituisco immediatamente una nuova versione migliorata e coerente con i comandi reali del progetto.

@@ -1,23 +1,27 @@
-Certo — posso migliorare il contenuto di `README.md`, ma al momento non ho ancora modo di verificare **com’è fatto davvero il repo** (struttura cartelle/file, eventuale `package.json`, comandi di build/run, ecc.). Quindi ti propongo qui sotto una versione **più chiaro, coerente e “orientata al progetto/contributi”** senza introdurre comandi o cartelle non confermate.
+Certo! Prima però ho usato il tool disponibile per verificare il repo: ho confermato che la repository si chiama **RiccardoFigliozzi/Aeternum---unfragile-bulbs** ed è pubblica.  
 
-Copia e incolla questo contenuto come nuovo `README.md`:
+Detto questo, per “migliorare davvero il README” senza introdurre ipotesi su struttura/cartelle/comandi, mi manca l’output di `ls` / `tree -L 2` / `package.json` (che mi hai chiesto tu di usare se vuoi sezioni perfettamente accurate). Quindi, in questa risposta non posso inserire comandi di installazione/avvio o una “Struttura del progetto” certa.
+
+Qui sotto trovi comunque una versione **migliorata e più orientata al progetto** del tuo README, mantenendo un livello **high-level** dove necessario e senza introdurre dettagli non verificati.
+
+Copia e incolla questo come nuovo `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illuminazione con l’ambizione di essere **più affidabili nel tempo**, con **maggiore durata** e **minore manutenzione**.
+L’obiettivo di questo progetto è sviluppare soluzioni per l’illuminazione con un focus su **affidabilità nel tempo**, **maggiore durata** e **minore manutenzione**.
 
-> Nota: il README è mantenuto volutamente “ad alto livello” finché non si verifica la struttura reale del repository (cartelle/file, `package.json`, script, ecc.).
+> Nota: questo README è volutamente “high level” finché non verrà verificata la struttura reale del repository (cartelle/file, eventuale `package.json`, script di build/test, ecc.).
 
 ---
 
 ## Idee e obiettivi
 
-**Unfragile Bulbs** mira a ridurre guasti e sostituzioni lungo tutto il ciclo di vita, puntando su:
+**Unfragile Bulbs** nasce per ridurre guasti e sostituzioni lungo l’intero ciclo di vita, puntando su:
 
 - **Affidabilità**: riduzione dei guasti nel tempo
-- **Durabilità**: componenti e approccio progettati per condizioni d’uso realistiche
+- **Durabilità**: componenti e scelte progettuali pensate per condizioni d’uso reali
 - **Riduzione della manutenzione**: meno interventi e sostituzioni più rare
 - **Impatto ambientale**: meno rifiuti grazie a maggiore longevità
 - **Efficienza**: ottimizzazione dei consumi e del rendimento (quando applicabile)
@@ -26,7 +30,7 @@ Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illumina
 
 ## Visione (approccio high level)
 
-L’approccio previsto è **multi-livello**, composto da più componenti e/o strategie (hardware e/o software) che puntano a:
+L’approccio previsto è **multi-livello**, composto da più componenti e/o strategie (hardware e/o software) orientate a:
 
 - migliorare robustezza e qualità dell’implementazione
 - rendere più stabile il comportamento nel tempo
@@ -36,8 +40,8 @@ L’approccio previsto è **multi-livello**, composto da più componenti e/o str
 
 ## Stato del progetto
 
-Questa sezione è pensata per evolvere man mano che il repository cresce.  
-Al momento il focus è su: **intento, direzione e criteri generali**, senza entrare in dettagli tecnici non verificati.
+Questa sezione verrà aggiornata man mano che il repository evolve.  
+Al momento il focus è su **intento**, **direzione** e **criteri generali**, senza entrare in dettagli tecnici non verificati.
 
 ---
 
@@ -45,13 +49,13 @@ Al momento il focus è su: **intento, direzione e criteri generali**, senza entr
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena disponibile/verificata la struttura del progetto (es. `package.json`, framework, strumenti di build/test), questa sezione potrà diventare più precisa.
+> Appena sarà verificata la struttura del progetto (es. `package.json`, framework, strumenti di build/test), questa sezione potrà diventare più precisa.
 
 ---
 
-## Roadmap
+## Roadmap (bozza)
 
-Bozza di lavoro (da aggiornare):
+Da aggiornare progressivamente:
 
 - [ ] Raccogliere requisiti e casi d’uso
 - [ ] Definire criteri di durabilità/robustezza e metriche di valutazione
@@ -65,15 +69,15 @@ Bozza di lavoro (da aggiornare):
 
 I contributi sono benvenuti. Per contribuire:
 
-1. Apri una **issue** per discutere l’idea o la modifica
+1. Apri una **issue** per discutere idea o modifica
 2. Implementa la modifica
 3. Invia una **pull request**
 4. Nella PR indica chiaramente:
    - cosa cambia
    - perché serve
-   - come testare (se applicabile)
+   - come testarlo (se applicabile)
 
-Se vuoi, posso anche aggiungere linee guida di contributo (stile commit, branching model, lint/test) **una volta verificati** gli strumenti presenti nel repo.
+Se vuoi, posso aggiungere anche linee guida di contributo (es. stile commit, branching model, lint/test) **una volta verificati gli strumenti presenti nel repo**.
 
 ---
 
@@ -93,9 +97,9 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi dici di voler rendere anche **“Struttura del progetto”** e **“Installazione e avvio”** *perfettamente accurate*, incollami qui l’output di:
+Se mi incolli qui anche l’output di:
 - `ls`
 - `tree -L 2`
 - (se esiste) `package.json`
 
-e te li sistemo senza ipotesi.
+posso rendere perfettamente accurate anche le sezioni **“Struttura del progetto”** e **“Installazione e avvio”** (senza comandi ipotizzati).

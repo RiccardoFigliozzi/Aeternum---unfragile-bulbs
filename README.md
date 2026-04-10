@@ -1,13 +1,13 @@
-Perfetto—ho provato a usare il tool `Repository`, ma al momento restituisce **solo metadati della repository** (nome, descrizione, licenza, ecc.), **non** il testo dei file.
+Perfetto—però in questo momento **non ho ancora il contenuto attuale di `README.md`** né posso ricavare la sezione `scripts` di `package.json`, perché il tool `Repository` che ho a disposizione **sta restituendo solo metadati** della repo (non il testo dei file).
 
-Per poterti preparare un `README.md` migliorato (e la sezione *Build/Run* coerente con `package.json`), mi serve che tu incolli qui:
+Per procedere come hai chiesto, incollami qui:
 
 1) **Tutto il contenuto attuale di `README.md`**  
-2) La sola sezione esatta di `package.json`:
+2) La **sola** sezione esatta di `package.json`:
 ```json
 "scripts": { ... }
 ```
 
-Appena me li fornisci, preparo:
+Appena me li fornisci, ti preparo:
 - un **README.md completo e migliorato**
-- una sezione **Build/Run** usando *esattamente* i comandi presenti in `scripts`.
+- una sezione **Build/Run** coerente con **esattamente** i comandi presenti in `scripts`.

@@ -1,9 +1,9 @@
-Ho capito: **non posso leggere direttamente** `README.md` (né `package.json`) dai metadati disponibili.
+Certo! Ho recuperato la repository **`RiccardoFigliozzi/Aeternum---unfragile-bulbs`**, ma nei metadati che ho a disposizione non risulta direttamente il contenuto di `README.md`, quindi non posso “migliorarlo” partendo dal testo attuale senza che tu lo incolli qui.
 
-Quindi dimmi quale opzione scegli:
+Per procedere velocemente, dimmi una delle due cose:
 
 ### Opzione A) Incolla qui l’attuale `README.md`
-Incolla tutto il testo del tuo `README.md` e te lo restituisco migliorato.
+Incolla tutto il contenuto del file `README.md` e ti restituisco una versione migliorata pronta da copiare-incollare.
 
 **Oppure**
 
@@ -12,4 +12,4 @@ Incolla tutto il testo del tuo `README.md` e te lo restituisco migliorato.
 2) **Stack:** è solo Node? Express? React? altro?  
 3) **Comandi:** quali sono in `package.json`? (almeno `npm start` e se esistono `npm test` / `npm run build`)
 
-Appena mi rispondi, ti preparo una versione pronta da copiare-incollare.
+Appena mi rispondi, ti preparo subito una bozza di README ottimizzata.

@@ -1,8 +1,11 @@
-Ok, ho chiamato il tool **Repository**, ma qui disponibile mi restituisce **solo metadati** della repository (nome, licenza, permessi, ecc.) e **non il contenuto** dei file (`README.md` o `package.json`).
+Ho provato a usare il tool **Repository**, ma al momento mi restituisce solo metadati (nome repo, licenza, permessi, ecc.) e **non** il contenuto dei file, quindi non posso recuperare qui né:
 
-Quindi, per migliorare davvero `README.md`, mi serve che tu incolli qui:
+1) il contenuto integrale attuale di `README.md`  
+2) la sezione `"scripts"` di `package.json`
 
-1) **contenuto integrale attuale di `README.md`**  
-2) **sezione `"scripts"`** di `package.json` (anche solo quella parte)
+Per poter migliorare davvero `README.md`, incollami tu (in chat) questi due pezzi di contenuto:
 
-Appena me li incolli, ti preparo subito una versione aggiornata e “ready to copy” di `README.md`.
+- **contenuto integrale attuale di `README.md`**
+- **sezione `"scripts"` di `package.json`** (anche solo quella)
+
+Appena li incolli, ti preparo subito una versione aggiornata di `README.md` pronta da copiare.

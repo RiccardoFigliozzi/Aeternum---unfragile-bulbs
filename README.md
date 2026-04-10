@@ -1,3 +1,7 @@
-**B** ✅
+Perfetto! Al momento però **non mi hai incollato il contenuto attuale completo di `README.md`**: mi risulta solo questa riga iniziale:
 
-Incolla qui il contenuto attuale di `README.md` (e, se serve, anche la sezione `"scripts"` di `package.json`). Appena me lo fornisci, preparo una versione migliorata e pronta da sostituire.
+> **B** ✅
+
+Per poterlo migliorare davvero, ho bisogno che tu mi incolli **tutto il contenuto attuale di `README.md`** (anche eventualmente la sezione pertinente di `package.json` con `scripts`, se esiste).
+
+Nel frattempo, confermo che il progetto si chiama **Aeternum---unfragile-bulbs**. Appena mi fornisci l’attuale `README.md`, preparo una versione migliore e pronta da sostituire.

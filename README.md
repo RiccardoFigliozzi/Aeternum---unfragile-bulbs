@@ -1,7 +1,8 @@
-Ho accesso alla repository, ma con lo strumento che mi hai indicato non posso ancora recuperare direttamente il contenuto dei file (`README.md` e la sezione `scripts` di `package.json`)—quindi non posso riscriverlo “pronto da sostituire” senza vedere l’attuale testo.
+Certo! Però per riscrivere **README.md** “pronto da sostituire” mi servono le 3 informazioni che mi hai chiesto di incollarti (in particolare **il testo attuale completo di README.md** e la sezione **`"scripts"`** di `package.json`).
 
-Per procedere, incolla qui (copiando/incollando) esattamente quanto segue:
+⚠️ Dalla sola chiamata che ho fatto non riesco ancora a recuperare direttamente il contenuto dei file (README e `package.json`) per copiarlo qui esattamente.
 
+### Per favore incolla qui (copiando/incollando esattamente):
 1) **Sezione `"scripts"`** di `package.json` (esattamente com’è)  
 2) **Contenuto completo attuale** di `README.md`  
 3) **Lingua preferita**: **Italiano** o **Inglese**

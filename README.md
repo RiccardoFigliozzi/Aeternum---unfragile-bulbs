@@ -1,4 +1,4 @@
-Posso migliorare il `README.md`, ma al momento non ho il testo attuale del file: i metadati della repository che ho a disposizione non includono il contenuto di `README.md`.
+Certo — però con i metadati che ho recuperato **non risulta incluso il contenuto attuale di `README.md`**, quindi non posso ancora “migliorarlo” mantenendone testo e struttura.
 
 Per procedere, scegli una di queste due strade:
 
@@ -10,4 +10,4 @@ Incolla l’intero `README.md` e ti restituisco una versione migliorata pronta d
 2) **Stack:** è solo Node? Express? React? altro?  
 3) **Comandi:** quali sono in `package.json` (almeno `npm start` e se esistono `npm test` / `npm run build`)  
 
-Appena mi rispondi, ti preparo una bozza ottimizzata del README.
+Appena mi rispondi con A o con B, ti preparo una bozza ottimizzata del README.

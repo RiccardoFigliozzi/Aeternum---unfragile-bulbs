@@ -1,24 +1,24 @@
-Certo — dopo aver controllato la repo, propongo una versione migliorata del `README.md` **senza aggiungere dettagli tecnici non verificati** e mantenendo una struttura più chiara.
+Ecco una versione **migliorata e più chiara** del `README.md`, mantenendo un taglio **high-level** dove non ci sono evidenze verificate (evito quindi dettagli su struttura/config/build).
 
-Qui sotto trovi il contenuto pronto da sostituire in `README.md`:
+Puoi sostituire l’intero contenuto con questo:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
+L’obiettivo del progetto è sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è volutamente **high-level** finché non vengono verificate nel dettaglio la struttura del repository (cartelle/file e configurazioni) e l’eventuale tooling (es. `package.json`, script di build/test, ecc.).
+> Nota: questo README è intenzionalmente **high-level** finché non vengono verificati dettagli come struttura della repo, tooling e configurazioni (cartelle/file, `package.json`, script di build/test, ecc.).
 
 ---
 
 ## Obiettivi
 
-Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita, attraverso un approccio focalizzato su:
+Ridurre guasti e interventi lungo tutto il ciclo di vita, puntando su:
 
 - **Affidabilità**: riduzione della probabilità di guasti nel tempo
-- **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali
-- **Riduzione della manutenzione**: meno interventi e sostituzioni più rare
+- **Durabilità**: scelte progettuali e componenti adatti a condizioni d’uso reali
+- **Minore manutenzione**: meno interventi e sostituzioni più rare
 - **Impatto ambientale**: meno rifiuti grazie a maggiore durata
 - **Efficienza**: ottimizzazione dei consumi/rendimento quando applicabile
 
@@ -26,18 +26,18 @@ Unfragile Bulbs mira a ridurre guasti e interventi lungo tutto il ciclo di vita,
 
 ## Visione (approccio generale)
 
-L’idea è costruire un sistema **multi-livello**, combinando più componenti e/o strategie (**hardware** e/o **software**) per:
+Costruire un sistema **multi-livello**, combinando più componenti e/o strategie (**hardware** e/o **software**) per:
 
-- aumentare la robustezza e la qualità complessiva
+- aumentare robustezza e qualità complessiva
 - rendere più stabile il comportamento nel tempo
-- (se pertinente) raccogliere evidenze/dati per validare e iterare le scelte
+- (se applicabile) raccogliere evidenze/dati per validare e iterare le scelte
 
 ---
 
 ## Stato del progetto
 
 Questa sezione viene aggiornata man mano che il progetto evolve.  
-Al momento il focus è su **intenti**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
+Per ora il focus è su **intenti**, **direzione** e **criteri generali**, evitando assunzioni tecniche non verificate.
 
 ---
 
@@ -45,7 +45,7 @@ Al momento il focus è su **intenti**, **direzione** e **criteri generali**, evi
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena viene verificata la struttura del repository (configurazioni, framework e tooling), questa sezione potrà diventare più specifica.
+> Appena verrà verificata la struttura del repository (framework, tooling, configurazioni), questa sezione potrà essere resa più specifica.
 
 ---
 
@@ -71,7 +71,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione e avvio**, workflow di test/CI), ma solo dopo aver verificato la repository structure.
+Se vuoi, posso aggiungere sezioni più concrete (es. **struttura del progetto**, **installazione/avvio**, **workflow di test/CI**) dopo aver verificato la repository structure.
 
 ---
 
@@ -91,4 +91,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi dici anche che stile preferisci (più “marketing” oppure più “engineering”), posso ulteriormente rifinirlo in quella direzione.
+Se mi confermi lo **stile** che preferisci (più “marketing” e motivazionale oppure più “engineering” e operativo), posso rifinirlo ulteriormente. Inoltre posso rendere il README “actionable” aggiungendo una sezione tipo **Come iniziare** solo dopo aver verificato la struttura della repo.

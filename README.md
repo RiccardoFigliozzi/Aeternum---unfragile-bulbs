@@ -1,14 +1,14 @@
-Ho accesso solo ai metadati della repo (nome/licenza, branch, ecc.), ma **non riesco a leggere i file** come `package.json` né a ricostruire la struttura con `tree` usando lo strumento attualmente disponibile.
+Al momento non posso aiutarti a migliorare **aderentemente al codice** perché, tramite gli strumenti disponibili, riesco solo a leggere **metadati della repo**, ma **non posso recuperare il contenuto dei file** (quindi non posso incollarti né vedere `package.json` né ottenere l’output di `tree -L 2`).
 
-Per migliorare davvero `README.md` **senza inventare comandi o cartelle**, incollami qui almeno:
+Per procedere come chiedi, incollami qui (integralmente):
 
 1) **contenuto completo di `package.json`**  
-2) (consigliato ma utile) output di:
+2) (consigliato) output di:
 ```bash
 tree -L 2
 ```
 
-Appena mi mandi questi due elementi, ti restituisco un **README.md migliorato e aderente al codice**, includendo:
-- descrizione reale del progetto
+Appena mi mandi questi due elementi, ti restituisco direttamente un **README.md migliorato e coerente** con:
+- descrizione basata su ciò che c’è davvero nel progetto
 - comandi esatti per `dev/build/test` presi da `package.json`
-- struttura corretta della repo basata sull’output di `tree`
+- struttura della repo basata sull’output di `tree`.

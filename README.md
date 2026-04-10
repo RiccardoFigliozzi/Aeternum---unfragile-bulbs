@@ -1,24 +1,16 @@
-Non vedo (nel messaggio che mi hai fornito) un contenuto testuale di `README.md`/`package.json`, e il tool **Repository** che ho qui mi restituisce solo metadati: quindi non posso ancora migliorare il README.
+Perfetto: ho individuato la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma con il tool disponibile al momento vedo solo metadati (non il contenuto dei file), quindi non posso ancora riscrivere/“migliorare” il `README.md`.
 
-**Dimmi quale opzione preferisci:**
-
-### Opzione A (consigliata)
-Abilita/procura un tool “**Get file content / View raw file**” (o equivalente) che mi permetta di leggere file specifici, ad esempio:
-- `contents/README.md`
-- `contents/package.json`
-- (eventualmente anche) albero file / file tree
-
-**Domanda rapida:** come si chiama esattamente nel tuo sistema questo tool (nome funzione/end-point)?
-
-### Opzione B
-Incolla qui:
-1) il contenuto attuale di `README.md` (anche parziale)  
-2) la sezione `"scripts"` di `package.json` (anche solo quella)
-
----
-
-Rispondi anche a queste 2 domande rapide:
+### Domande rapide
 1) README finale in **Italiano** o **Inglese**?  
-2) Lo vuoi **pronto da copiare** oppure preferisci che ti restituisca prima una **bozza/struttura**?
+2) Lo vuoi **pronto da copiare** oppure preferisci prima una **bozza/struttura**?
 
-Appena ho il testo (o un tool per leggerlo) preparo una versione migliorata e coerente con come si avvia/builda il progetto.
+### Per procedere (scelta consigliata)
+Per migliorare il README mi serve il contenuto di almeno:
+- `README.md`
+- `package.json` (specie la sezione `"scripts"`)
+
+**Conferma la modalità che preferisci:**
+- **Opzione A (consigliata):** abilita/usa un tool “View raw file / Get file content” (o equivalente) per leggere `contents/README.md` e `contents/package.json`.
+- **Opzione B:** incolla qui il contenuto attuale di `README.md` (anche parziale) e la sezione `"scripts"` di `package.json`.
+
+👉 Se scegli **Opzione A**, dimmi anche **come si chiama esattamente** nel tuo sistema quel tool/endpoint (nome funzione).

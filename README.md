@@ -1,8 +1,8 @@
-Certo! Prima però mi serve che tu incolli qui:
+Ho recuperato la repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma al momento **non ho il contenuto testuale del file `README.md` né la sezione `"scripts"` di `package.json`**: con lo strumento disponibile in questa integrazione vedo solo metadati della repository, non il contenuto dei file.
 
-1) **tutto il contenuto attuale di `README.md`** (testualmente)  
-2) la sezione **`"scripts"` di `package.json`** (testualmente)
+Per poter “migliorare” davvero il README, incollami qui **testualmente**:
 
-Al momento, da quanto vedo, non posso ancora leggere direttamente il contenuto file richiesto; quindi non posso “migliorarlo” senza avere quelle due parti.
+1) **Tutto il contenuto attuale di `README.md`**  
+2) La sezione **`"scripts"` di `package.json`**
 
-Incolla pure i testi qui e poi ti preparo una versione migliorata e pronta da sostituire in repository.
+Appena me li fornisci, ti preparo una versione aggiornata e pronta da sostituire direttamente in repository.

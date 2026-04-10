@@ -1,16 +1,15 @@
-Perfetto—ho provato a usare lo strumento **Repository**, ma può fornirmi **solo metadati della repo** e non il contenuto dei file. Quindi, al momento, non posso recuperare:
+Ho provato a utilizzare lo strumento **Repository**, ma al momento riesce a darmi **solo metadati della repo** (lista repo, owner, licenza, branch, ecc.) e **non consente di leggere il contenuto dei file** come `README.md` o la sezione `"scripts"` di `package.json`.
 
+Quindi, **non posso recuperare**:
 - il testo attuale di `README.md`
-- la sezione esatta di `package.json` (in particolare `"scripts": { ... }`)
+- la sezione esatta `"scripts": { ... }` di `package.json`
 
-Per sbloccarmi e scriverti un **README.md completo e migliorato** + una sezione **Build/Run** coerente *con i comandi presenti in `scripts`*, incollami qui:
+👉 Per sbloccarmi e scriverti il **README completo migliorato** + **Build/Run** coerente *con i comandi in `scripts`*, incollami qui (come da istruzioni):
 
-1) **il contenuto completo attuale di `README.md`**
+1) **il contenuto completo attuale** di `README.md`  
 2) **solo** la sezione:
 ```json
 "scripts": { ... }
 ```
 
-Appena me li fornisci, preparo subito:
-- un README completo e migliorato
-- una sezione **Build/Run** con **esattamente** i comandi definiti in `package.json`.
+Appena li incolli, preparo subito la versione migliorata del README e una sezione **Build/Run** con **esattamente** i comandi definiti in `package.json`.

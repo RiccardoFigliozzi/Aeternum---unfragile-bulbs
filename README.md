@@ -1,8 +1,11 @@
-Non posso ancora riscrivere “ready-to-paste” il README perché, in questo ambiente, tramite lo strumento **Repository** riesco ad ottenere solo **metadati** del repo (nome, descrizione, branch, license, ecc.), ma **non posso leggere il contenuto** dei file (`README.md`, `package.json`, né la sezione `scripts`).  
+Non posso ancora completare la richiesta: tramite lo strumento **Repository** riesco a ottenere solo metadati della repository, ma **non riesco a leggere** il contenuto dei file (`README.md`, `package.json`, ecc.). Di conseguenza non posso vedere:
 
-Per procedere come hai chiesto, incollami qui:
+1) il **contenuto attuale di `README.md`**  
+2) la sezione **`scripts`** dentro `package.json`
 
-1) **tutto il contenuto attuale di `README.md`**  
-2) **solo** la sezione `scripts` di `package.json`
+Per procedere, incolla qui (testo integrale):
 
-Appena li mandi, ti restituisco **un unico blocco markdown** con una versione migliorata e coerente con i comandi reali presenti in `package.json`.
+- **tutto** il contenuto attuale di `README.md`
+- **solo** la sezione `scripts` di `package.json`
+
+Appena li mandi, ti restituisco **un unico blocco markdown** con la versione migliorata del README coerente con i comandi reali.

@@ -1,12 +1,11 @@
-Al momento riesco a ottenere **solo metadati** della repository (nome, branch, licenza, ecc.), ma **non il contenuto dei file** (quindi non posso leggere né `README.md` né `package.json` tramite lo strumento che ho a disposizione).
+Non riesco ancora a migliorare il README perché **non ho accesso al contenuto dei file** (quindi non posso leggere né `README.md` né `package.json` tramite lo strumento disponibile). Al momento, ciò che posso vedere sono solo i metadati della repository.
 
-Per procedere come richiesto, incollami qui:
+Per procedere come mi hai chiesto, incollami qui **(testualmente)**:
 
 1) **tutto il contenuto di `README.md`**  
-2) la sezione **`"scripts"`** di `package.json` (solo quella)
+2) la sezione **`"scripts"`** di **`package.json`** (solo quella)
 
-In più dimmi queste due preferenze (altrimenti imposto io una scelta “standard”):
-
+In più dimmi queste preferenze (altrimenti imposto una scelta standard):
 - Preferenza manager: **npm / yarn / pnpm**? (oppure “va bene qualsiasi”)
 - Vuoi che inizi prima da **README.md** o prima da **scripts**?
 

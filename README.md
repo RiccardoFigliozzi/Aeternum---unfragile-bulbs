@@ -1,10 +1,8 @@
-Perfetto—posso migliorare davvero **README.md** in modo coerente con gli `scripts`, ma qui al momento lo strumento “Repository” mi restituisce solo **metadati** (non posso leggere il contenuto dei file).  
+Non riesco a recuperare i due estratti che mi hai chiesto: il tool **Repository** che ho a disposizione non mi consente di leggere direttamente il contenuto dei file (né `README.md`, né `package.json`). Per questo al momento posso ottenere solo metadati della repo.
 
-Quindi per procedere ho bisogno che tu incolli qui:
+Per procedere, incolla qui tu:
 
-1) **il contenuto attuale di `README.md`** (tutto)  
-2) **solo la sezione** `"scripts": { ... }` di **`package.json`**
+1) **Tutto il contenuto attuale di `README.md`**  
+2) **Solo** la sezione `"scripts": { ... }` di `package.json`
 
-Appena me li incolli, ti preparo immediatamente un **README.md completo e migliorato**, pronto da copiare/incollare, con una sezione **Build/Run** allineata esattamente ai comandi reali.
-
-Incolla pure i due estratti quando vuoi.
+Appena me li incolli, ti preparo un **README.md completo e migliorato**, con una sezione **Build/Run** coerente *esattamente* con quei comandi.

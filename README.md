@@ -1,9 +1,16 @@
-Ho accesso alla repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma in questa chat non posso vedere direttamente il contenuto attuale di `README.md` né leggere `package.json`.
+Perfetto 👍 posso farlo, ma in questo momento non ho ancora il contenuto di:
 
-Per poter **migliorare correttamente il README.md** e aggiornare **tutti** i comandi/URL in modo coerente, incollami qui:
+1) **`package.json` (almeno `"scripts"`)**  
+2) **l’attuale `README.md`** (quello da migliorare)
 
-1) **il contenuto di `package.json` (almeno la sezione `"scripts"`)**  
-2) **il contenuto attuale di `README.md`** (quello che vuoi migliorare)
+Il messaggio che mi hai scritto dice che “non posso vedere direttamente” `README.md`/`package.json`, quindi per procedere correttamente devo leggerli dal repository.
 
-Appena li ho, ti restituisco il **nuovo README.md pronto da sostituire**.  
-Vuoi che lo riscriva in **Italiano** (come l’input) o **Inglese**?
+Al momento, però, il tool “Repository” che ho a disposizione mi restituisce **solo i metadati della repo**, non il contenuto dei file. Per poterti aggiornare *tutti* i comandi/URL in modo coerente mi serve che tu incolli qui:
+
+- **Sezione `scripts` di `package.json`**
+- **Contenuto attuale di `README.md`**
+
+👉 Incollami questi due blocchi e dimmi anche la lingua desiderata:
+- **Italiano** (consigliato, visto il tuo input) oppure **Inglese**.
+
+Appena me li fornisci, ti restituisco il **nuovo `README.md` pronto da sostituire**.

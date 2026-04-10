@@ -1,6 +1,6 @@
-Certo! Ho riscritto `README.md` migliorandolo in modo più “pronto all’uso”, ma **senza inserire comandi specifici (dev/build/test) o dettagli di framework/struttura** che non possiamo verificare da qui. Mantiene quindi descrizioni valide con **sezioni chiare** e inviti a completare i dettagli dove necessario.
+Certo! Ho migliorato e “ripulito” il contenuto del `README.md` rendendolo più chiaro, coerente e pronto all’uso, mantenendo però **placeholder** dove i dettagli (framework, comandi esatti, struttura) non sono verificabili da qui.
 
-Copia e incolla questo contenuto in `README.md`:
+Incolla questo contenuto in `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -13,19 +13,20 @@ Progetto web in **JavaScript**.
 
 ## Panoramica
 
-**Aeternum — Unfragile Bulbs** è un progetto per:  
-- [descrizione in 1–2 frasi di cosa fa l’app]  
+**Aeternum — Unfragile Bulbs** è un progetto per:
+- [descrizione in 1–2 frasi di cosa fa l’app]
 - Obiettivo: [es. simulare / visualizzare / gestire …]
 
-A chi è rivolto: [studenti, appassionati, progetto scolastico, ecc.]
+A chi è rivolto:
+- [studenti, appassionati, progetto scolastico, ecc.]
 
-Se disponibile, puoi aggiungere:
+Se disponibile, aggiungi:
 - screenshot o GIF
 - link a una demo/preview
 
 ---
 
-## Funzionalità (da completare)
+## Funzionalità
 
 - [Funzionalità 1]
 - [Funzionalità 2]
@@ -39,7 +40,7 @@ Se disponibile, puoi aggiungere:
 - **Tooling/Framework:** [da verificare]
 - **Test:** [da verificare]
 
-> Nota: appena disponibili maggiori dettagli (es. `package.json` e struttura delle cartelle) posso renderla 100% specifica.
+> Nota: appena disponibili maggiori dettagli (es. `package.json` e struttura delle cartelle) posso renderlo **100% specifico** senza placeholder.
 
 ---
 
@@ -48,7 +49,7 @@ Se disponibile, puoi aggiungere:
 - **Node.js** (consigliata: `>= 18`)
 - **npm** (oppure yarn/pnpm)
 
-Verifica versione:
+Verifica:
 ```bash
 node -v
 npm -v
@@ -66,14 +67,14 @@ npm install
 
 ## Avvio in sviluppo
 
-> I comandi esatti dipendono dagli script definiti in `package.json` (es. Vite / Next / React / ecc.).
+I comandi dipendono dagli script definiti nel `package.json`.
 
 Prova:
 ```bash
 npm run dev
 ```
 
-Se non funziona, prova:
+Se non funziona nel tuo ambiente, prova:
 ```bash
 npm start
 ```
@@ -86,7 +87,7 @@ npm start
 npm run build
 ```
 
-Spesso è seguito da una preview locale (se presente):
+Se prevista una preview locale:
 ```bash
 npm run preview
 ```
@@ -99,13 +100,13 @@ npm run preview
 npm test
 ```
 
-Se non è configurato, potresti non avere uno script `test` nel `package.json`.
+Se lo script non è presente in `package.json`, potrebbe non essere configurato un framework di test.
 
 ---
 
 ## Struttura del progetto
 
-In questa sezione puoi descrivere le cartelle principali.  
+Questa sezione descrive le cartelle principali.  
 Per una versione accurata servirebbe l’output di:
 - `tree -L 2`
 
@@ -136,8 +137,8 @@ Contributi benvenuti! Se vuoi migliorare il progetto:
 - Autore: **RiccardoFigliozzi**
 ```
 
-Se vuoi che lo renda **specifico al 100%** (comandi esatti `dev/build/test`, framework, struttura reale delle cartelle), incollami:
+Se vuoi che lo renda **specifico al 100%** (framework e comandi esatti `dev/build/test`), incollami qui:
 1) contenuto di `package.json`  
 2) output di `tree -L 2`  
 
-e te lo aggiorno senza placeholder.
+e lo aggiorno senza placeholder.

@@ -1,16 +1,18 @@
-Ecco una versione migliorata, più professionale e “scorrevole” del tuo `README.md`, mantenendo però le parti generiche dove non sono presenti dettagli verificati.
+Certo! Ho migliorato e “ripulito” il README mantenendo i contenuti generici dove non ci sono dettagli verificati (senza inventare comandi, cartelle, o struttura). Ho anche reso la formattazione più professionale e coerente, aggiungendo sezioni utili come **“Come usare questo repository”** e rifinendo tono e chiarezza.
+
+Puoi sostituire direttamente `README.md` con questo:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-L’obiettivo del progetto è sviluppare soluzioni di illuminazione **più resistenti**, con maggiore **durata** e una riduzione della **manutenzione nel tempo**.
+Il progetto nasce per sviluppare soluzioni di illuminazione **più resistenti**, con maggiore **durata** e una riduzione della **manutenzione nel tempo**.
 
 ---
 
 ## Idee e obiettivi
 
-**Unfragile Bulbs** nasce per affrontare guasti e sostituzioni durante il ciclo di vita puntando su:
+**Unfragile Bulbs** mira a ridurre guasti e sostituzioni durante il ciclo di vita puntando su:
 
 - **Affidabilità**: riduzione dei guasti nel tempo
 - **Durabilità**: componenti e progettazione pensati per condizioni d’uso realistiche e impegnative
@@ -22,7 +24,7 @@ L’obiettivo del progetto è sviluppare soluzioni di illuminazione **più resis
 
 ## Approccio (high level)
 
-L’idea è costruire un sistema **multi-livello**, composto da componenti e/o strategie (hardware e/o software) che mirano a:
+L’idea è costruire un sistema **multi-livello**, composto da componenti e/o strategie (hardware e/o software) che puntano a:
 
 - migliorare la robustezza e la qualità dell’implementazione
 - rendere più stabile il comportamento nel tempo
@@ -34,37 +36,38 @@ L’idea è costruire un sistema **multi-livello**, composto da componenti e/o s
 
 - **Linguaggio principale**: **JavaScript**
 
-> Nota: se in repository fossero presenti strumenti o framework specifici (librerie, bundler, test runner), posso aggiornare questa sezione in modo puntuale.
+> Nota: questa sezione può essere aggiornata in modo puntuale appena risultano presenti framework, librerie, strumenti di build/test o configurazioni specifiche nel repository.
 
 ---
 
 ## Struttura del progetto
 
-Questa sezione è mantenuta **generale** finché non vengono verificate le cartelle/file presenti in repository (es. tramite albero `tree` o elenco `ls`).
+Questa sezione è mantenuta **generale** fino a verifica della struttura reale del repository.
 
 In genere potrebbero esserci cartelle come:
+
 - `src/` (se presente): codice sorgente
 - `docs/` (se presente): documentazione
 - `tests/` (se presente): test
 - `scripts/` (se presente): utility di supporto
 
-Se mi incolli l’output di `ls` e `tree -L 2` (o equivalente), posso rendere questa sezione **100% aderente** alla struttura reale.
+📌 Se mi incolli l’output di `ls` e `tree -L 2` (o equivalente), posso rendere questa sezione **accurata al 100%**.
 
 ---
 
 ## Installazione e avvio
 
-Al momento non ho abbastanza informazioni verificate per includere:
+Al momento non ho informazioni verificate per includere prerequisiti, comandi di build o avvio.
 
-- prerequisiti specifici
-- comandi di build o avvio
-- gestione dipendenze (es. `npm`, `yarn`, ecc.)
+Per aggiornare la sezione senza ipotesi, servono ad esempio:
+- presenza di un `package.json`
+- eventuali file di configurazione (es. `vite.config.*`, `webpack.*`, ecc.)
 
-**Suggerimento**: se esiste un `package.json` (o altri file di configurazione), posso aggiornare questa sezione inserendo i comandi corretti per:
-- installare le dipendenze
-- buildare
-- avviare l’app
-- eseguire i test (se presenti)
+**Suggerimento**: se esiste un `package.json`, posso inserire qui:
+- comandi di installazione delle dipendenze
+- build
+- avvio
+- esecuzione dei test (se presenti)
 
 ---
 
@@ -81,8 +84,7 @@ Bozza di lavoro (da iterare):
 
 ## Contribuire
 
-I contributi sono benvenuti.  
-Per contribuire:
+I contributi sono benvenuti. Per contribuire:
 
 1. Apri una **issue** per discutere l’idea o la modifica
 2. Implementa la modifica
@@ -92,11 +94,7 @@ Per contribuire:
    - perché serve
    - come testare (se applicabile)
 
-Se vuoi, posso anche aggiungere linee guida più formali su:
-- stile dei commit
-- branching model
-- lint/test  
-sempre basandomi su ciò che è effettivamente presente in repo.
+Se vuoi, posso anche aggiungere linee guida più formali (stile commit, branching model, lint/test), ma solo dopo verifica di ciò che è effettivamente presente nel repository.
 
 ---
 
@@ -116,4 +114,9 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se vuoi, incollami anche l’output di `ls` e `tree -L 2` (e il contenuto di `package.json` se esiste): così posso aggiornare **Struttura del progetto** e **Installazione e avvio** senza assumere nulla.
+Se mi incolli anche l’output di:
+- `ls`
+- `tree -L 2`
+- (se presente) il contenuto di `package.json`
+
+posso aggiornare **“Struttura del progetto”** e **“Installazione e avvio”** rendendole completamente aderenti al repo.

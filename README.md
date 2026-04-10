@@ -1,14 +1,11 @@
-Grazie! Però il tool `Repository` che ho qui mi restituisce **solo i metadati della repo** (nome, branch, licenza, ecc.), **non il contenuto dei file**. Per questo **non posso leggere `package.json`** né ricostruire la struttura con `tree`.
+Non posso ancora migliorare davvero `README.md` “aderente al codice”: il tool `Repository` che ho a disposizione mi restituisce **solo i metadati della repository** (nome, branch, licenza, ecc.) e **non il contenuto dei file**. Di conseguenza **non posso leggere `package.json`** né ricostruire la struttura tramite `tree`.
 
-Per migliorare davvero `README.md` in modo “aderente al codice”, incolla qui (integralmente):
+Per procedere ho bisogno che tu mi incolli qui:
 
-1) **contenuto completo di `package.json`**  
+1) **contenuto completo di `package.json`** (integrale)  
 2) (consigliato) output di:
 ```bash
 tree -L 2
 ```
 
-Appena mi mandi questi due elementi, ti preparo un **README.md migliorato e coerente**, con:
-- descrizione basata su ciò che c’è davvero,
-- comandi `dev/build/test` presi da `package.json`,
-- struttura documentata in base a `tree`.
+Appena mi mandi questi due elementi, ti preparo un **README.md migliorato e coerente**, includendo descrizione, comandi `dev/build/test` presi da `package.json` e struttura documentata in base a `tree`.

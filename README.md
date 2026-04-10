@@ -1,8 +1,9 @@
-Ok! Ho però un limite: con il tool **Repository** riesco a recuperare solo i **metadati** della repo (nome, branch, license, ecc.), non il **contenuto dei file** (quindi non posso leggere direttamente `README.md`).
+Posso farlo, ma mi serve il **testo attuale** del `README.md` (con il tool che ho a disposizione posso vedere solo i metadati della repo, non leggere direttamente i file).
 
-Per migliorare davvero il tuo `README.md` ho bisogno del testo attuale. Scegli una di queste opzioni:
+📌 Dimmi una delle due opzioni:
 
-- **A)** Abilitami un tool/endpoint aggiuntivo per leggere il contenuto dei file (es. “Get file content” per `README.md` e/o `package.json`).
-- **B)** Incolla qui il contenuto attuale di `README.md` (e, se serve, anche la sezione `"scripts"` di `package.json`).
+**A)** Abilitami un tool/endpoint aggiuntivo per leggere il contenuto dei file (es. “Get file content” per `README.md` e magari anche `package.json`).  
+oppure  
+**B)** Incolla qui il contenuto attuale di `README.md` (e, se serve, anche la sezione `"scripts"` di `package.json`).
 
-Dimmi **A** o **B** e procedo subito.
+Rispondimi con **A** o **B** e procedo subito con il miglioramento del README.

@@ -1,6 +1,4 @@
-Certo — ecco un README.md migliorato (più chiaro, coerente e “pronto all’uso”) basato sul template che mi hai fornito. Ho mantenuto **solo placeholder** dove non posso verificare i dettagli; non ho aggiunto affermazioni specifiche su framework/comandi che non risultano verificabili qui.
-
-Incollalo in `README.md`:
+Ecco una versione migliorata e più “leggibile/pronta all’uso” del tuo `README.md`, mantenendo **placeholder solo dove servirebbe verificare** (es. framework/comandi e struttura). Puoi incollarla direttamente in `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -14,10 +12,10 @@ Progetto web in **JavaScript**.
 ## Panoramica
 
 **Aeternum — Unfragile Bulbs** è un progetto per:
-- [descrivere in 1–2 frasi cosa fa l’app]
-- Obiettivo: [es. simulare / visualizzare / gestire …]
+- descrivere in 1–2 frasi cosa fa l’app
+- [es. simulare / visualizzare / gestire …]
 
-A chi è rivolto:
+**A chi è rivolto:**
 - [studenti, appassionati, progetto scolastico, ecc.]
 
 Se disponibile, aggiungi:
@@ -40,7 +38,7 @@ Se disponibile, aggiungi:
 - **Tooling/Framework:** [da verificare]
 - **Test:** [da verificare]
 
-> Nota: appena disponibili maggiori dettagli (es. `package.json` e struttura delle cartelle) posso renderlo **100% specifico** senza placeholder.
+> Nota: per rendere questa sezione **100% specifica** (senza placeholder) servono i dettagli su `package.json` e la struttura delle cartelle.
 
 ---
 
@@ -107,7 +105,7 @@ Se lo script non è presente in `package.json`, potrebbe non essere configurato 
 ## Struttura del progetto
 
 Questa sezione descrive le cartelle principali.  
-Per una versione accurata servirebbe l’output di:
+Per una versione accurata (senza assunzioni) servirebbe l’output di:
 - `tree -L 2`
 
 Esempio (da adattare):
@@ -137,6 +135,6 @@ Contributi benvenuti! Se vuoi migliorare il progetto:
 - Autore: **RiccardoFigliozzi**
 ```
 
-Se vuoi che lo renda **specifico al 100%** (framework e comandi esatti per `dev/build/test`), incollami qui:
-1) contenuto di `package.json`  
+Se vuoi che lo renda **specifico al 100%** (framework e comandi esatti per `dev/build/test`), dimmi/manda:
+1) contenuto di `package.json`
 2) output di `tree -L 2`

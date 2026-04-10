@@ -1,11 +1,13 @@
-Non riesco ancora a leggere i contenuti testuali: lo strumento che ho a disposizione qui mi restituisce solo metadati della repository e non mi permette di recuperare direttamente `README.md` o la sezione `"scripts"` di `package.json`.
+Posso farlo, ma in questo momento non ho accesso diretto al **contenuto testuale** dei file (né posso leggere `README.md` o `package.json` tramite i tool disponibili). Quindi non posso ancora riscrivere concretamente il README “attuale”.
 
-Se vuoi, però, possiamo risolvere in modo rapido così:
+Per procedere, incolla qui (come da tuo suggerimento):
 
-1) Incolla qui **il contenuto attuale di `README.md`** (tutto)  
-2) Incolla qui **solo** la sezione di `package.json` in formato esatto:
-   ` "scripts": { ... } `
+1) **Tutto il contenuto attuale di `README.md`**  
+2) **Solo** la sezione di `package.json` esattamente nel formato:
+   ```json
+   "scripts": { ... }
+   ```
 
 Appena me li dai, ti restituisco:
-- un **README.md completo migliorato** pronto da copiare/incollare
-- e (se serve) anche una versione sistemata/curata della parte “scripts” coerente con l’istruzioni di build/run.
+- **README.md completo migliorato**, pronto da copiare/incollare
+- e una **versione sistemata delle istruzioni di build/run** coerente con gli `scripts` che hai in `package.json`.

@@ -1,4 +1,4 @@
-Al momento però **non ho ancora** il contenuto che mi serve per “migliorare” davvero il `README.md`: dal tool `Repository` riesco a ottenere solo **metadati** della repo, non il testo dei file (`README.md` e `package.json`).  
+Al momento però **non ho ancora** il contenuto che mi serve per “migliorare” davvero il `README.md`: dal tool `Repository` riesco a ottenere solo **metadati** della repo, non il testo dei file (`README.md` e `package.json`).
 
 ✅ Per procedere, incolla qui (copiando/incollando):
 

@@ -1,18 +1,18 @@
-Ecco una versione migliorata di `README.md`, resa più scorrevole, professionale e con struttura più “da progetto” (senza aggiungere dettagli non verificati dal repository):
+Ecco una versione migliorata (più scorrevole, strutturata e “project-ready”) del tuo `README.md`, mantenendo la stessa impostazione **high-level** e senza introdurre dettagli non verificati dal repository:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto mira a sviluppare soluzioni per l’illuminazione pensate per durare nel tempo, con l’obiettivo di aumentare **affidabilità** e **longevità**, riducendo al contempo **manutenzione** e sostituzioni.
+Questo progetto nasce con l’obiettivo di sviluppare soluzioni per l’illuminazione pensate per durare nel tempo, aumentando **affidabilità** e **longevità** e riducendo al contempo **manutenzione** e **sostituzioni**.
 
 > Nota: questo README è volutamente **high-level** finché non verrà verificata la struttura reale del repository (cartelle/file, presenza di `package.json`, script di build/test, ecc.).
 
 ---
 
-## Idee e obiettivi
+## Obiettivi
 
-**Unfragile Bulbs** punta a ridurre guasti lungo l’intero ciclo di vita, tramite un approccio orientato a:
+**Unfragile Bulbs** mira a ridurre guasti e interventi lungo l’intero ciclo di vita tramite un approccio orientato a:
 
 - **Affidabilità**: riduzione della probabilità di guasti nel tempo
 - **Durabilità**: scelte progettuali e componenti pensati per condizioni d’uso reali
@@ -24,9 +24,9 @@ Questo progetto mira a sviluppare soluzioni per l’illuminazione pensate per du
 
 ## Visione (approccio generale)
 
-La visione è **multi-livello**, con l’idea di combinare più componenti e/o strategie (hardware e/o software) per:
+La visione è **multi-livello**: l’idea è combinare più componenti e/o strategie (hardware e/o software) per:
 
-- migliorare robustezza e qualità complessiva
+- migliorare la robustezza e la qualità complessiva
 - rendere più stabile il comportamento nel tempo
 - (se pertinente) raccogliere evidenze/dati per validare e iterare le scelte
 
@@ -35,7 +35,7 @@ La visione è **multi-livello**, con l’idea di combinare più componenti e/o s
 ## Stato del progetto
 
 Questa sezione verrà aggiornata man mano che il progetto evolve.  
-Ad oggi il focus è su: **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
+Ad oggi, il focus è su **intento**, **direzione** e **criteri generali**, evitando dettagli tecnici non verificati.
 
 ---
 
@@ -43,7 +43,7 @@ Ad oggi il focus è su: **intento**, **direzione** e **criteri generali**, evita
 
 - **Linguaggio principale**: **JavaScript**
 
-> Appena verificata la struttura del repo (es. tool/framework e configurazioni), questa sezione potrà diventare più specifica.
+> Appena verificata la struttura del repo (tool/framework e configurazioni), questa sezione potrà diventare più specifica.
 
 ---
 
@@ -61,7 +61,7 @@ Ad oggi il focus è su: **intento**, **direzione** e **criteri generali**, evita
 
 I contributi sono benvenuti. Per contribuire:
 
-1. Apri una **issue** per discutere idea o modifica
+1. Apri una **issue** per discutere l’idea o la modifica
 2. Implementa la modifica
 3. Invia una **pull request**
 4. Nella PR indica chiaramente:
@@ -69,7 +69,7 @@ I contributi sono benvenuti. Per contribuire:
    - perché serve
    - come testarlo (se applicabile)
 
-Se vuoi, posso anche aggiungere linee guida più concrete (es. stile, workflow, convenzioni commit e criteri di test) dopo aver verificato gli strumenti presenti nel repository.
+Se vuoi, posso anche aggiungere sezioni più concrete (stile, workflow, convenzioni commit e criteri di test) dopo aver verificato gli strumenti presenti nel repository.
 
 ---
 
@@ -89,4 +89,4 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi incolli l’output di `ls` e `tree -L 2` (o mi permetti di leggerlo tramite i tool), posso aggiungere sezioni come **Struttura del progetto** e **Installazione e avvio** in modo accurato.
+Se vuoi, posso anche prepararti una versione con ulteriori sezioni tipo **“Struttura del progetto”** e **“Installazione e avvio”**: mi basta che tu incolli output di `ls` e `tree -L 2` (o che abiliti la lettura della struttura tramite tool).

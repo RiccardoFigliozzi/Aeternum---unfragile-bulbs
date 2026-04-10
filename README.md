@@ -1,9 +1,16 @@
-Posso aiutarti a migliorare il `README.md`, ma con lo strumento **Repository** che ho a disposizione posso ottenere **solo metadati** della repo (non il testo dei file), quindi **non riesco a recuperare né:**
-1) il contenuto attuale di `README.md`
-2) la sezione esatta `"scripts": { ... }` di `package.json`
+Perfetto—ho provato a usare lo strumento **Repository**, ma può fornirmi **solo metadati della repo** e non il contenuto dei file. Quindi, al momento, non posso recuperare:
 
-Per sbloccarsi, come hai già scritto tu: incollami qui **il contenuto completo di `README.md`** e **solo la sezione `"scripts": { ... }` di `package.json`**.
+- il testo attuale di `README.md`
+- la sezione esatta di `package.json` (in particolare `"scripts": { ... }`)
+
+Per sbloccarmi e scriverti un **README.md completo e migliorato** + una sezione **Build/Run** coerente *con i comandi presenti in `scripts`*, incollami qui:
+
+1) **il contenuto completo attuale di `README.md`**
+2) **solo** la sezione:
+```json
+"scripts": { ... }
+```
 
 Appena me li fornisci, preparo subito:
-- un **README.md completo e migliorato**
-- una sezione **Build/Run** coerente **con esattamente** i comandi presenti in `scripts`.
+- un README completo e migliorato
+- una sezione **Build/Run** con **esattamente** i comandi definiti in `package.json`.

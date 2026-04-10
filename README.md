@@ -1,15 +1,13 @@
-Certo! Ho recuperato la repository **`RiccardoFigliozzi/Aeternum---unfragile-bulbs`**, ma nei metadati che ho a disposizione non risulta direttamente il contenuto di `README.md`, quindi non posso “migliorarlo” partendo dal testo attuale senza che tu lo incolli qui.
+Posso migliorare il `README.md`, ma al momento non ho il testo attuale del file: i metadati della repository che ho a disposizione non includono il contenuto di `README.md`.
 
-Per procedere velocemente, dimmi una delle due cose:
+Per procedere, scegli una di queste due strade:
 
-### Opzione A) Incolla qui l’attuale `README.md`
-Incolla tutto il contenuto del file `README.md` e ti restituisco una versione migliorata pronta da copiare-incollare.
+### Opzione A — Incolla qui il contenuto attuale
+Incolla l’intero `README.md` e ti restituisco una versione migliorata pronta da copiare.
 
-**Oppure**
-
-### Opzione B) Rispondi alle 3 domande rapide
+### Opzione B — Dimmi 3 info rapide
 1) **Cosa fa Aeternum?** (1–2 frasi)  
 2) **Stack:** è solo Node? Express? React? altro?  
-3) **Comandi:** quali sono in `package.json`? (almeno `npm start` e se esistono `npm test` / `npm run build`)
+3) **Comandi:** quali sono in `package.json` (almeno `npm start` e se esistono `npm test` / `npm run build`)  
 
-Appena mi rispondi, ti preparo subito una bozza di README ottimizzata.
+Appena mi rispondi, ti preparo una bozza ottimizzata del README.

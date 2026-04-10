@@ -1,12 +1,11 @@
-Non riesco ancora a migliorare il README perché **non ho accesso al contenuto dei file** (quindi non posso leggere né `README.md` né `package.json` tramite lo strumento disponibile). Al momento, ciò che posso vedere sono solo i metadati della repository.
-
-Per procedere come mi hai chiesto, incollami qui **(testualmente)**:
+Al momento non posso comunque ottenere **il contenuto testuale** di `README.md` né leggere `package.json` (anche se mi è stato dato accesso ai soli **metadati** della repo tramite lo strumento `Repository`). Quindi non posso incollarti né estrarre:
 
 1) **tutto il contenuto di `README.md`**  
-2) la sezione **`"scripts"`** di **`package.json`** (solo quella)
+2) la sezione **`"scripts"`** di **`package.json`**
 
-In più dimmi queste preferenze (altrimenti imposto una scelta standard):
+Per procedere, incollami qui tu i due pezzi richiesti (testualmente). Appena li hai incollati, ti preparo una versione migliorata pronta da copiare in `README.md`.
+
+Nel frattempo, per rispettare la tua richiesta sulle preferenze, dimmi solo queste due cose (puoi rispondere “standard” se va bene):
+
 - Preferenza manager: **npm / yarn / pnpm**? (oppure “va bene qualsiasi”)
-- Vuoi che inizi prima da **README.md** o prima da **scripts**?
-
-Appena incolli i due pezzi, ti preparo una versione migliorata pronta da copiare in `README.md`.
+- Vuoi iniziare prima da **README.md** o prima da **scripts**?

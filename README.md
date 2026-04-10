@@ -1,100 +1,104 @@
-Certo! Ho verificato che la repository è pubblica e usa **JavaScript**, ma (dal controllo disponibile via tool) non ho informazioni sufficienti su *struttura cartelle* o *comandi di build/avvio* per rendere il README “su misura” senza rischiare di inventare dettagli.
-
-Qui sotto trovi comunque una versione **migliorata e più professionale** del tuo README, mantenendo un taglio **neutro** (niente stack/command non verificati) e aggiungendo sezioni utili come “Prerequisiti/Struttura (da completare)”, “Contribuire” e “Roadmap” più leggibile.
-
-Incolla questo in `README.md`:
+Ecco una versione migliorata e più “su misura” del `README.md` (stile professionale, sezioni chiare, senza inventare comandi o struttura specifica).
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione **più resistenti**, progettate per offrire **maggiore durata** e **ridurre la manutenzione** nel tempo.
+Questo progetto mira a sviluppare soluzioni di illuminazione **più resistenti**, con l’obiettivo di aumentare la **durata** e ridurre la **manutenzione** nel tempo.
 
 ---
 
 ## Idee e obiettivi
 
-**Unfragile Bulbs** mira a ridurre guasti e sostituzioni nel ciclo di vita delle lampadine puntando su:
+**Unfragile Bulbs** nasce per affrontare il problema dei guasti e delle sostituzioni lungo il ciclo di vita delle lampadine, puntando su:
 
 - **Affidabilità**: riduzione dei guasti nel tempo
-- **Durabilità**: componenti e progettazione orientati a condizioni d’uso impegnative
-- **Riduzione manutenzione**: meno interventi e sostituzioni più rare
-- **Impatto ambientale**: meno rifiuti e minore produzione/consumo di risorse
-- **Efficienza**: migliore rendimento e ottimizzazione dei consumi (quando applicabile)
+- **Durabilità**: componenti e progettazione pensati per condizioni d’uso realistiche e impegnative
+- **Riduzione manutenzione**: meno interventi, sostituzioni più rare
+- **Impatto ambientale**: meno rifiuti grazie a maggiore longevità
+- **Efficienza**: ottimizzazione dei consumi e del rendimento (quando applicabile)
 
 ---
 
 ## Approccio (high level)
 
-Il progetto adotta un’idea **hardware + software** (o comunque multi-livello), con attenzione a:
+Il progetto segue un’idea **multi-livello** (hardware e/o software a seconda dell’implementazione), con attenzione a:
 
-- qualità e robustezza dei componenti
-- ottimizzazione del comportamento e dell’uso
-- raccolta/monitoraggio dei dati e miglioramento iterativo delle prestazioni (quando previsto)
+- robustezza e qualità dei componenti
+- miglioramento del comportamento d’uso nel tempo
+- eventuale raccolta/monitoraggio dati e iterazioni successive per affinare prestazioni e affidabilità
 
 ---
 
 ## Tecnologie
 
-Al momento il progetto è in **JavaScript**.  
-Questa sezione verrà aggiornata man mano che saranno definiti:
-- struttura del repository
-- dipendenze e strumenti
-- eventuali servizi, UI o componenti aggiuntivi
+- **Linguaggio**: **JavaScript**
+
+Questa sezione verrà aggiornata appena saranno definiti con precisione:
+- strumenti di build o runtime utilizzati
+- eventuali framework/librerie
+- struttura effettiva del repository
 
 ---
 
 ## Struttura del progetto
 
-> Questa sezione è volutamente generica finché non vengono confermate le cartelle e i file principali presenti in repo.
+> Nota: questa sezione è mantenuta volutamente generale finché non si conferma la struttura reale dei file nella repository.
 
 - `src/` (se presente): codice sorgente
 - `docs/` (se presente): documentazione
 - `tests/` (se presente): test
 - `scripts/` (se presenti): utilità di supporto
 
-Se vuoi, posso renderla precisa appena condividi l’output di `ls` (o l’albero cartelle).
+Se vuoi, posso renderla accurata includendo l’albero cartelle (es. output di `tree -L 2`) o l’elenco dei file principali.
 
 ---
 
-## Avvio e installazione
+## Installazione e avvio
 
-Al momento non sono disponibili dettagli verificabili sui comandi di avvio/build.  
-Se nel progetto esiste un `package.json` con `scripts`, posso aggiungere qui le istruzioni corrette.
+Al momento non risultano disponibili nel README dettagli verificabili su:
+- prerequisiti specifici
+- comandi di build o start
+- gestione di dipendenze (es. via `npm`, `yarn`, ecc.)
 
-> Suggerimento: condividi i risultati di `ls` e/o i nomi dei file principali (es. `package.json`, `vite.config.*`, `webpack.config.*`, ecc.) e aggiorno la sezione in modo esatto.
+**Se nel progetto esiste un `package.json`**, posso aggiungere qui:
+- prerequisiti (versioni Node, ecc.)
+- comandi corretti (install, build, start, test) basati su quelli realmente presenti in repo
 
 ---
 
-## Roadmap (bozza)
+## Roadmap
+
+Una possibile roadmap di lavoro (bozza):
 
 - [ ] Raccogliere requisiti e casi d’uso
-- [ ] Prototipo e test di durabilità/resistenza
-- [ ] Ottimizzazione prestazioni e consumi
-- [ ] Validazione, feedback e miglioramenti iterativi
+- [ ] Prototipo e prime verifiche di durabilità/resistenza
+- [ ] Iterazioni su prestazioni/consumi in base ai risultati
+- [ ] Validazione, feedback e miglioramenti successivi
 
 ---
 
 ## Contribuire
 
-Contributi, feedback e suggerimenti sono benvenuti.
+I contributi sono benvenuti!
 
 Come contribuire:
 
 1. Apri una **issue** per discutere l’idea o la modifica
-2. Implementa la modifica e apri una **pull request**
-3. In PR, descrivi chiaramente:
+2. Implementa la modifica
+3. Crea una **pull request**
+4. Nella PR indica chiaramente:
    - cosa cambia
    - perché serve
    - come testare (se applicabile)
 
-Se mi dici quali convenzioni usare (es. commit message, branch naming, preferenze di lint/test), posso aggiungerle in modo formale.
+Se mi fornisci preferenze su stile di commit, branching o lint/test, posso aggiungere queste regole in modo formale.
 
 ---
 
 ## Licenza
 
-Questo progetto è rilasciato sotto licenza **MIT**.  
+Questo progetto è rilasciato sotto **MIT License**.  
 Per i dettagli, consulta il file `LICENSE`.
 
 ---
@@ -108,8 +112,7 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi dai anche:
-- l’albero cartelle (anche solo l’output di `ls` o `tree -L 2`)
-- e/o il contenuto di `package.json` (se esiste)
-
-posso aggiornare il README con sezioni **Installazione**, **Come avviare**, **scripts** e una **Struttura progetto** realmente aderente alla repo.
+Vuoi che lo renda **perfettamente aderente alla repo**? In tal caso incollami qui:
+- l’output di `ls` o `tree -L 2`
+- (se esiste) il contenuto di `package.json`
+così aggiungo sezioni **Installazione**, **Come avviare** e **scripts** senza nessuna assunzione.

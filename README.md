@@ -1,74 +1,87 @@
-Certo — ho letto la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs** e ti lascio qui sotto una versione **migliorata** del tuo `README.md`, già pronta da copiare/incollare.
+Certo! Ho verificato la repo **RiccardoFigliozzi/Aeternum---unfragile-bulbs** e, visto che al momento non mi hai indicato struttura/cartelle o comandi di build, ti propongo un **README.md migliorato ma “neutro”**, orientato a chiarezza, completezza e qualità (senza inventare comandi/stack che potrebbero non esistere nel progetto).
 
-> Nota: non potendo modificare direttamente i file tramite strumenti, ti fornisco il contenuto “finale” completo da mettere in `README.md`.
+Qui sotto trovi un contenuto **pronto da copiare/incollare in `README.md`**:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
-Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione **estremamente resistenti** e **a lunga durata**, riducendo la necessità di sostituzioni frequenti e migliorando l’efficienza energetica.
+Questo progetto nasce per sviluppare soluzioni di illuminazione **più resistenti e con maggiore durata**, con l’obiettivo di ridurre manutenzioni e sostituzioni nel tempo, migliorando al contempo l’efficienza.
 
 ---
 
-## Panoramica
+## Idee e obiettivi
 
-**Unfragile Bulbs** mira a progettare lampadine pensate per resistere meglio nel tempo a urti, vibrazioni e condizioni d’uso impegnative.  
-L’approccio combina **materiali avanzati** e **tecnologie moderne** per ottenere:
+**Unfragile Bulbs** mira a progettare lampadine pensate per durare di più anche in condizioni d’uso impegnative, grazie a:
 
-- maggiore affidabilità
-- minori manutenzioni
-- riduzione dell’impatto ambientale
-
----
-
-## Obiettivi principali
-
-- **Durata eccezionale**: progettate per durare significativamente più a lungo rispetto ai modelli tradizionali.
-- **Efficienza energetica**: consumo ridotto e miglioramento del rendimento.
-- **Resistenza strutturale**: materiali innovativi per urti, vibrazioni e ambienti difficili.
-- **Design moderno**: estetica curata e compatibile con contesti domestici e industriali.
+- **maggiore affidabilità** (riduzione guasti nel tempo)
+- **minori manutenzioni** e sostituzioni più rare
+- **riduzione dell’impatto ambientale** (meno rifiuti e produzione)
+- **efficienza energetica** e migliore rendimento
 
 ---
 
-## Approccio e funzionalità
+## Approccio
 
-Il progetto adotta una logica **hardware + software**, con particolare attenzione a:
+Il progetto adotta una logica **hardware + software**, con focus su:
 
-- qualità dei componenti
+- qualità e robustezza dei componenti
 - gestione e ottimizzazione dell’utilizzo
-- monitoraggio e ottimizzazione delle prestazioni
+- raccolta/monitoraggio (quando applicabile) e ottimizzazione delle prestazioni
 
 ---
 
-## Tecnologie utilizzate
+## Tecnologie (high level)
 
-- **JavaScript**: sviluppo di interfacce utente e funzionalità interattive.
-- **Hardware avanzato**: componenti elettronici di alta qualità per prestazioni stabili.
-- **Software di gestione**: strumenti per monitorare e ottimizzare l’uso delle lampadine.
+Attualmente il progetto è in **JavaScript**.  
+Se in futuro verranno aggiunti componenti specifici (UI, web app, firmware, strumenti di test, ecc.), questa sezione verrà aggiornata con dettagli concreti.
+
+---
+
+## Roadmap (esempio)
+
+- [ ] Definire requisiti e casi d’uso principali
+- [ ] Prototipo e test di resistenza/durabilità
+- [ ] Ottimizzazione prestazioni e consumi
+- [ ] Raccolta feedback e miglioramenti iterativi
+
+> Se vuoi, posso adattare questa roadmap allo stato reale della repo (servono cartelle e/o output dei file principali).
+
+---
+
+## Contribuire
+
+Contributi e suggerimenti sono benvenuti!  
+Per partecipare:
+
+1. Apri una **issue** per discutere la modifica che vuoi proporre
+2. Fai una **pull request** con una descrizione chiara dei cambiamenti
+
+*(Se mi dici quali convenzioni usare—es. commit message, branch strategy, ecc.—posso inserirle in modo preciso.)*
 
 ---
 
 ## Licenza
 
-Questo progetto è distribuito sotto licenza **[MIT](https://opensource.org/licenses/MIT)**.  
+Questo progetto è rilasciato sotto licenza **MIT**.  
 Per i dettagli, consulta il file `LICENSE`.
 
 ---
 
 ## Contatti
 
-Per informazioni o collaborazioni:
-
-- **Email**: riccardo.figliozzi@example.com
 - **GitHub**: [RiccardoFigliozzi](https://github.com/RiccardoFigliozzi)
+- **Email**: riccardo.figliozzi@example.com
 
 ---
 
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se vuoi, nel prossimo step posso anche:
-1) adattarlo perfettamente alla struttura reale del repo (se mi incolli l’albero delle cartelle e/o i comandi di build/avvio tipo `npm install`, `npm run ...`);  
-2) aggiungere sezioni utili: **Installazione**, **Come contribuire**, **Roadmap**, **Screenshot/GIF**.
+### Prossimo step (consigliato)
+Se vuoi che il README sia **perfettamente allineato** al repo (sezioni *Installazione*, *Come avviare*, *Struttura progetto*, ecc.), incollami qui:
+- albero cartelle (anche solo `ls` / elenco) oppure i nomi delle cartelle principali
+- eventuali comandi presenti (es. `package.json` con `scripts`)
+- se c’è un `index.html`, `vite/webpack`, o una CLI specifica
 
-Dimmi quale preferisci.
+e lo adatto “su misura”.

@@ -1,9 +1,10 @@
-Ho provato a usare il tool **“Repository”**, ma per questa repository ottengo **solo metadati** (nome, branch, licenza, ecc.) e **non il contenuto dei file** (quindi non posso leggere né la sezione `scripts` di `package.json` né il testo attuale di `README.md`).
+Posso farlo, ma prima mi servono **i contenuti testuali** richiesti:
 
-Per procedere come richiesto, incolla qui (testualmente):
+1) la sezione **`scripts`** di `package.json`  
+2) l’attuale **`README.md` completo** (tutto il file, copiato e incollato)
 
-1) **La sezione `scripts` di `package.json`**  
-2) **L’attuale `README.md` completo**  
+Al momento, dai tool disponibili riesco a ottenere **solo metadati della repository** (non il contenuto dei file), quindi non posso leggere `package.json` né il README.
 
-e dimmi anche la **lingua** desiderata: **Italiano** oppure **Inglese**.  
-Appena me li fornisci, ti preparo un **nuovo `README.md` completo pronto da sostituire**.
+Inoltre dimmi la **lingua desiderata** per il nuovo README: **Italiano** oppure **Inglese**.
+
+Appena mi incolli (1) e (2) + la lingua, ti preparo un **nuovo README.md completo pronto da sostituire**.

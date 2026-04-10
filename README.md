@@ -1,16 +1,17 @@
-Perfetto: ho individuato la repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**, ma con il tool disponibile al momento vedo solo metadati (non il contenuto dei file), quindi non posso ancora riscrivere/“migliorare” il `README.md`.
+Perfetto—posso migliorare il `README.md`, ma in questo momento con lo strumento disponibile vedo solo i metadati della repository, non i contenuti dei file.
 
-### Domande rapide
-1) README finale in **Italiano** o **Inglese**?  
-2) Lo vuoi **pronto da copiare** oppure preferisci prima una **bozza/struttura**?
-
-### Per procedere (scelta consigliata)
-Per migliorare il README mi serve il contenuto di almeno:
+Per procedere ho bisogno di leggere **almeno**:
 - `README.md`
-- `package.json` (specie la sezione `"scripts"`)
+- `package.json` (soprattutto la sezione `"scripts"`)
 
-**Conferma la modalità che preferisci:**
+👉 **Conferma la modalità:**
 - **Opzione A (consigliata):** abilita/usa un tool “View raw file / Get file content” (o equivalente) per leggere `contents/README.md` e `contents/package.json`.
-- **Opzione B:** incolla qui il contenuto attuale di `README.md` (anche parziale) e la sezione `"scripts"` di `package.json`.
+- **Opzione B:** incolla qui:
+  1) il contenuto attuale di `README.md` (anche parziale)
+  2) la sezione `"scripts"` di `package.json`
 
-👉 Se scegli **Opzione A**, dimmi anche **come si chiama esattamente** nel tuo sistema quel tool/endpoint (nome funzione).
+In più dimmi solo:
+1) Lo vuoi finale in **Italiano** o **Inglese**?
+2) Preferisci **pronto da copiare** o una **bozza/struttura** prima?
+
+> Nota: se scegli **Opzione A**, dimmi anche **come si chiama esattamente** nel tuo sistema quel tool/endpoint (nome funzione).

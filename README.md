@@ -1,12 +1,11 @@
-Perfetto—posso migliorare il `README.md`, ma al momento non ho accesso al contenuto del file stesso tramite lo strumento disponibile: il tool **Repository** mi restituisce solo i metadati della repo (nome, descrizione, licenza, ecc.), non il testo di `README.md`.
+Al momento non posso migliorare il `README.md` perché, con lo strumento **Repository** che ho a disposizione, ottengo solo metadati della repo (nome, license, ecc.) e **non il contenuto dei file** come `README.md`.
 
-Per procedere devo che tu mi incolli qui **il contenuto attuale completo** di `README.md` (anche se lungo). Volendo, puoi anche incollare:
-- eventuale sezione rilevante di `package.json` (es. `scripts`), se è usata nel README
-- eventuali file collegati (es. `CONTRIBUTING.md`, `CHANGELOG.md`) se il README li richiama
+Per procedere ho bisogno che tu mi incolli qui **il testo completo attuale di `README.md`** (anche se lungo). Appena lo incolli, ti restituisco:
+- una versione **migliorata** e riscritta (struttura, chiarezza, sezioni mancanti, comandi, badge, ecc.)
+- pronta da sostituire nel repository
 
-👉 Appena me lo fornisci, ti preparo una versione migliorata e pronta da sostituire.
+In alternativa, se preferisci, incolla anche:
+- eventuali pezzi di `package.json` (se includono `scripts` per avvio/test/build)
+- riferimenti a file tipo `CONTRIBUTING.md` / `CHANGELOG.md` se presenti nel README
 
-In alternativa, se preferisci, dimmi anche:
-- la **tecnica stack** (es. Node/React/Vite/Express, ecc.)
-- come si avvia il progetto (comandi tipici)
-- se il README deve essere in **italiano**, **inglese** o bilingue
+Quando vuoi, incolla qui il contenuto del `README.md`.

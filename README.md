@@ -1,4 +1,4 @@
-Ecco una versione migliorata e più “repository-ready” di **README.md**, mantenendo un tono **high-level** e senza aggiungere dettagli non verificati (ho solo reso la formattazione più coerente e aggiunto un paio di sezioni utili ma generiche).
+Ecco una versione migliorata di **README.md** (stessa impostazione high-level, ma più “pulita” e strutturata; nessun dettaglio tecnico aggiunto non verificato).
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -6,7 +6,7 @@ Ecco una versione migliorata e più “repository-ready” di **README.md**, man
 Benvenuti in **Aeternum (Unfragile Bulbs)**!  
 Questo progetto nasce con l’obiettivo di sviluppare soluzioni di illuminazione pensate per durare nel tempo: più **affidabili** e **longeve**, con meno **manutenzione** e meno **sostituzioni**.
 
-> Nota: questo README è intenzionalmente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
+> Nota: questo README è volutamente **high-level** finché non viene verificata la struttura reale del repository (es. cartelle, file, `package.json`, script di build/test, ecc.).
 
 ---
 
@@ -89,4 +89,7 @@ Per i dettagli, consulta il file `LICENSE`.
 *Creato con ❤️ da Riccardo Figliozzi*
 ```
 
-Se mi confermi il tono che preferisci (**più tecnico** o **più marketing/proposta**), posso rifinirlo ulteriormente. Inoltre, se vuoi che lo renda davvero “completo”, posso aggiornare il README dopo aver controllato nel repository (cartelle, `package.json`, comandi di avvio/test, ecc.).
+Se vuoi, posso anche rifinirlo ulteriormente in base a uno stile preferito:
+1) più **tecnico/engineering**, oppure 2) più **marketing/proposta**.
+
+Inoltre: confermi che il README può includere **installazione/avvio e comandi** *solo dopo* che controllo la struttura del repo?

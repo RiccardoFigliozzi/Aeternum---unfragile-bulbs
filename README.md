@@ -1,8 +1,10 @@
-Non riesco ancora a modificare davvero `README.md` perché, in questa sessione, il tool **Repository** che ho a disposizione mi fornisce solo metadati (nome repo, descrizione, permessi, ecc.) e **non permette di leggere il contenuto dei file** come `README.md` o `package.json`.
+Ho capito cosa ti serve, ma in questa sessione il tool **Repository** che ho a disposizione mi restituisce solo metadati della repo (nome, descrizione, permessi, ecc.) e **non mi permette di leggere direttamente** il contenuto di `README.md` o di `package.json`.
 
-Quindi per poterti restituire un README “migliorato” mi servono queste due cose, copiate qui testualmente:
+Quindi non posso prendere il tuo README attuale né la sezione `"scripts"` da `package.json` senza che tu li incolli qui.
+
+Per favore incolla qui testualmente:
 
 1) **contenuto attuale integrale** di `README.md`  
 2) **sezione `"scripts"`** di `package.json`
 
-Incolla qui quei due testi e lo preparo subito (con struttura migliore, sezioni chiare, comandi, requisiti e badge se utili).
+Appena me li dai, ti preparo subito una versione “migliorata” del README (struttura chiara, sezioni, prerequisiti, comandi, eventuali badge).

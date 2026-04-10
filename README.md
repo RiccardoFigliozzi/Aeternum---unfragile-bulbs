@@ -1,52 +1,47 @@
-Ho controllato i metadati della repository **RiccardoFigliozzi/Aeternum---unfragile-bulbs**: progetto **JavaScript** e **licenza MIT**.
+Ecco una versione migliorata e più “pulita” del tuo `README.md`, mantenendo solo informazioni verificabili (JavaScript + MIT) e rendendo le parti non verificabili **esplicitamente da completare** senza essere ridondanti.
 
-Però, in questa sessione, non ho accesso al contenuto attuale di `README.md` né ai file del repository (es. `package.json`) tramite i tool disponibili, quindi **non posso** aggiornare in modo “realmente fully usable” con i comandi di install/build/test.
-
-Detto questo, posso comunque migliorare il tuo `README.md` rendendolo più chiaro, pulito e coerente, mantenendo solo informazioni verificabili e lasciando le parti non verificabili come *da confermare*. Qui sotto trovi una versione migliorata pronta da incollare in `README.md`:
+> Puoi copiare/incollare direttamente questa nel file `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
 
-## Informazioni
+## Progetto
 - **Linguaggio:** JavaScript
 - **Licenza:** MIT License  
-  Link licenza (MIT): https://api.github.com/licenses/mit
+  https://api.github.com/licenses/mit
 
 ## Panoramica
-Questo progetto è **da confermare**: con i soli metadati attualmente disponibili non è possibile verificare con certezza:
-- scopo/obiettivo del progetto,
-- framework o librerie utilizzate,
-- struttura del repository,
-- dipendenze e tooling,
-- comandi di avvio, build e configurazioni.
+**Da completare:** aggiungere una breve descrizione dello scopo del progetto (es. che cosa fa, per chi è pensato e quali sono le funzionalità principali).
 
-## Installazione (da confermare)
-**Da confermare:** per fornire istruzioni accurate (es. `npm install`, eventuale setup aggiuntivo, variabili d’ambiente) è necessario verificare la configurazione del repository, tipicamente:
-- `package.json`
-- eventuale documentazione aggiuntiva (es. `.env.example`, guide nel repo)
+## Come usare
+**Da completare:** includere i passaggi per installare ed eseguire il progetto.
 
-## Avvio / Build (da confermare)
-**Da confermare:** per indicare comandi corretti (es. `npm start`, `npm run build`, ecc.) è necessario controllare la sezione `scripts` di `package.json`.
-
-## Test e Lint (da confermare)
-**Da confermare:** per includere comandi di test e/o lint/format e/o step CI, verificare:
-- presenza di `scripts` in `package.json`,
-- strumenti di testing (es. Jest/Vitest),
-- strumenti di lint/format (es. ESLint/Prettier),
-- eventuali file di configurazione (es. `.eslintrc*`, `prettier.config.*`, ecc.).
-
-## Contribuire (da confermare)
-**Da confermare:** per rendere la guida completa, verificare (o aggiungere) nel repository:
-- linee guida per issue e pull request,
-- convenzioni di formattazione (lint/format),
-- procedura per testare e validare le modifiche.
-
-## Prossimi passi
-Se vuoi che questo README diventi **fully usable**, incollami qui:
-1. il contenuto attuale di `README.md`
-2. la sezione **`scripts`** di `package.json` (e, se presente, eventuali file tipo `.env.example`)
-
-Con queste informazioni posso aggiornare le sezioni **Installazione**, **Avvio/Build** e **Test/Lint** con comandi reali, senza lasciare troppe parti “da confermare”.
+Esempio (da adattare ai dettagli del repo):
+```bash
+npm install
+npm run dev
 ```
 
-Se mi incolli tu `README.md` attuale e la sezione `scripts` di `package.json`, te lo riporto aggiornato con comandi concreti (senza “da confermare” dove non serve).
+## Build
+**Da completare:** indicare il comando di build corretto (dipende da `package.json`), ad es.:
+- `npm run build`
+
+## Test / Lint
+**Da completare:** indicare i comandi per test e/o lint, se presenti (dipende da `package.json`).
+
+## Contribuire
+**Da completare:** linee guida per contribuire (workflow, stile del codice, come aprire issue/PR, ecc.).
+
+## Informazioni aggiuntive
+Per rendere questa sezione *fully usable*, servono i contenuti di:
+- la sezione **`scripts`** di `package.json`
+- eventuali file di esempio come **`.env.example`** (se presenti)
+
+Se mi incolli `README.md` attuale e la parte `scripts` di `package.json`, posso aggiornare la guida con comandi reali (installazione, avvio, build e test) eliminando quasi tutte le parti “da completare”.
+```
+
+Se vuoi, incollami qui:
+1) l’attuale contenuto di `README.md` (anche solo la parte principale)  
+2) la sezione `scripts` di `package.json`  
+
+e te lo riscrivo in versione definitiva con comandi concreti.

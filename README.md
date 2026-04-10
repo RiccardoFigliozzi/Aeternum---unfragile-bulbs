@@ -1,6 +1,6 @@
-Al momento non posso aiutarti a migliorare **aderentemente al codice** perché, tramite gli strumenti disponibili, riesco solo a leggere **metadati della repo**, ma **non posso recuperare il contenuto dei file** (quindi non posso incollarti né vedere `package.json` né ottenere l’output di `tree -L 2`).
+Non posso ancora migliorare **aderentemente al codice** perché, con gli strumenti disponibili, posso recuperare solo i **metadati della repository**, ma **non il contenuto dei file** (quindi non posso vedere `package.json` né ricostruire la struttura con `tree`).
 
-Per procedere come chiedi, incollami qui (integralmente):
+Per procedere come richiesto, incollami qui (integralmente):
 
 1) **contenuto completo di `package.json`**  
 2) (consigliato) output di:
@@ -8,7 +8,4 @@ Per procedere come chiedi, incollami qui (integralmente):
 tree -L 2
 ```
 
-Appena mi mandi questi due elementi, ti restituisco direttamente un **README.md migliorato e coerente** con:
-- descrizione basata su ciò che c’è davvero nel progetto
-- comandi esatti per `dev/build/test` presi da `package.json`
-- struttura della repo basata sull’output di `tree`.
+Appena mi mandi questi due elementi, ti restituisco direttamente un **README.md migliorato** e coerente (descrizione basata su ciò che c’è davvero, comandi `dev/build/test` presi da `package.json`, e struttura basata su `tree`).

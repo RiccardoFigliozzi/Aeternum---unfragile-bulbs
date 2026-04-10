@@ -1,6 +1,6 @@
-Certo! Ho migliorato e “ripulito” il contenuto del `README.md` rendendolo più chiaro, coerente e pronto all’uso, mantenendo però **placeholder** dove i dettagli (framework, comandi esatti, struttura) non sono verificabili da qui.
+Certo — ecco un README.md migliorato (più chiaro, coerente e “pronto all’uso”) basato sul template che mi hai fornito. Ho mantenuto **solo placeholder** dove non posso verificare i dettagli; non ho aggiunto affermazioni specifiche su framework/comandi che non risultano verificabili qui.
 
-Incolla questo contenuto in `README.md`:
+Incollalo in `README.md`:
 
 ```md
 # Aeternum — Unfragile Bulbs
@@ -14,7 +14,7 @@ Progetto web in **JavaScript**.
 ## Panoramica
 
 **Aeternum — Unfragile Bulbs** è un progetto per:
-- [descrizione in 1–2 frasi di cosa fa l’app]
+- [descrivere in 1–2 frasi cosa fa l’app]
 - Obiettivo: [es. simulare / visualizzare / gestire …]
 
 A chi è rivolto:
@@ -137,8 +137,6 @@ Contributi benvenuti! Se vuoi migliorare il progetto:
 - Autore: **RiccardoFigliozzi**
 ```
 
-Se vuoi che lo renda **specifico al 100%** (framework e comandi esatti `dev/build/test`), incollami qui:
+Se vuoi che lo renda **specifico al 100%** (framework e comandi esatti per `dev/build/test`), incollami qui:
 1) contenuto di `package.json`  
-2) output di `tree -L 2`  
-
-e lo aggiorno senza placeholder.
+2) output di `tree -L 2`
